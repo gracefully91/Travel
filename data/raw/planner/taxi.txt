@@ -1,0 +1,6743 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	
+
+
+
+
+
+
+
+
+
+
+<title>
+    교통이용정보  | 평창군청 &gt; 분야별정보 &gt; 교통 &gt; 교통행정 &gt; 교통이용정보
+</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="generator" content="" />
+<meta name="author" content="" />
+<meta property="og:title" content="교통이용정보  | 평창군청 &gt; 분야별정보 &gt; 교통 &gt; 교통행정 &gt; 교통이용정보" />
+<meta property="og:url" content="http://www.pc.go.kr/" />
+<meta property="og:image" content="/page/portal/images/common/img-logo.png" />
+<meta property="og:description" content="" />
+
+	
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/page/common/css/fonts.css">
+<link rel="stylesheet" href="/page/common/css/common.css?ver=20250725">
+<link rel="stylesheet" href="/page/common/css/jquery-ui.min.css">
+
+    <link rel="stylesheet" href="/page/common/css/jquery.bxslider.min.css"/>
+    <link rel="stylesheet" href="/page/common/css/print.css" media="print"/>
+
+
+<link rel="stylesheet" href="/page/portal2024/css/app.css?ver=20251127">
+<link rel="stylesheet" href="/page/portal2024/css/sub.css?ver=20251127" />
+
+
+    <link rel="stylesheet" href="/page/portal2024/css/content.css?ver=20250725">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha256-Z1K5uhUaJXA7Ll0XrZ/0JhX4lAtZFpT6jkKrEDT0drU=" crossorigin="anonymous">
+
+
+
+	 
+
+
+
+
+
+
+<script src="/page/common/js/jquery-3.6.0.min.js"></script>
+<script src="/page/common/js/jquery.cookie.js"></script>
+<script src="/page/common/js/jquery-ui.min.js"></script>
+<script src="/page/common/js/puble_common.js"></script>
+<script src="/page/common/js/slick.min.js"></script>
+<script src="/page/common/js/common.js?ver=20261109"></script>
+<script src="/page/common/js/util.js"></script>
+
+    <script src="/page/common/js/VM11249.js"></script>
+
+<script src="/page/portal2024/js/app.js?ver=20251127"></script>
+<script src="/page/portal2024/js/sub.js?ver=20251127"></script>
+
+</head>
+
+<body>
+<div id="wrapper" class="page-wrap">
+	<ul class="skipnav">
+		<li><a href="#A-Gnb-focus">주메뉴 바로가기</a></li>
+		<li><a href="#A-Contents-focus">본문 바로가기</a></li>
+		<li><a href="#A-Ftr-focus">푸터 바로가기</a></li>
+	</ul>
+	
+		
+		
+		
+		
+			
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".totalSearch").click(function() {
+			var varForm = document.getElementById("totalSearch");
+
+			varForm.action = "/search";
+			totalSearch.submit();
+		});
+	});
+</script>
+<header id="header">
+	<div class="ev_box">
+		<div class="logo_gover layout inner">
+			<div>
+				<img src="/page/common/images/eg_logo.png" alt="태극기">
+				<span class="gover_t">이 누리집은 대한민국 공식 전자정부 누리집입니다.</span>
+			</div>
+		</div>
+	</div>
+	<div class="header_top">
+		<div class="inner">
+			<div class="page_btn">
+				<a href="https://tour.pc.go.kr/Home/index" target="_blank" title="새창" rel="noopener noreferrer">
+					<span>문화관광</span>
+				</a>
+				<a href="https://cl.happy700.or.kr/kr/main.do" target="_blank" title="새창" rel="noopener noreferrer">
+					<span>평창군의회</span>
+				</a>
+				<a href="https://pc.go.kr/pcsarang" target="_blank" title="새창" rel="noopener noreferrer">
+					<span>평창사랑상품권</span>
+				</a>
+				<a href="https://reserve.pc.go.kr" target="_blank" title="새창" rel="noopener noreferrer">
+					<span>평창예약시스템</span>
+				</a>
+				<div class="lang-bx">
+					<a href="/portal" class="ibtn">
+						<img src="/page/portal2024/images/main/Language-1.png" alt="language">
+					</a>
+					<div id="google_translate_element" style="display:none;"></div>
+					<div class="lang-view translation-links">
+						<a href="javascript:void(0)" data-lang="en"> English</a>
+						<a href="javascript:void(0)" data-lang="zh-CN"> 中国语</a>
+						<a href="javascript:void(0)" data-lang="ja"> 日本語</a>
+						<a href="javascript:void(0)" data-lang="ru"> Русский</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="inner">
+		<div class="top-bx">
+			<div class="logo-bx">
+				<h1>
+					<a href="/portal">
+						<img src="/page/portal2024/images/main/logo.png" alt="평창군 로고">
+					</a>
+				</h1>
+			</div>
+			<div class="search_box">
+				<form name="totalSearchForm" method="get" action="/search" autocomplete="off">
+					
+					<fieldset>
+						<label for="total-search" class="blind">검색</label>
+						<input type="search" name="searchKeyword" value="" id="total-search" placeholder="검색어를 입력하세요" />
+						<div class="submit-bx">
+							<input type="submit" value="검색" class="btn-total-search"/>
+						</div>
+					</fieldset>
+				</form>
+			</div>
+			<div class="btn-bx">
+				<a href="/portal/useguide/useguide-sitemap" class="sitemap">
+					<img src="/page/portal2024/images/main/allmenu.png" alt="사이트맵">
+				</a>
+			</div>
+		</div>
+		<div class="nav-bx" id="A-Gnb-focus">
+			<nav class="clearfix">
+				<div class="mobile-search">
+					<form name="totalSearchForm" method="get" action="/search" autocomplete="off">
+					
+						<fieldset>
+							<label for="search" class="blind">검색</label>
+							<input type="search" name="searchKeyword" value="" id="Search" placeholder="검색어를 입력하세요">
+							<div class="submit-bx">
+								<input type="submit" value="검색" class="btn-total-search">
+							</div>
+						</fieldset>
+					</form>
+				</div>
+				<ul class="depth-01">
+					
+						
+							
+								
+							
+							
+
+							<li>
+								<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+								<div class="tlv-02 ">
+									<a href="/portal/guide" target="_self" >
+										<span>민원안내</span>
+									</a>
+								</div>
+								
+									<ul class="depth-02 ">
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/guide/guide-apply" target="_self" >
+															
+															<span>민원신청</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-apply/guide-apply-civil" target="_self" >
+																				<span>전자민원창구</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-apply/guide-apply-advice" target="_self" >
+																				<span>민원상담신청</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-apply/guide-apply-mycivil" target="_self" >
+																				<span>민원처리결과(인터넷)</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																	
+																		
+																			
+																				
+																			
+																			
+																		
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="https://eminwon.pc.go.kr/emwp/gov/mogaha/ntis/web/emwp/cmmpotal/action/EmwpMainMgtAction.do" target="_blank" title='새창열림' rel='noopener noreferrer'>
+																				<span>민원처리결과(방문)</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																	
+																		
+																			
+																				
+																			
+																			
+																		
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="https://docu.gdoc.go.kr" target="_blank" title='새창열림' rel='noopener noreferrer'>
+																				<span>문서24</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/guide/guide-issue" target="_self" >
+															
+															<span>민원발급</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-issue/guide-issue-government" target="_self" >
+																				<span>인터넷 민원발급</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-issue/guide-issue-manless" target="_self" >
+																				<span>무인민원발급기</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-issue/guide-issue-everywhere" target="_self" >
+																				<span>어디서나 민원신청</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/guide/guide-show" target="_self" >
+															
+															<span>민원안내</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-show/guide-show-chart" target="_self" >
+																				<span>종합민원실 배치도</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																	
+																		
+																			
+																				
+																			
+																			
+																		
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="https://efamily.scourt.go.kr/index.jsp" target="_blank" title='새창열림' rel='noopener noreferrer'>
+																				<span>가족관계등록안내</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-show/guide-show-passport" target="_self" >
+																				<span>여권발급안내</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-show/guide-show-examination" target="_self" >
+																				<span>사전심사청구제도</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-show/guide-show-guardian" target="_self" >
+																				<span>민원후견인제도</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-show/guide-show-signature" target="_self" >
+																				<span>본인서명 사실확인</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																	
+																		
+																			
+																				
+																			
+																			
+																		
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="https://www.share.go.kr/fa/fa010/newFa/infoPlace/nonTakeDocumentAbc.jsp" target="_blank" title='새창열림' rel='noopener noreferrer'>
+																				<span>행정정보공동이용</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-show/guide-show-charge" target="_self" >
+																				<span>민원수수료</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-show/AdvMinwon" target="_self" >
+																				<span>우선배려창구 운영</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-show/info-communications" target="_self" >
+																				<span>정보통신설비 유지보수·관리 제도</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/guide/guide-forms" target="_self" >
+															
+															<span>민원서식/사무편람</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/guide/guide-charter" target="_self" >
+															
+															<span>행정서비스헌장</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-charter/guide-charter-service" target="_self" >
+																				<span>행정서비스헌장 안내</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-charter/guide-charter-common" target="_self" >
+																				<span>공통이행기준</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/guide/guide-charter/guide-charter-part" target="_self" >
+																				<span>분야별 서비스 이행</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="https://www.simpan.go.kr/" target="_blank" title='새창열림' rel='noopener noreferrer'>
+															
+															<span>행정심판</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+							
+								
+							
+							
+
+							<li>
+								<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+								<div class="tlv-02 ">
+									<a href="/portal/participation" target="_self" >
+										<span>참여마당</span>
+									</a>
+								</div>
+								
+									<ul class="depth-02 ">
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/participation/participation-openplace" target="_self" >
+															
+															<span>열린광장</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-openplace/participation-openplace-all" target="_self" >
+																				<span>전체</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-openplace/participation-openplace-freediscussion" target="_self" >
+																				<span>자유토론</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-openplace/participation-openplace-marketplace" target="_self" >
+																				<span>알뜰장터</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-openplace/participation-openplace-complimen" target="_self" >
+																				<span>칭찬합시다</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-openplace/participation-openplace-guin" target="_self" >
+																				<span>구인구직</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/participation/participation-offer" target="_self" >
+															
+															<span>군민제안</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-offer/participation-offer-guide" target="_self" >
+																				<span>군민제안안내</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-offer/participation-offer-happy" target="_self" >
+																				<span>군민행복제안</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																	
+																		
+																			
+																				
+																			
+																			
+																		
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="https://www.sinmungo.go.kr/sz2.prpsl.main" target="_blank" title='새창열림' rel='noopener noreferrer'>
+																				<span>국무조정실 규제신문고</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/participation/participation-budget" target="_self" >
+															
+															<span>주민참여예산</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-budget/participation-budget-collect" target="_self" >
+																				<span>주민참여예산 사업 제안</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-budget/participation-budget-open" target="_self" >
+																				<span>주민참여예산 소식</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-budget/participation-budget-formation" target="_self" >
+																				<span>예산편성설문조사</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																	
+																		
+																			
+																				
+																			
+																			
+																		
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="https://pb.lofin365.go.kr/pyeongchang/main" target="_blank" title='새창열림' rel='noopener noreferrer'>
+																				<span>주민e참여</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/participation/participation-center" target="_self" >
+															
+															<span>신고/신청센터</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-center/participation-center-apply" target="_self" >
+																				<span>가로등수리신청</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																	
+																		
+																			
+																				
+																			
+																			
+																		
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="http://www.uriad.com/ipcad/" target="_blank" title='새창열림' rel='noopener noreferrer'>
+																				<span>현수막지정게시신청</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-center/participation-center-report" target="_self" >
+																				<span>부정·불량식품신고</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-center/participation-center-property" target="_self" >
+																				<span>부동산불법거래신고</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-center/participation-center-sinmungo" target="_self" >
+																				<span>환경신문고</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-center/participation-center-personalinfo" target="_self" >
+																				<span>개인정보·유출신고</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-center/participation-center-budget" target="_self" >
+																				<span>예산낭비신고</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																	
+																		
+																			
+																				
+																			
+																			
+																		
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="https://www.safetyreport.go.kr/api?apiKey=4280000PE6GH8GLORDPVA4VCN3G" target="_blank" title='새창열림' rel='noopener noreferrer'>
+																				<span>안전신고</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-center/regulation" target="_self" >
+																				<span>규제입증요청제</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-center/seriousdisaster" target="_self" >
+																				<span>중대재해 신고</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/participation-center/alba" target="_self" >
+																				<span>청년 아르바이트 신청</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+															
+																
+																	
+																	
+																		
+																			
+																				
+																			
+																			
+																		
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="https://pc.dvous.or.kr/" target="_blank" title='새창열림' rel='noopener noreferrer'>
+																				<span>청소년 꿈키움 바우처 신청</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/participation/upright" target="_self" >
+															
+															<span>청렴소통</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/upright/participation-center-irrationality" target="_self" >
+																				<span>반부패 청렴 신고센터</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/upright/representative" target="_self" >
+																				<span>비실명 대리신고(안심신고 변호사)</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/upright/emblem" target="_self" >
+																				<span>청렴 슬로건&amp;마스코트</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/upright/info-admin-upright" target="_self" >
+																				<span>반부패·청렴자료실</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/upright/inspector" target="_self" >
+																				<span>평창군 도민감사관</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/participation/upright/disciplinary" target="_self" >
+																				<span>부패공직자 제재현황</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/participation/participation-survey" target="_self" >
+															
+															<span>설문조사</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+							
+								
+							
+							
+
+							<li>
+								<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+								<div class="tlv-02 ">
+									<a href="/portal/info" target="_self" >
+										<span>정보공개</span>
+									</a>
+								</div>
+								
+									<ul class="depth-02 ">
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/info/info-open" target="_self" >
+															
+															<span>정보공개</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-open/info-open-use" target="_self" >
+																				<span>정보공개제도 안내</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-open/info-open-law" target="_self" >
+																				<span>정보공개청구 처리절차</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-open/info-open-charge" target="_self" >
+																				<span>정보공개 수수료</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-open/info-open-help" target="_self" >
+																				<span>정보공개 불복구제절차</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-open/info-open-notopen" target="_self" >
+																				<span>정보공개 비공개대상</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-open/info-open-infolist" target="_self" >
+																				<span>정보공개(정보목록)</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																	
+																		
+																			
+																				
+																			
+																			
+																		
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="https://www.open.go.kr/othicInfo/infoList/orginlInfoList.do" target="_blank" title='새창열림' rel='noopener noreferrer'>
+																				<span>정보공개(원문정보)</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-open/info-open-advance-list" target="_self" >
+																				<span>사전정보공표 목록</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-open/info-open-advance" target="_self" >
+																				<span>사전정보공표 자료</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-open/info-open-old_publication" target="_self" >
+																				<span>(구)행정정보공표</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-open/info-open-opendata" target="_self" >
+																				<span>공공데이터개방</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/info/info-admin" target="_self" >
+															
+															<span>행정정보공개</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-admin/intro-countyoffice-infoopen" target="_self" >
+																				<span>조직 정보공개</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-admin/hr-infoopen" target="_self" >
+																				<span>인사 정보공개</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-admin/info-admin-plan" target="_self" >
+																				<span>감사 계획·결과 공개</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-admin/info-admin-map" target="_self" >
+																				<span>공유재산 목록</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-admin/info-admin-publicity" target="_self" >
+																				<span>정책홍보</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-admin/positiveadmin" target="_self" >
+																				<span>적극행정</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/info/info-finance" target="_self" >
+															
+															<span>재정정보공개</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-finance/info-finance-budgetary" target="_self" >
+																				<span>예산서</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-finance/info-finance-plan" target="_self" >
+																				<span>기금운용계획서</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-finance/info-finance-middle" target="_self" >
+																				<span>중기지방재정계획</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-finance/info-finance-public" target="_self" >
+																				<span>재정공시</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																	
+																		
+																			
+																				
+																			
+																			
+																		
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="https://www.prism.go.kr/homepage" target="_blank" title='새창열림' rel='noopener noreferrer'>
+																				<span>연구용역결과공개</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-finance/info-finance-settlement" target="_self" >
+																				<span>결산서</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																	
+																		
+																			
+																				
+																			
+																			
+																		
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="https://www.pc.go.kr/contract" target="_blank" title='새창열림' rel='noopener noreferrer'>
+																				<span>세입세출 계약정보공개</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-finance/info-finance-history" target="_self" >
+																				<span>집행현황 공개</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-finance/negativereceipt" target="_self" >
+																				<span>지방보조금 부정수급자 명단</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-finance/subsidy" target="_self" >
+																				<span>지방보조금 중요재산 현황</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/info/info-real" target="_self" >
+															
+															<span>정책실명제</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-real/PolicyRealname" target="_self" >
+																				<span>정책실명제</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-real/businessTarget" target="_self" >
+																				<span>정책실명제 중점관리 대상사업</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/info/info-real/applicationSystem" target="_self" >
+																				<span>국민신청실명제</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="https://www.elis.go.kr/locgovalr/locgovClAlrList?ctpvSggCd=42760" target="_blank" title='새창열림' rel='noopener noreferrer'>
+															
+															<span>자치법규</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+							
+								
+							
+							
+
+							<li>
+								<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+								<div class="tlv-02 ">
+									<a href="/portal/part" target="_self" >
+										<span>분야별정보</span>
+									</a>
+								</div>
+								
+									<ul class="depth-02 icon-bx">
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/part/part-area" target="_self" >
+															
+																<em class="icon">
+																	<img src="/page/portal2024/images/main/MNAA0126.png" alt="경제 및 일자리">
+																</em>
+															
+															<span>경제 및 일자리</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/part/part-city" target="_self" >
+															
+																<em class="icon">
+																	<img src="/page/portal2024/images/main/MNAA0154.png" alt="지역 및 생활">
+																</em>
+															
+															<span>지역 및 생활</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/part/part-taxation" target="_self" >
+															
+																<em class="icon">
+																	<img src="/page/portal2024/images/main/MNAA0159.png" alt="세무">
+																</em>
+															
+															<span>세무</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/part/part-property" target="_self" >
+															
+																<em class="icon">
+																	<img src="/page/portal2024/images/main/MNAA0171.png" alt="부동산">
+																</em>
+															
+															<span>부동산</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/part/environment" target="_self" >
+															
+																<em class="icon">
+																	<img src="/page/portal2024/images/main/MNPC0493.png" alt="환경">
+																</em>
+															
+															<span>환경</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/part/part-hygiene" target="_self" >
+															
+																<em class="icon">
+																	<img src="/page/portal2024/images/main/MNAA0184.png" alt="위생">
+																</em>
+															
+															<span>위생</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="https://pc.go.kr/health" target="_blank" title='새창열림' rel='noopener noreferrer'>
+															
+																<em class="icon">
+																	<img src="/page/portal2024/images/main/MNAA0209.png" alt="보건의료원">
+																</em>
+															
+															<span>보건의료원</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="https://pc.go.kr/agri" target="_blank" title='새창열림' rel='noopener noreferrer'>
+															
+																<em class="icon">
+																	<img src="/page/portal2024/images/main/MNAA0210.png" alt="농업기술센터">
+																</em>
+															
+															<span>농업기술센터</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/part/traffic" target="_self" >
+															
+																<em class="icon">
+																	<img src="/page/portal2024/images/main/MNPC0336.png" alt="교통">
+																</em>
+															
+															<span>교통</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="https://pc.go.kr/edu" target="_blank" title='새창열림' rel='noopener noreferrer'>
+															
+																<em class="icon">
+																	<img src="/page/portal2024/images/main/MNAA0223.png" alt="평생학습관">
+																</em>
+															
+															<span>평생학습관</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="https://www.pc.go.kr/lib/main/main.do" target="_blank" title='새창열림' rel='noopener noreferrer'>
+															
+																<em class="icon">
+																	<img src="/page/portal2024/images/main/MNAA0224.png" alt="도서관">
+																</em>
+															
+															<span>도서관</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/part/info-statistics" target="_self" >
+															
+																<em class="icon">
+																	<img src="/page/portal2024/images/main/MNAA0118.png" alt="통계">
+																</em>
+															
+															<span>통계</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/part/benefit" target="_self" >
+															
+																<em class="icon">
+																	<img src="/page/portal2024/images/main/MNAA0319.png" alt="복지">
+																</em>
+															
+															<span>복지</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+							
+								
+							
+							
+
+							<li>
+								<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+								<div class="tlv-02 ">
+									<a href="/portal/government" target="_self" >
+										<span>열린 평창군정</span>
+									</a>
+								</div>
+								
+									<ul class="depth-02 ">
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/government/government-news" target="_self" >
+															
+															<span>평창소식</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/government/government-news/government-news-agency" target="_self" >
+																				<span>우리기관소식</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/government/government-news/government-news-otheragency" target="_self" >
+																				<span>타기관소식</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/government/government-notification" target="_self" >
+															
+															<span>고시/공고</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/government/government-tomb" target="_self" >
+															
+															<span>분묘개장공고</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/government/government-event" target="_self" >
+															
+															<span>주간행사</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/government/government-press" target="_self" >
+															
+															<span>보도·해명자료</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/government/government-press/government-press-press" target="_self" >
+																				<span>보도자료</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/government/government-press/government-press-explanation" target="_self" >
+																				<span>해명자료</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/government/government-publicize" target="_self" >
+															
+															<span>평창군정홍보</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/government/government-publicize/government-publicize-story" target="_self" >
+																				<span>평창이야기</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/government/government-publicize/government-publicize-snsnews" target="_self" >
+																				<span>SNS뉴스</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/government/government-publicize/photo" target="_self" >
+																				<span>군정포토</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/government/government-publicize/intro-promotional-administration" target="_self" >
+																				<span>군정백서</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/government/government-performance" target="_self" >
+															
+															<span>공연·전시안내</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/government/periodical" target="_self" >
+															
+															<span>평창 간행물</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/government/periodical/government-gunbo" target="_self" >
+																				<span>평창군보</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																	
+																		
+																			
+																				
+																			
+																			
+																		
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/contents/portal/ebook/corona_ebook01/index.html" target="_blank" title='새창열림' rel='noopener noreferrer'>
+																				<span>코로나 백서</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+							
+								
+							
+							
+
+							<li>
+								<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+								<div class="tlv-02 ">
+									<a href="/portal/intro" target="_self" >
+										<span>평창소개</span>
+									</a>
+								</div>
+								
+									<ul class="depth-02 ">
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/intro/intro-summary" target="_self" >
+															
+															<span>평창개요</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-summary/intro-summary-state" target="_self" >
+																				<span>일반현황</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-summary/intro-summary-history" target="_self" >
+																				<span>연혁</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-summary/intro-summary-district" target="_self" >
+																				<span>행정구역/지도</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-summary/intro-summary-symbol" target="_self" >
+																				<span>평창상징</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-summary/intro-summary-logosong" target="_self" >
+																				<span>로고송</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-summary/intro-summary-arari" target="_self" >
+																				<span>평창아라리</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-summary/intro-summary-charter" target="_self" >
+																				<span>평창군민헌장</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-summary/pcFont" target="_self" >
+																				<span>평창군 전용서체</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/intro/intro-happy700" target="_self" >
+															
+															<span>HAPPY700</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-happy700/intro-happy700-means" target="_self" >
+																				<span>HAPPY700의 정의</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-happy700/intro-happy700-image" target="_self" >
+																				<span>평창의 이미지</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/intro/intro-countyoffice" target="_self" >
+															
+															<span>군청소개</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-countyoffice/intro-countyoffice-guide" target="_self" >
+																				<span>조직도</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-countyoffice/staffSearch" target="_self" >
+																				<span>부서 및 업무소개</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-countyoffice/intro-countyoffice-government" target="_self" >
+																				<span>청사안내</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-countyoffice/intro-countyoffice-facilities" target="_self" >
+																				<span>시설안내</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/intro/intro-agencyguide" target="_self" >
+															
+															<span>기관안내</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-agencyguide/intro-agencyguide-public" target="_self" >
+																				<span>공공기관</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-agencyguide/intro-agencyguide-edu" target="_self" >
+																				<span>교육기관</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-agencyguide/intro-agencyguide-agencyguide" target="_self" >
+																				<span>금융기관</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/intro-agencyguide/intro-agencyguide-medical" target="_self" >
+																				<span>의료기관</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/intro/info-admin-exchange" target="_self" >
+															
+															<span>국내외 교류현황</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/info-admin-exchange/domestic" target="_self" >
+																				<span>국내 교류 현황</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/info-admin-exchange/International" target="_self" >
+																				<span>국제 교류 현황</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/info-admin-exchange/discount" target="_self" >
+																				<span>이용 할인 안내</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/intro/info-admin-exchange/iocf" target="_self" >
+																				<span>2025 세계올림픽도시연맹 총회</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+							
+								
+							
+							
+
+							<li>
+								<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+								<div class="tlv-02 ">
+									<a href="/portal/pclove" target="_self" >
+										<span>고향사랑기부제</span>
+									</a>
+								</div>
+								
+									<ul class="depth-02 ">
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/pclove/introduce" target="_self" >
+															
+															<span>고향사랑기부제 안내</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/pclove/notice" target="_self" >
+															
+															<span>공지사항</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/pclove/honor" target="_self" >
+															
+															<span>기부자 명예의 전당</span>
+														</a>
+													</div>
+													
+														<ul class="depth-03">
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/pclove/honor/2026" target="_self" >
+																				<span>2026년</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/pclove/honor/2025" target="_self" >
+																				<span>2025년</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/pclove/honor/2024" target="_self" >
+																				<span>2024년</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+																
+																	
+																		
+																	
+																	
+																	<li>
+																		<!--[d] 현재 페이지 메뉴 active 클래스 추가-->
+																		<div class="tlv-04 ">
+																			<a href="/portal/pclove/honor/2023" target="_self" >
+																				<span>2023년</span>
+																			</a>
+																		</div>
+																	</li>
+																
+															
+														</ul>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/pclove/monthly" target="_self" >
+															
+															<span>이달의 기부자</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+											
+												
+													
+												
+												
+
+												<li>
+													<div class="tlv-03 ">
+														<a href="/portal/pclove/fundbusiness" target="_self" >
+															
+															<span>기금사업 제안방</span>
+														</a>
+													</div>
+													
+												</li>
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+					
+				</ul>
+			</nav>
+			<div class="bg_pc"></div>
+		</div>
+	</div>
+</header>
+
+			<main id="sub">
+				
+
+
+
+
+
+
+
+
+
+
+<div id="sub_container" class="">
+	<div id="sub-page-content" class="inner">
+		<div id="side-menu01">
+			<div class ="tlv-02">
+				분야별정보
+				<span>PYEONGCHANG COUNTRY</span>
+			</div>
+			
+				<ul class="depth-02">
+					
+						
+							
+								
+							
+							
+							<li>
+								<div class="tlv-03 ">
+									<a href="/portal/part/part-area" target="_self" >
+										<span>경제 및 일자리</span>
+									</a>
+								</div>
+								
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+								
+									<ul class="depth-03" style="display: none;">
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-area/part-area-invest" class=""  target="_self" >
+															<span>기업투자유치</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-area/part-area-support" class=""  target="_self" >
+															<span>중소기업지원</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-area/part-area-industrial" class=""  target="_self" >
+															<span>농공단지 업체현황</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-area/part-area-factory" class=""  target="_self" >
+															<span>개별입지 공장등록현황</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="https://gwpc-mall.com" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>평창몰</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-area/part-area-consumer" class=""  target="_self" >
+															<span>소비자</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-area/part-area-market" class=""  target="_self" >
+															<span>시장현황</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="http://www.opinet.co.kr/user/main/mainView.do" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>유가정보(주유소)</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-area/part-area-recruitment" class=""  target="_self" >
+															<span>채용정보(구인구직)</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="https://www.work.go.kr/seekWantedMain.do" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>워크넷</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="https://cpn.provin.gangwon.kr/gwcpn/priceinfor/sidoItemPrice" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>물가현황</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-area/goodprice" class=""  target="_self" >
+															<span>착한가격업소</span>
+														</a>
+													</div>
+												</li>
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+							
+								
+							
+							
+							<li>
+								<div class="tlv-03 ">
+									<a href="/portal/part/part-city" target="_self" >
+										<span>지역 및 생활</span>
+									</a>
+								</div>
+								
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+								
+									<ul class="depth-03" style="display: none;">
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/egf/common/download.do?p=/contents/portal/download/file/pyeongchang_landscape.pdf" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>평창군 경관계획</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-city/part-city-guideline" class=""  target="_self" >
+															<span>공공디자인 가이드라인</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/page/portal/download/part/2023년평창군옥외광고물가이드라인.pdf" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>평창군 옥외광고물 가이드라인</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-city/lifecycle" class=""  target="_self" >
+															<span>생애주기별 지원서비스</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-city/part-city-farming" class=""  target="_self" >
+															<span>귀농귀촌 지원</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-city/association" class=""  target="_self" >
+															<span>이장연합회</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-city/schoolarship" class=""  target="_self" >
+															<span>평창인재육성장학재단</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-city/defect-repair" class=""  target="_self" >
+															<span>공동주택 하자보증보험증권</span>
+														</a>
+													</div>
+												</li>
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+							
+								
+							
+							
+							<li>
+								<div class="tlv-03 ">
+									<a href="/portal/part/part-taxation" target="_self" >
+										<span>세무</span>
+									</a>
+								</div>
+								
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+								
+									<ul class="depth-03" style="display: none;">
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-taxation/part-taxation-charter" class=""  target="_self" >
+															<span>납세자 권리헌장</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="https://www.wetax.go.kr/" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>위택스</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="https://www.wetax.go.kr/tcp/loi/J030101M01.do" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>지방세 안내</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="https://chatbot.wetax.go.kr" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>지방세 상담챗봇</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-taxation/part-taxation-time" class=""  target="_self" >
+															<span>지방세 납부시기</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-taxation/part-taxation-heavy" class=""  target="_self" >
+															<span>지방세법상 중과세</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-taxation/part-taxation-salvation" class=""  target="_self" >
+															<span>지방세 구제제도</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-taxation/part-taxation-disadvantage" class=""  target="_self" >
+															<span>체납자 불이익처분</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-taxation/taxpayer" class=""  target="_self" >
+															<span>납세자 보호관</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-taxation/part-village" class=""  target="_self" >
+															<span>마을세무사</span>
+														</a>
+													</div>
+												</li>
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+							
+								
+							
+							
+							<li>
+								<div class="tlv-03 ">
+									<a href="/portal/part/part-property" target="_self" >
+										<span>부동산</span>
+									</a>
+								</div>
+								
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+								
+									<ul class="depth-03" style="display: none;">
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-property/part-property-landleave" class=""  target="_self" >
+															<span>토지거래계약허가</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-property/part-property-present" class=""  target="_self" >
+															<span>토지거래허가현황</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-property/part-property-ancestor" class=""  target="_self" >
+															<span>조상땅찾아주기</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-property/part-property-development" class=""  target="_self" >
+															<span>개발부담금</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="http://kras.gwd.go.kr/land_info/info/baseInfo/baseInfo.do" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>부동산정보조회</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="https://rtms.molit.go.kr/" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>부동산실거래신고</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="http://www.iros.go.kr/PMainJ.jsp" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>부동산등기확인</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="http://www.eum.go.kr" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>토지이용규제정보서비스</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="http://kras.gwd.go.kr/land_info/info/baseInfo/baseInfo.do#t05-tab" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>개별공시지가</span>
+														</a>
+													</div>
+												</li>
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+							
+								
+							
+							
+							<li>
+								<div class="tlv-03 ">
+									<a href="/portal/part/environment" target="_self" >
+										<span>환경</span>
+									</a>
+								</div>
+								
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+								
+									<ul class="depth-03" style="display: none;">
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/environment/information" class=""  target="_self" >
+															<span>환경정보</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/environment/waste" class=""  target="_self" >
+															<span>생활 폐기물</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/environment/wastedisposal" class=""  target="_self" >
+															<span>폐기물처리 업체 현황</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/environment/stream" class=""  target="_self" >
+															<span>하천 수질</span>
+														</a>
+													</div>
+												</li>
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+							
+								
+							
+							
+							<li>
+								<div class="tlv-03 ">
+									<a href="/portal/part/part-hygiene" target="_self" >
+										<span>위생</span>
+									</a>
+								</div>
+								
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+								
+									<ul class="depth-03" style="display: none;">
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-hygiene/part-hygiene-food" class=""  target="_self" >
+															<span>식품위생 영업·허가 안내</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-hygiene/part-hygiene-public" class=""  target="_self" >
+															<span>공중위생 영업·허가 안내</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-hygiene/part-hygiene-grade" class=""  target="_self" >
+															<span>음식점 위생등급제</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-hygiene/part-hygiene-edu" class=""  target="_self" >
+															<span>위생교육안내</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-hygiene/part-hygiene-recovery" class=""  target="_self" >
+															<span>위해식품 긴급회수</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="https://eminwon.pc.go.kr/emwp/gov/mogaha/ntis/web/caf/mwwd/action/CafMwWdOpenAction.do?method=selectListAdmm&amp;menu_id=CAFOPNWebAdmmOpenL&amp;jndinm=CafMwWdOpenEJB&amp;methodnm=selectListAdmm&amp;context=NTIS" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>위생 관련 위반업소 공개</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/part-hygiene/part-hygiene-water" class=""  target="_self" >
+															<span>지하수 수질검사</span>
+														</a>
+													</div>
+												</li>
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+							
+							
+								
+									
+										
+									
+									
+								
+							
+							<li>
+								<div class="tlv-03 ">
+									<a href="https://pc.go.kr/health" target="_blank" title='새창열림' rel='noopener noreferrer'>
+										<span>보건의료원</span>
+									</a>
+								</div>
+								
+								
+								
+							</li>
+						
+					
+						
+							
+							
+								
+									
+										
+									
+									
+								
+							
+							<li>
+								<div class="tlv-03 ">
+									<a href="https://pc.go.kr/agri" target="_blank" title='새창열림' rel='noopener noreferrer'>
+										<span>농업기술센터</span>
+									</a>
+								</div>
+								
+								
+								
+							</li>
+						
+					
+						
+							
+								
+							
+							
+							<li>
+								<div class="tlv-03 active">
+									<a href="/portal/part/traffic" target="_self" >
+										<span>교통</span>
+									</a>
+								</div>
+								
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+								
+									<ul class="depth-03" style="display: none;">
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/traffic/transportation" class=""  target="_self" >
+															<span>대중교통정보</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/traffic/part-hygiene-traffic" class="active"  target="_self" >
+															<span>교통행정</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/traffic/trafficWeak" class=""  target="_self" >
+															<span>교통약자특별교통수단</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/traffic/part-hygiene-registration" class=""  target="_self" >
+															<span>자동차등록</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/traffic/part-hygiene-insurance" class=""  target="_self" >
+															<span>자동차책임보험안내</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/traffic/part-hygiene-examination" class=""  target="_self" >
+															<span>자동차검사안내</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/traffic/part-hygiene-crackdown" class=""  target="_self" >
+															<span>주정차단속</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/traffic/illegalParking" class=""  target="_self" >
+															<span>불법주정차 주민신고제</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/traffic/parking" class=""  target="_self" >
+															<span>주차장 정보</span>
+														</a>
+													</div>
+												</li>
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+							
+							
+								
+									
+										
+									
+									
+								
+							
+							<li>
+								<div class="tlv-03 ">
+									<a href="https://pc.go.kr/edu" target="_blank" title='새창열림' rel='noopener noreferrer'>
+										<span>평생학습관</span>
+									</a>
+								</div>
+								
+								
+								
+							</li>
+						
+					
+						
+							
+							
+								
+									
+										
+									
+									
+								
+							
+							<li>
+								<div class="tlv-03 ">
+									<a href="https://www.pc.go.kr/lib/main/main.do" target="_blank" title='새창열림' rel='noopener noreferrer'>
+										<span>도서관</span>
+									</a>
+								</div>
+								
+								
+								
+							</li>
+						
+					
+						
+							
+								
+							
+							
+							<li>
+								<div class="tlv-03 ">
+									<a href="/portal/part/info-statistics" target="_self" >
+										<span>통계</span>
+									</a>
+								</div>
+								
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+								
+									<ul class="depth-03" style="display: none;">
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/info-statistics/info-statistics-guide" class=""  target="_self" >
+															<span>통계공표일정 안내</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/info-statistics/info-statistics-annual" class=""  target="_self" >
+															<span>평창군 통계연보</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/info-statistics/info-statistics-list" class=""  target="_self" >
+															<span>통계자료</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/info-statistics/info-statistics-site" class=""  target="_self" >
+															<span>통계 관련 누리집</span>
+														</a>
+													</div>
+												</li>
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+						
+							
+								
+							
+							
+							<li>
+								<div class="tlv-03 ">
+									<a href="/portal/part/benefit" target="_self" >
+										<span>복지</span>
+									</a>
+								</div>
+								
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+									
+										
+									
+								
+								
+									<ul class="depth-03" style="display: none;">
+										
+											
+												
+												
+													
+														
+															
+														
+														
+													
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="https://www.bokjiro.go.kr/" class=""  target="_blank" title='새창열림' rel='noopener noreferrer'>
+															<span>복지서비스 신청</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/benefit/benefit_social" class=""  target="_self" >
+															<span>사회복지</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/benefit/benefit_disabled" class=""  target="_self" >
+															<span>장애인 복지</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/benefit/benefit_old" class=""  target="_self" >
+															<span>노인 복지</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/benefit/benefit_family" class=""  target="_self" >
+															<span>여성·가족 복지</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/benefit/benefit_child" class=""  target="_self" >
+															<span>아동·청소년 복지</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/benefit/benefit_funeral" class=""  target="_self" >
+															<span>장묘</span>
+														</a>
+													</div>
+												</li>
+											
+										
+											
+												
+													
+												
+												
+											
+											
+												<li>
+													<div class="tlv-04">
+														<a href="/portal/part/benefit/singleperson" class=""  target="_self" >
+															<span>1인가구 지원사업</span>
+														</a>
+													</div>
+												</li>
+											
+										
+									</ul>
+								
+							</li>
+						
+					
+				</ul>
+			
+		</div>
+		<div id="content-bx">
+			<div class="sub_view_area" id="A-Contents-focus">
+				<div class="subcontainer_tit">
+					<strong class="tit">교통이용정보</strong>
+					
+					
+					
+				</div>
+				<div class="sub_view_location_area">
+					<ul class="sub_view_location">
+						<li>
+							<a href="/portal">
+								<img src="/page/portal/images/common/sub_view_home.png" alt="home">
+							</a>
+						</li>
+						<li>
+							<a href="/portal/part">
+								분야별정보
+							</a>
+						</li>
+						
+							<li>
+								<a href="/portal/part/traffic">
+									교통
+								</a>
+							</li>
+						
+
+						
+							<li>
+								<a href="/portal/part/traffic/part-hygiene-traffic">
+									교통행정
+								</a>
+							</li>
+						
+
+						
+							<li>
+								<a href="/portal/part/traffic/part-hygiene-traffic/part-hygiene-traffic-info">
+									교통이용정보
+								</a>
+							</li>
+						
+
+					</ul>
+					<div class="btn">
+						<a href="#" onclick="fnPrint();" class="btn_print">
+							<span class="blind">프린트를 출력합니다.</span>
+						</a>
+						<a href="javascript:fncShare();" class="btn_sharing" title="새창">
+							<span class="blind">공유합니다.</span>
+						</a>
+						<a href="javascript:copyLink();" class="btn_link">
+							<span class="blind">링크 복사합니다.</span>
+						</a>
+					</div>
+				</div>
+			</div>
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<div class="contsArea skinContainer " id="contentsArea">
+				
+
+				
+
+				
+					
+						
+						
+						
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="contents">
+		<h4 class="titLv">법인택시 연락처</h4>
+<div class="skinTb-wrapper skinMt-small">
+	<table class="skinTb width768">
+		<caption class="blind">
+		평창군의 법인택시 연락처를 안내해 드립니다.
+		</caption>
+		<thead>
+			<tr class="skinTxa-center">
+				<th scope="col">연번</th>
+				<th scope="col">업체명</th>
+				<th scope="col">대표자</th>
+				<th scope="col">주소</th>
+				<th scope="col">전화번호</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="skinTxa-center">
+				<td>1</td>
+				<td>(합자)평창택시</td>
+				<td>한상덕</td>
+				<td>평창읍 서동로 2433-7</td>
+				<td><a href="tel:033-333-9700">033-333-9700</a></td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td>2</td>
+				<td>장평택시(합자)</td>
+				<td>김희진</td>
+				<td>용평면 진전길 23-7</td>
+				<td><a href="tel:033-332-4422">033-332-4422</a></td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td>3</td>
+				<td>(합자)삼일택시</td>
+				<td>이동훈</td>
+				<td>봉평면 기풍로 118</td>
+				<td><a href="tel:033-336-0229">033-336-0229</a></td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td>4</td>
+				<td>(합자)진부택시</td>
+				<td>고혜선</td>
+				<td>진부면 송정길 142</td>
+				<td><a href="tel:033-335-9208">033-335-9208</a></td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td>5</td>
+				<td>횡계택시(주)</td>
+				<td>이기영</td>
+				<td>대관령면 갈골길 10-6 </td>
+				<td><a href="tel:033-335-5596">033-335-5596</a></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<h4 class="titLv">개인택시 연락처</h4>
+<div class="skinTb-wrapper skinMt-small">
+	<table class="skinTb width768">
+		<caption class="blind">
+		평창군의 개인택시 연락처를 안내해 드립니다.
+		</caption>
+		<thead>
+			<tr>
+				<th scope="col">연번</th>
+				<th scope="col">업체명</th>
+				<th scope="col">주소</th>
+				<th scope="col">전화번호</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="skinTxa-center">
+				<td>1</td>
+				<td>평창읍 개인택시</td>
+				<td>평창군 평창읍 송학로 4</td>
+				<td><a href="tel:033-332-2081">033-332-2081</a></td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td>2</td>
+				<td>미탄면 개인택시</td>
+				<td>평창군 미탄면 중앙로 30</td>
+				<td><a href="tel:033-333-7789">033-333-7789</a></td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td>3</td>
+				<td>대화면 개인택시</td>
+				<td>평창군 대화면 대화3길 5</td>
+				<td><a href="tel:033-333-2000">033-333-2000</a></td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td>4</td>
+				<td>봉평면 개인택시</td>
+				<td>평창군 봉평면 기풍로 138-5</td>
+				<td><a href="tel:033-335-0229">033-335-0229</a></td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td>5</td>
+				<td>용평면 개인택시</td>
+				<td>평창군 용평면 금송1길 28</td>
+				<td><a href="tel:033-332-4379">033-332-4379</a></td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td>6</td>
+				<td>진부면 개인택시</td>
+				<td>평창군 진부면 청송로 110</td>
+				<td><a href="tel:033-335-0088">033-335-0088</a></td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td>7</td>
+				<td>대관령면 개인택시</td>
+				<td>평창군 대관령면 장선길 33</td>
+				<td><a href="tel:033-335-5960">033-335-5960</a></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<h4 class="titLv">택시요금 산정기준</h4>
+<h5 class="titLv2">평창군 택시운임 · 요율은 다음과 같습니다.</h5>
+<div class="skinTb-wrapper skinMt-small">
+	<table class="skinTb width768">
+		<caption class="blind">
+		평창군의 택시요금 산정기준을 안내하는 표입니다.
+		</caption>
+		<thead>
+			<tr class="skinTxa-center">
+				<th scope="col" colspan="2">구분</th>
+				<th scope="col">적용방법</th>
+				<th scope="col">운임・요율</th>
+				<th scope="col">비고</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="skinTxa-center">
+				<td colspan="2">기본운임</td>
+				<td>2㎞까지</td>
+				<td><strong>4.600원</strong></td>
+				<td></td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td colspan="2">거리운임</td>
+				<td>2km이후</td>
+				<td><strong>131m당 200원</strong></td>
+				<td rowspan="2">복합할증 100% 포함</td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td colspan="2">시간운임</td>
+				<td>15㎞/h이하 주행시</td>
+				<td>31초당 200원</td>
+			</tr>
+			<tr class="skinTxa-center">
+				<th rowspan="5">할증<br>운임</th>
+				<td rowspan="3">심야</td>
+				<td>23:00~00:00</td>
+				<td class="skinColor-blue">20%</td>
+                <td rowspan="3"></td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td>00:00~02:00</td>
+				<td class="skinColor-blue">30%</td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td>02:00~04:00</td>
+				<td class="skinColor-blue">20%</td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td>군계외</td>
+				<td>사업구역 외 운행</td>
+				<td class="skinColor-blue">20%</td>
+                <td></td>
+			</tr>
+			<tr class="skinTxa-center">
+				<td>호출시</td>
+				<td>호출 1회당</td>
+                <td class="skinColor-blue">1,000원</td>
+                <td></td>
+			</tr>
+		</tbody>
+	</table>
+    ※ 상세내용은 &lt;평창군 고시 제2024-126호&gt; 참조 요망
+</div>
+	</div>
+			
+
+
+
+						
+						
+						
+					
+				
+				
+				
+				
+					
+
+
+
+
+
+
+
+
+
+	<div class="init_of satisfaction">
+		
+		<div class="chargewrapper">
+			<h6 class="hidden_txt">부서연락처</h6>
+			<ul>							
+				
+					<li><span>담당부서 : </span> 안전교통과</li>
+				
+				
+					<li><span>담당팀 : </span> 교통행정</li>
+				
+				
+				
+					<li><span>전화번호 : </span> ☎ <a href="tel:033-330-2357">033-330-2357</a></li>
+				
+				
+					<li><span>최종수정일 : </span>2023-01-13 14:22:49</li>
+				
+			</ul>
+		</div>
+		
+
+		
+		
+			<form action="/egf/insertPageValuation" id="pageValuationForm" method="post">
+			
+				<input type="hidden" name="menuCode" value="MNAA0213" />
+				
+				<div class="satisfaction_form">
+					<fieldset>
+						<legend class="hidden_txt">만족도조사</legend>
+						<p class="question">
+							이 페이지에서 제공하는 정보에 대하여 만족하십니까?
+						</p>
+						<div class="radiowrapper">
+							<div class="radio">
+								<input type="radio" name="score" id="verysatis" value="5" />  
+								<label for="verysatis">매우만족</label>
+							</div>
+							
+							<div class="radio">
+								<input type="radio" name="score" id="satis" value="4"/>  
+								<label for="satis">만족</label>
+							</div>
+							
+							<div class="radio">
+								<input type="radio" name="score" id="generalsatis" value="3"/>  
+								<label for="generalsatis">보통</label>
+							</div>
+							
+							<div class="radio">
+								<input type="radio" name="score" id="dissatis" value="2"/>  
+								<label for="dissatis">불만족</label>
+							</div>
+							
+							<div class="radio">
+								<input type="radio" name="score" id="verydissatis" value="1"/>  
+								<label for="verydissatis">매우불만족</label>
+							</div>
+							
+							<div class="btnwrapper">
+								<label for="cntntsOpinionCn" class="blind">의견입력</label>
+								<input type="text" name="cntntsOpinionCn" id="cntntsOpinionCn" class="btn_cntnts" title="의견을 입력해주세요" placeholder="의견을 입력해 주세요">
+								<input type="submit" value="평가하기" class="btn_smit" />
+							</div>
+						</div>
+					</fieldset>
+				</div>
+			</form>
+		
+		
+	</div>
+
+
+
+<script>
+$("#pageValuationForm").submit(function(e) {
+	if ($.cookie("pagevaluation_MNAA0213")) {
+		alert('만족도평가에 이미 참여하셨습니다.');
+		return false;
+	}
+	
+	var $score = $(this).find(':input[name="score"]');
+	if (!$score.is(":checked")) {
+		alert('만족도를 선택해주세요.');
+		$score.first().focus();
+		return false;
+	}
+
+	$.ajax({
+		  type : 'POST'
+		, url  : $(this).attr('action')
+		, data : $(this).serialize()
+		, dataType :'json'
+		, success : function(data) {
+			alert(data.msg);
+		}
+	});
+	e.preventDefault();
+});
+</script>
+
+				
+			</div>
+		</div>
+	</div>
+</div>
+			</main>
+
+			
+
+
+
+
+
+
+
+
+
+
+<footer id="footer" class="clearfix">
+	<div class="slick_wrap" id="A-Ftr-focus">
+		<div class="inner">
+			<div class="control">
+				<button type="button" class="prev">이전보기</button>
+				<button type="button" class="next">다음보기</button>
+				<button type="button" class="ps-btn play" style="display:none;">재생</button>
+				<button type="button" class="ps-btn pause">정지</button>
+			</div>
+			<div class="slick">
+				
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="http://www.1366.or.kr" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									여성긴급전화 1366
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="http://www.namk.or.kr/" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									전국시장 · 군수 · 구청장협의회
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="http://web.kma.go.kr/aboutkma/intro/gangwon/index.jsp" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									강원지방기상청
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.kead.or.kr/" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									한국장애인고용공단
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.kamis.or.kr/customer/main/main.do" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									농수산물유통정보
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.give.go.kr/portal/main/main.do" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									정치후원금센터
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.safetv.go.kr/base/main/view" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									국민안전방송
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="http://remedy.kocsc.or.kr/ddmsIndex.do" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									방송통신심의위원회
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="http://greenbio.snu.ac.kr/" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									서울대학교 평창캠퍼스
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.mohw.go.kr/" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									보건복지부
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="http://e-gonghun.mpva.go.kr/user/index.do;jsessionid=ABC97C99722C88B9B5F07C79636D74BE.rems03" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									공훈전자사료관
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.ccrs.or.kr/main.do" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									신용회복위원회
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="http://ccfsm.foodnara.go.kr/pyeongchang/" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									어린이급식관리지원센터
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.laiis.go.kr/" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									내고장알리미
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.safetyreport.go.kr" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									안전신문고
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.koroad.or.kr/main/local/local_sub_main2.do" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									강릉운전면허시험장
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.better.go.kr" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									규제정보포털
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.osmb.go.kr/main/main.jsp" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									지방기업 규제애로 신고센터
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="http://www.happyfund.or.kr/" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									국민행복기금
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.gov.kr" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									정부24
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.re.or.kr/main.do" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									순환자원정보센터
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="http://www.easylaw.go.kr/CSP/Main.laf" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									찾기쉬운 생활법령정보
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="http://1398.acrc.go.kr/case/ISGAcase" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									청탁금지법 통합검색
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.acrc.go.kr/menu.es?mid=a10202010100" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									공익신고
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://state.gwd.go.kr/audit/legal/auditresult" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									강원특별자치도 감사결과 공개
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="http://www.law.go.kr/" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									국가법령정보센터
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.mois.go.kr/frt/sub/a03/corruptionDeclareInfo/screen.do" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									공직비리 익명신고
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.simpan.go.kr/com/zz/999/main.do?cmnMenuCd=main" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									온라인 행정심판
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://lawhomedoctor.moj.go.kr/" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									법률홈닥터
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.clean.go.kr" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									청렴포털
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.bai.go.kr" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									감사원
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="http://kgeu.org/" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									전국공무원노동조합
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.safekorea.go.kr/" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									국민재난안전포털
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.bokjiro.go.kr" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									복지로
+								
+							
+						</a>
+					
+						<!-- target에 따옴표('item.target') 제거하고 _blank으로 수정 -->
+						<a href="https://www.nts.go.kr/" 
+						   target="_blank" 
+						   title="새창이동" 
+						   rel="noopener noreferrer">
+							
+								
+								
+									국세청
+								
+							
+						</a>
+					
+				
+			</div>          
+		</div>
+	</div>
+
+	
+
+
+
+
+
+
+
+
+<div class="family_wrap">
+	<div class="inner">
+		<div class="family-bx">
+			
+				<div class="view-wrap item">
+					<button type="button" class="view-btn">
+						관련 누리집
+					</button>
+					<div class="view-bx v1" style="display: none;">
+						
+							<a href="/health" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								보건의료원
+							</a>
+						
+							<a href="/agri" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								농업기술센터
+							</a>
+						
+							<a href="/cave" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								백룡동굴
+							</a>
+						
+							<a href="/lib" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								도서관
+							</a>
+						
+							<a href="/edu" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평생학습
+							</a>
+						
+							<a href="https://pyeongchang.nid.or.kr/intro/intro.aspx" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								치매안심센터
+							</a>
+						
+							<a href="https://www.pc.go.kr/elearningedu" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								사이버평생학습관
+							</a>
+						
+							<a href="https://cityview.pc.go.kr" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								도시경관 in 평창
+							</a>
+						
+							<a href="https://pcscholarship.kr" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창인재육성장학재단
+							</a>
+						
+					</div>
+				</div>
+			
+				<div class="view-wrap item">
+					<button type="button" class="view-btn">
+						읍면안내
+					</button>
+					<div class="view-bx v2" style="display: none;">
+						
+							<a href="/pc" target="_self"
+									
+							>
+								평창읍
+							</a>
+						
+							<a href="/mt" target="_self"
+									
+							>
+								미탄면
+							</a>
+						
+							<a href="/bl" target="_self"
+									
+							>
+								방림면
+							</a>
+						
+							<a href="/dh" target="_self"
+									
+							>
+								대화면
+							</a>
+						
+							<a href="/bp" target="_self"
+									
+							>
+								봉평면
+							</a>
+						
+							<a href="/yp" target="_self"
+									
+							>
+								용평면
+							</a>
+						
+							<a href="/jb" target="_self"
+									
+							>
+								진부면
+							</a>
+						
+							<a href="/dgl" target="_self"
+									
+							>
+								대관령
+							</a>
+						
+					</div>
+				</div>
+			
+				<div class="view-wrap item">
+					<button type="button" class="view-btn">
+						지역 누리집
+					</button>
+					<div class="view-bx v3" style="display: none;">
+						
+							<a href="http://happy700.scinema.org/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								Happy700평창시네마
+							</a>
+						
+							<a href="http://www.pycc.or.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창문화원
+							</a>
+						
+							<a href="https://legacy2018.org/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								2018평창기념재단
+							</a>
+						
+							<a href="http://3341365.or.kr/p_notice" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창군자원봉사센터
+							</a>
+						
+							<a href="https://happy007.modoo.at/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창군도시재생지원센터
+							</a>
+						
+							<a href="http://www.hyoseok.com/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								효석문화제
+							</a>
+						
+							<a href="http://www.snowfestival.net/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								대관령 눈꽃축제
+							</a>
+						
+							<a href="https://greentourism.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창그린투어사업단
+							</a>
+						
+							<a href="https://www.gwpolice.go.kr/pc/main/main.jsp" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창경찰서
+							</a>
+						
+							<a href="http://gwpce.gwe.go.kr/main.do" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창교육지원청
+							</a>
+						
+							<a href="https://gw.nec.go.kr/gw/main/contents.do?menuNo=1100142&amp;guSiGunId=gwpchang" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창군선거관리위원회
+							</a>
+						
+							<a href="https://www.ccfsm.foodnara.go.kr/pyeongchang" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창군어린이급식관리지원센터
+							</a>
+						
+							<a href="http://www.pcsports.co.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창군체육회
+							</a>
+						
+							<a href="https://www.pcfmc.or.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창군시설관리공단
+							</a>
+						
+							<a href="http://www.pc1388.or.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창군청소년상담복지센터
+							</a>
+						
+							<a href="http://www.pcutdfc.com" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창유나이티드FC
+							</a>
+						
+							<a href="https://pchf.or.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창유산재단
+							</a>
+						
+					</div>
+				</div>
+			
+				<div class="view-wrap item">
+					<button type="button" class="view-btn">
+						유용한 누리집
+					</button>
+					<div class="view-bx v4" style="display: none;">
+						
+							<a href="https://www.elis.go.kr/locgovalr/locgovClAlrList?ctpvSggCd=42760" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								자치법규
+							</a>
+						
+							<a href="http://cpn.provin.gangwon.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								강원물가정보망
+							</a>
+						
+							<a href="http://aglook.krei.re.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								농업관측
+							</a>
+						
+							<a href="https://www.realtyprice.kr:447/notice/main/mainBody.htm" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								부동산공시가격 열람
+							</a>
+						
+							<a href="http://rtms.pc.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								부동산거래관리
+							</a>
+						
+							<a href="http://www.safekorea.go.kr/idsiSFK/neo/main/main.html" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								민방위 교육일정
+							</a>
+						
+							<a href="https://www.pc.go.kr/700sam/700sam.web" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창산양삼 생산이력제
+							</a>
+						
+							<a href="https://arws.pc.go.kr" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창군 기상관측자료
+							</a>
+						
+					</div>
+				</div>
+			
+				<div class="view-wrap item">
+					<button type="button" class="view-btn">
+						강원특별자치도 시·군
+					</button>
+					<div class="view-bx v5" style="display: none;">
+						
+							<a href="https://state.gwd.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								강원특별자치도청
+							</a>
+						
+							<a href="http://www.chuncheon.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								춘천시
+							</a>
+						
+							<a href="https://www.wonju.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								원주시
+							</a>
+						
+							<a href="https://www.gn.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								강릉시
+							</a>
+						
+							<a href="https://www.dh.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								동해시
+							</a>
+						
+							<a href="https://www.taebaek.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								태백시
+							</a>
+						
+							<a href="https://www.sokcho.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								속초시
+							</a>
+						
+							<a href="https://www.samcheok.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								삼척시
+							</a>
+						
+							<a href="https://www.hongcheon.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								홍천군
+							</a>
+						
+							<a href="https://www.hsg.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								횡성군
+							</a>
+						
+							<a href="https://www.yw.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								영월군
+							</a>
+						
+							<a href="https://www.pc.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								평창군
+							</a>
+						
+							<a href="https://www.jeongseon.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								정선군
+							</a>
+						
+							<a href="https://www.ihc.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								화천군
+							</a>
+						
+							<a href="https://www.cwg.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								철원군
+							</a>
+						
+							<a href="https://www.yanggu.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								양구군
+							</a>
+						
+							<a href="https://www.inje.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								인제군
+							</a>
+						
+							<a href="https://www.gwgs.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								고성군
+							</a>
+						
+							<a href="https://www.yangyang.go.kr/" target="_blank"
+									
+										title="새 창 이동" rel="noopener noreferrer"
+									
+							>
+								양양군
+							</a>
+						
+					</div>
+				</div>
+			
+		</div>
+	</div>
+</div>
+
+
+	<div class="inner">
+		<div class="info-bx">
+			<div class="personal-bx">
+				<a href="/portal/useguide/useguide-privacy" class="info_private">개인정보처리방침</a>
+				<a href="/portal/useguide/useguide-video" class="info_private">영상정보처리기기 운영·관리 방침 </a>
+				<a href="/portal/useguide/useguide-copyright">저작권정책</a>
+				<a href="/portal/useguide/useguide-viewerdownload">뷰어다운로드</a>
+				<a href="/portal/useguide/useguide-sitemap">누리집 지도</a>
+				<a href="/portal/useguide/poll">만족도 설문조사</a>
+			</div>
+			<div class="info_wrap">
+				<div style="display: flex; align-items: center; gap: 40px;">
+					<div class="flogo">
+						<a href="/portal">
+							<img src="/page/mayor2024/images/main/Pyeongchang.png" alt="평창군">
+						</a>
+					</div>
+					<div class="address-bx">
+						<div class="address">
+							<strong>주소 : <span>[25374] 강원특별자치도 평창군  평창읍 군청길 77</span></strong>
+							<strong>대표전화 : <span>033-330-2000</span></strong>
+							<strong>팩스 : <span>033-330-2828</span></strong>
+							<span class="copy">copyright 2018 by Pyeongchang country. all right reserved.</span>
+						</div>
+					</div>
+				</div>
+				<div class="logo_bx">
+					<a href="https://www.webwatch.or.kr/Situation/WA_Situation.html?skey=2&sval=%ED%8F%89%EC%B0%BD%EA%B5%B0%EC%B2%AD&npp=9&MenuCD=110" target="_blank" title="새창" rel="noopener noreferrer">
+						<img src="/page/mayor2024/images/main/scientifictechnique.png?ver=20241025" alt="과학기술정보통신부 WA WEB접근성 웹와치(WebWatch) 2024.11.17~2025.11.16)" class="v2">
+					</a>
+					<a href="https://www.mois.go.kr/frt/sub/popup/p_taegugki_banner/screen.do" target="_blank" title="새창" rel="noopener noreferrer">
+						<div>
+							<img src="/page/mayor2024/images/main/korea.png" alt="국가상징 알아보기" class="v2">
+							<span>국가상징<br/>알아보기</span>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<script defer src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script defer type="text/javascript">
+	/* 구글 번역 초기화 */
+	function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'ko',autoDisplay: true}, 'google_translate_element');}
+</script>
+<script type="text/javascript">
+	/* 새 UI 선택 클릭 이벤트가 발생하면
+		감춤 처리한 구글 번역 콤보리스트에
+		선택한 언어를 적용해 변경 이벤트를 발생시키는 코드  */
+	document.querySelector('.translation-links').addEventListener('click',function(event) {
+		let el = event.target;
+		if(el != null){
+			while(el.nodeName == 'FONT'){el = el.parentElement;}//data-lang 속성이 있는 태그 찾기
+			const tolang = el.dataset.lang; // 변경할 언어 코드 얻기
+			const gtcombo = document.querySelector('.goog-te-combo');
+			if (gtcombo == null) {
+				alert("Error: Could not find Google translate Combolist.");
+				return false;
+			}
+			gtcombo.value = tolang; // 변경할 언어 적용
+			gtcombo.dispatchEvent(new Event('change')); // 변경 이벤트 트리거
+		}
+		return false;
+	});
+</script>
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+			"name": "평창군청",
+			"url": "https://www.pc.go.kr",
+			"sameAs": [      
+				"https://www.youtube.com/channel/UCak6g9I9CHvYCWLFyLMVh-w",
+				"https://www.instagram.com/pyeongchanggun/",
+				"https://www.facebook.com/pyeongchanggun",
+				"https://blog.naver.com/pc_happy700"
+			]
+		}
+</script>
+
+			<a href="#" id="btn-top" role="button">TOP</a>
+			<div id="side-menu" class="active">
+				<strong>Quick<em>menu</em></strong>
+				<a href="/portal/intro/intro-countyoffice/staffSearch">
+					<span>직원안내</span>
+				</a>
+				<a href="/portal/intro/intro-countyoffice/intro-countyoffice-government">
+					<span>청사안내</span>
+				</a>
+				<a href="/portal/guide/guide-apply/guide-apply-civil">
+					<span>전자민원</span>
+				</a>
+				<a href="https://tour.pc.go.kr/Home/H50000/H50400/html" target="_blank" title="새창열림" rel="noopener noreferrer">
+					<span>오시는길</span>
+				</a>
+				<a href="https://www.weather.go.kr/w/weather/forecast/short-term.do#dong/5176025000/37.33921960314412/128.43312541961615/%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%ED%8F%89%EC%B0%BD%EA%B5%B0%20%ED%8F%89%EC%B0%BD%EC%9D%8D/" target="_blank" title="새 창 열림" rel="noopener noreferrer">
+					<span>날씨</span>
+				</a>
+				<a href="https://arws.pc.go.kr/" target="_blank" title="새 창 열림" rel="noopener noreferrer">
+					<span>강수량</span>
+				</a>
+				<a href="https://phyton.metconsul.info/" target="_blank" title="새 창 열림" rel="noopener noreferrer">
+					<span>피톤치트</span>
+				</a>
+			</div>
+		
+	
+</div>
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+			
+
+
+
+
+
+
+
+<style>
+.map_label {margin-bottom: 106px;border:1px solid rgb(118, 129, 168);background:#fff;padding:2px 8px;}
+.map_label * {display: inline-block;vertical-align: top;}
+</style>
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=46efd3f16d4d792bd4bdcd736c55969d&libraries=services"></script>
+<script> 
+$(document).ready(function(){
+	
+	var context = "portal";
+	
+	var lcMap = {
+		"portal": [
+			{id:"mapCulture1",	addr:"강원 평창군 평창읍 문화예술길 51",	lc:"문화예술회관",			lat:37.36156474928763,	lon:128.39097145075777},
+			{id:"mapCulture2",	addr:"강원 평창군 평창읍 평창중앙로 67",	lc:"문화복지센터",			lat:37.36876955987296,	lon:128.39488381768356},
+			{id:"mapCulture3",	addr:"강원 평창군 용평면 갈정지길 7",		lc:"전통민속상설공연장",	lat:37.58943322827347,	lon:128.41604832723462},
+			{id:"mapCulture4",	addr:"강원 평창군 진부면 경강로 3554",	lc:"송어종합공연체험장",	lat:37.63212043706727,	lon:128.55649007071338},
+			{id:"mapCulture5",	addr:"강원 평창군 대관령면 차항길 252",	lc:"황병산사냥민속체험관",	lat:37.70715323834546,	lon:128.68725100586852},
+			{id:"mapCulture6",	addr:"강원 평창군 미탄면 청옥산 1길 12",	lc:"아라리체험관",			lat:37.342597931060766,	lon:128.49658218684286},
+			{id:"mapIntro1",	addr:"강원 평창군 평창읍 군청길 77",		lc:"종합민원실",			lat:37.37069653274507,			lon:128.3908443036175},
+			{id:"mapIntro2",	addr:"강원 평창군 평창읍 후평길 74",		lc:"상하수도사업소",		lat:37.379854097152,			lon:128.387432468492},
+		],
+		
+		"cave": [
+			{id:"mapCave",	addr:"강원 평창군 미탄면 문희길 63",	lc:"백령동굴생태체험학습장",	lat:37.27786356158564,	lon:128.57706634758458}
+		],
+		"edu": [
+			{id:"mapPcLife",addr:"강원 평창군 평창읍 군청길 77",	lc:"평창평생학습관",	lat:37.371272584581476,	lon:128.39012568877234}
+		],
+		"agri": [
+			{id:"mapAgr",	addr:"강원도 평창군 평창읍 여만길 46",	lc:"농업기술센터",		lat:37.37815169436543,	lon:128.39545273085068}
+		],
+		"health": [
+			{id:"mapHealth",	addr:"강원 평창군 평창읍 노성로11",			lc:"평창보건의료원",	lat:37.36894437083326,	lon:128.39075099428229},
+			{id:"mapHealth1",	addr:"강원 평창군 평창읍 종부로 69-27",			lc:"건강증진센터",		lat:37.36007902171657,	lon:128.39273640756923},
+			{id:"mapHealth2",	addr:"강원 평창군 진부면 석두산2길 13",				lc:"건강생활지원센터",	lat:37.63726594583658,	lon:128.55351603271362}
+		],
+		"lib": [
+			{id:"maplib",		addr:"강원 평창군 대화면 남산2길 27",			lc:"대화도서관" ,	lat:37.501509182743455,	lon:128.45801651687145},
+			{id:"maplib1",		addr:"강원 평창군 봉평면 기풍4길 10",			lc:"봉평도서관",	lat:37.616024677539826,	lon:128.37986313140308},
+			{id:"maplib2",		addr:"강원 평창군 진부면 석두로 12-8",		lc:"진부도서관",	lat:37.63535537351719,	lon:128.55438704666446},
+			{id:"maplib3",		addr:"강원 평창군 대관령면 대관령로 83-2",	lc:"대관령도서관",	lat:37.674013511007644,	lon:128.70578783769702},
+		],
+		
+		//읍면
+		"pc": [
+			{id:"mapPc",	addr:"강원 평창군 평창읍 백오로 177",		lc:"평창읍사무소",		lat:37.367738556862,	lon:128.400497532404}
+		],
+		"mt": [
+			{id:"mapMt",	addr:"강원 평창군 미탄면 청옥산1길",		lc:"미탄면사무소",		lat:37.34205415454469,	lon:128.4957673936811}
+		],
+		"bl": [
+			{id:"mapBr",	addr:"강원 평창군 방림면 서동로 1337",	lc:"방림면사무소",		lat:37.426450930500174,	lon:128.39417699308942},
+			{id:"mapGc",	addr:"강원 평창군 방림면 계촌길 101",		lc:"계촌출장소",		lat:37.452520924923924,	lon:128.30636453285604}
+		],
+		"dh": [
+			{id:"mapDh",	addr:"강원 평창군 대화면 남산1길 28",		lc:"대화면사무소",		lat:37.500990924079865,	lon:128.45810764530432}
+		],	
+		"bp": [
+			{id:"mapBp",	addr:"강원 평창군 봉평면 기풍4길 10",		lc:"봉평면사무소",		lat:37.616191475751435,	lon:128.37946698370249}
+		], 
+		"yp": [
+			{id:"mapYp",	addr:"강원 평창군 용평면 경강로 2027",	lc:"용평면사무소",		lat:37.60669978481759,	lon:128.44020458338156}
+		],
+		"jb": [
+			{id:"mapJb",	addr:"강원 평창군 진부면 석두산2길 13",	lc:"진부면사무소",		lat:37.637389047021344,	lon:128.55313002253033}
+		],
+		"dgl": [
+			{id:"mapDgr",	addr:"강원 평창군 대관령면 대관령로 83",	lc:"대관령면사무소",	lat:37.673603168599385,	lon:128.70612979465838}
+		],
+		
+	};
+	
+	var mapIds = new Array();
+	var mapList = new Array();
+	var mapLatLons = new Array();
+	
+	for (var i=0; i<lcMap[context].length; i++){
+	
+		var mapId = document.getElementById(lcMap[context][i].id);
+		
+		//해당 맴객체가 있는지 체크
+		if (mapId != null) {
+			
+			//초기좌표는 평창군청으로 설정
+			var lat = 37.371272584581476;
+			var lon = 128.39012568877234;
+			
+			if (lcMap[context][i].lat != null){
+				lat = lcMap[context][i].lat;
+			}
+			if (lcMap[context][i].lon != null){
+				lon = lcMap[context][i].lon;
+			}
+			
+			var mapLatLon = new kakao.maps.LatLng(lat, lon);
+			var mapContainer = mapId, // 지도를 표시할 div 
+			mapOption = { 
+				center: mapLatLon, // 지도의 중심좌표
+				level: 3 // 지도의 확대 레벨
+			};
+			
+			// 지도를 생성합니다   
+			var map = new kakao.maps.Map(mapContainer, mapOption);
+
+			// 결과값으로 받은 위치를 마커로 표시합니다
+			var marker = new kakao.maps.Marker({
+				map: map,
+				position: mapLatLon
+			});
+			// 커스텀 오버레이를 생성합니다
+			var customOverlay = new kakao.maps.CustomOverlay({
+				position: mapLatLon,
+				content: '<div class="map_label"><a href="https://map.kakao.com/link/to/'+lcMap[context][i].lc+','+lcMap[context][i].lat+','+lcMap[context][i].lon+'" target="_blank"> '+lcMap[context][i].lc+' </a></div>'
+			});
+
+			// 커스텀 오버레이를 지도에 표시합니다
+			customOverlay.setMap(map);
+
+			// 지도의 중심을 결과값으로 받은 위치로 이동시킵니다
+			map.setCenter(mapLatLon);
+			
+			mapIds[i] = mapId;
+			mapList[i] = map;
+			mapLatLons[i] = mapLatLon;
+		}
+	}
+	
+	$(window).resize(function() {
+		for (var i = 0; i < mapIds.length; i++) {
+			var jbWidth = mapIds[i].clientWidth;
+			mapIds[i].style.width = jbWidth;
+			mapList[i].relayout();
+			mapList[i].panTo(mapLatLons[i]);
+		}
+	});
+});
+
+</script>
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+$(document).ready(function() {
+	var pageUrl  = '/portal/part/traffic/part-hygiene-traffic/part-hygiene-traffic-info';
+	var pageName = '교통이용정보';
+	if ('/portal/part/traffic/part-hygiene-traffic/part-hygiene-traffic-info') {
+		$.ajax({
+			  type : 'POST'
+			, url  : '/egf/insertPageHit'
+			, data :{
+				  'pageUrl'  : pageUrl
+				, 'pageName' : pageName
+			}
+			, dataType:'json'
+		});
+	}
+});
+</script>
+
+
+
+
+
+
+
+
+
+<script>
+$(document).ready(function() {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-131748556-5', 'auto');
+	ga('send', 'pageview');
+});
+</script>
+
+</body>
+</html>

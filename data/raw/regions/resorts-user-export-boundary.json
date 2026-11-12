@@ -1,0 +1,14 @@
+{
+  "source": "User-provided north-up OpenStreetMap image and export frame, 2026-11-12",
+  "imageSize": [765,685],
+  "bbox": [128.55686,37.58458,128.82637,37.70094],
+  "projection": "Web Mercator",
+  "note": "Manual red-stroke tracing. Export bbox is preserved as the acquisition extent; it does not match this cropped screenshot. Georeference the image against OSM summit symbols, not text label positions. Not an official administrative boundary.",
+  "controlPoints": [
+    {"osmNodeId":"10253004763","name":"Tugubong","pixel":[359,133]},
+    {"osmNodeId":"10127629507","name":"Yongsan","pixel":[237,370]},
+    {"osmNodeId":"7972724268","name":"Balwangsan","pixel":[382,632]},
+    {"osmNodeId":"10252985128","name":"Samgakjeom 1220m","pixel":[51,534]}
+  ],
+  "pixels": [[303,147],[331,147],[361,149],[391,154],[422,156],[453,159],[481,162],[504,176],[523,192],[543,209],[554,225],[560,249],[567,272],[574,294],[578,316],[576,338],[568,362],[556,391],[545,419],[535,445],[525,473],[515,502],[503,529],[496,554],[490,579],[482,599],[470,618],[459,637],[444,653],[429,667],[410,675],[388,679],[366,675],[344,676],[321,670],[300,662],[279,650],[264,638],[249,620],[235,600],[225,579],[216,557],[211,534],[209,509],[209,486],[208,461],[207,439],[204,420],[195,403],[186,385],[179,364],[176,344],[176,322],[179,301],[182,279],[188,258],[190,239],[193,221],[202,207],[216,191],[231,178],[248,166],[269,156],[288,150]]
+}

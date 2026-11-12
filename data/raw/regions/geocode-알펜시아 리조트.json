@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 270575765,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4679201523,
+    "lat": "37.6572675",
+    "lon": "128.6727681",
+    "category": "leisure",
+    "type": "resort",
+    "place_rank": 30,
+    "importance": 0.000045001144426596745,
+    "addresstype": "leisure",
+    "name": "알펜시아 리조트",
+    "display_name": "알펜시아 리조트, 솔봉로, 용산리, 대관령면, 평창군, 강원특별자치도, 25351, 대한민국",
+    "boundingbox": [
+      "37.6572175",
+      "37.6573175",
+      "128.6727181",
+      "128.6728181"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 270082317,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1012071676,
+    "lat": "37.7863695",
+    "lon": "128.5639558",
+    "category": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.24632300460320036,
+    "addresstype": "amenity",
+    "name": "상원사",
+    "display_name": "상원사, 오대산 비로봉 코스, 진부면, 평창군, 강원특별자치도, 25318, 대한민국",
+    "boundingbox": [
+      "37.7863195",
+      "37.7864195",
+      "128.5639058",
+      "128.5640058"
+    ]
+  }
+]

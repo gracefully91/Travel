@@ -1,0 +1,18 @@
+{
+  "id": "barangjae",
+  "name": "바랑재",
+  "lat": 37.61870697522239,
+  "lon": 128.6475731226246,
+  "address": "강원특별자치도 평창군 대관령면 올림픽로 1169",
+  "source": "https://barangjae.com/page/location",
+  "embeddedMap": "https://t1.kakaocdn.net/roughmap/2bg24xhbx4ip.json",
+  "acquiredAt": "2026-11-12T03:00:54.044Z",
+  "input": {
+    "coordinateSystem": "WCONGNAMUL",
+    "x": 863654.0000000562,
+    "y": 1147390
+  },
+  "conversion": "WCONGNAMUL / 2.5 -> EPSG:5181 (GRS80) -> EPSG:4326, proj4",
+  "conversionReference": "https://devtalk.kakao.com/t/topic/38086",
+  "positionMeaning": "Official address map marker, not surveyed entrance"
+}

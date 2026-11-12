@@ -1,0 +1,13 @@
+{
+  "id": "resorts",
+  "bbox": [
+    128.55686,
+    37.58458,
+    128.82637,
+    37.70094
+  ],
+  "url": "https://www.openstreetmap.org/api/0.6/map",
+  "acquiredAt": "2026-11-12T02:58:15.147Z",
+  "tilesSource": "data/raw/regions/resorts-tiles/source.json",
+  "license": "OpenStreetMap contributors - ODbL 1.0"
+}

@@ -1,0 +1,969 @@
+<script>alert('�߸��� �����Դϴ�.'); location.href='../main/main.do';</script> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+	<meta name="title" content="">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta property="og:locale" content="ko_KR">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://access.visitkorea.or.kr">
+	<meta property="og:site_name" content="����� �������� - �������� ����� ����">
+	<meta property="og:title" content="">
+	<meta property="og:description" content="">
+	<meta property="og:image" content="https://access.visitkorea.or.kr">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="">
+	<meta name="twitter:description" content="">
+	<meta name="twitter:image" content="https://access.visitkorea.or.kr">
+	<meta name="format-detection" content="telephone=no" />
+	<title></title>
+	<link rel="canonical" href="https://access.visitkorea.or.kr">
+	<link rel="shortcut icon" type="image/x-icon" href="../resources/images/common/favicon.png">
+	<link rel="stylesheet" type="text/css" href="../resources/css/swiper.min.css">
+	<link rel="stylesheet" type="text/css" href="../resources/css/common.css">
+	<link rel="stylesheet" type="text/css" href="../resources/css/content.css">
+	<!-- <link rel="stylesheet" type="text/css" href="../resources/css/contrast.css"> ����� css -->
+	<script src="../resources/js/jquery-1.11.2.min.js"></script>
+	<script src="../resources/js/jquery.cookie.js"></script>
+	<script src="../resources/js/swiper.min.js"></script>
+	<script src="../resources/js/utils.js"></script>
+	<script src="../resources/js/global.js"></script>
+ 	<script src="../resources/js/cmnt.js"></script>
+	<script src="../resources/js/share.js"></script>
+	<script src="../resources/js/detailCommon.js"></script>
+	<script src="https://developers.kakao.com/sdk/js/kakao.min.js"></script>
+	<script type="text/javascript" src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=9e96a2d65848ed8d58e26e1d89872be9&libraries=services,clusterer,drawing"></script>
+	<!--[if lt IE 9]>
+		<script src="js/html5shiv.js"></script>
+	<![endif]-->
+	<script src="https://www.googleoptimize.com/optimize.js?id=OPT-P89RDC6"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XG33NWLM8D"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-XG33NWLM8D');
+</script>
+
+<!-- Naver Analytics -->
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+	if(!wcs_add) var wcs_add = {};
+	wcs_add["wa"] = "3fa40295d5cb66";
+	if(window.wcs) {
+		wcs_do();
+	}
+</script>
+
+</head>	
+<body>
+
+	<!-- skip -->
+	<div id="skipToContent">
+		<a href="#contents">���� �ٷΰ���</a>
+		<a href="#gnbMenu">�ָ޴� �ٷΰ���</a>
+	</div>
+	<!-- // skip -->
+
+
+	<!-- ���� ��� -->
+	<div id="common_header">
+	</div>
+	<!-- //���� ��� -->
+
+	<div id="contents">
+		<div class="share_area">
+			<ul class="navi">
+				<li>Ȩ</li>
+				<li>����� ��������</li>
+				<li>����</li>
+			</ul>
+			<ul class="share">
+				<li><a href="javascript:goShare('kakao');" class="kakao" title="��â">īī����</a></li>
+				<li><a href="javascript:goShare('facebook');" class="facebook" title="��â">���̽���</a></li>
+				<li><a href="javascript:goShare('twitter');" class="twitter" title="��â">Ʈ����</a></li>
+				<li><a href="javascript:goShare('clipBoard');" class="url">URL����</a></li>
+			</ul>
+		</div>
+		<div class="db_datail">
+			
+			<h2></h2>
+			<div class="area_adrs">
+				
+				<span>����� : </span>
+				<span>������ : </span>
+			</div>
+			<div class="post_area">
+				<div class="count">
+					<span>���ƿ�<strong id="likeCnt"></strong></span>
+					<span>����<strong id="shareCnt"></strong></span>
+				</div>
+				<div class="btn">
+					<button type="button" class="good" onclick="setLike('');">���ƿ�</button>
+					<button type="button" class="bookmark" onclick="addBookmark('');">���ã��</button>
+					<button type="button" class="print" title="��â" onclick="openPrint();">�μ�</button>
+				</div>
+			</div>
+			<div class="detail_tab">
+				<ul><!-- �� 4���϶� Ŭ���� type1�߰�-->
+					<li><a id="shortCut01Quick" href="javascript:detailTabEvent('01','����');">����</a></li>
+					<li><a id="shortCut02Quick" href="javascript:detailTabEvent('02','�⺻ ����');">�⺻ ����</a></li>
+					<li><a id="shortCut03Quick" href="javascript:detailTabEvent('03','����� ��������');">����� ��������</a></li>
+					
+					<li><a id="shortCut07Quick" href="javascript:detailTabEvent('07','����');">����</a></li>
+					<!-- <li><a href="#shortCut05">����</a></li> -->
+					<!-- <li><a href="#shortCut06">����</a></li> -->
+				</ul>
+			</div>
+
+			<!-- slide -->
+			<div class="detail_slide target" id="shortCut01">
+				<h3 class="blind" id="tabBtn01">����</h3>
+				
+				
+					<div class="swiper-container gallery-top">
+						<div class="swiper-wrapper">
+							
+								<div class="swiper-slide">
+									<div class="bg" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=33ee2f85-30fd-4b0d-b4c8-bdb59f2c8f68&v=07171458)">��â_������_�𷰽��ѽ�_1_ ū����</div>
+									<div class="caption"></div>
+								</div>
+							
+								<div class="swiper-slide">
+									<div class="bg" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=2c10dd7e-0756-4b11-8479-644966f2d024&v=07171458)">��â_������_�𷰽��ѽ�_2_ ū����</div>
+									<div class="caption"></div>
+								</div>
+							
+								<div class="swiper-slide">
+									<div class="bg" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=4efb351c-9b2f-4036-b2ef-f7c7c4c84b6d&v=07171458)">��â_������_�������ѽ�_1 ū����</div>
+									<div class="caption"></div>
+								</div>
+							
+								<div class="swiper-slide">
+									<div class="bg" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=06e3b408-90c8-4689-a8b5-0f2e4558901c&v=07171458)">��â_������_�������ѽ�_2 ū����</div>
+									<div class="caption"></div>
+								</div>
+							
+								<div class="swiper-slide">
+									<div class="bg" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=aee7d74e-9886-4a27-a98d-3e7f49737985&v=07171458)">��â_������_����_1_ ū����</div>
+									<div class="caption"></div>
+								</div>
+							
+								<div class="swiper-slide">
+									<div class="bg" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=c8cf39ad-d197-4db7-a693-5db746d420ba&v=07171458)">��â_������_����_2_ ū����</div>
+									<div class="caption"></div>
+								</div>
+							
+								<div class="swiper-slide">
+									<div class="bg" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=cfa3dd4f-2ce2-47e0-9824-bb47e5c5b6c3&v=07171458)">��â_������_�߿�_1_ ū����</div>
+									<div class="caption"></div>
+								</div>
+							
+								<div class="swiper-slide">
+									<div class="bg" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=20a74f95-2752-4c53-92ad-f1ab1414a9eb&v=07171458)">��â_������_�߿�_2_ ū����</div>
+									<div class="caption"></div>
+								</div>
+							
+								<div class="swiper-slide">
+									<div class="bg" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=28acbad2-5d23-4650-bfd5-be0dfc1adb52&v=12131503)"> ū����</div>
+									<div class="caption"></div>
+								</div>
+							
+								<div class="swiper-slide">
+									<div class="bg" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=2330e8d6-c2d2-46c8-8222-6ae4f3bf9500&v=12131503)"> ū����</div>
+									<div class="caption"></div>
+								</div>
+							
+								<div class="swiper-slide">
+									<div class="bg" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=bef1ac1f-824e-4ec8-a8b9-b834eb9285fb&v=13040017)">������ �����ѿ�ȣ�� 1 ū����</div>
+									<div class="caption"></div>
+								</div>
+							
+								<div class="swiper-slide">
+									<div class="bg" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=ca411fc0-14bc-46d2-a6b5-ea4426f66592&v=13040017)">������ �����ѿ�ȣ�� 2 ū����</div>
+									<div class="caption"></div>
+								</div>
+							
+						</div>
+						<!-- Add Pagination -->
+						<div class="swiper-pagination"></div>
+						<!-- Add Arrows -->
+						<div class="swiper-button-next"><span class="blind">����</span></div>
+						<div class="swiper-button-prev"><span class="blind">����</span></div>
+					</div>
+					<div class="gallery-thumbs">
+						<div class="swiper-wrapper">
+							
+								<div class="swiper-slide"><a href="javascript:galleryTop.slideTo(0); void(0);" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=33ee2f85-30fd-4b0d-b4c8-bdb59f2c8f68&v=07171458)">
+								
+									��â_������_�𷰽��ѽ�_1_
+								
+								
+								</a></div>
+							
+								<div class="swiper-slide"><a href="javascript:galleryTop.slideTo(1); void(0);" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=2c10dd7e-0756-4b11-8479-644966f2d024&v=07171458)">
+								
+									��â_������_�𷰽��ѽ�_2_
+								
+								
+								</a></div>
+							
+								<div class="swiper-slide"><a href="javascript:galleryTop.slideTo(2); void(0);" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=4efb351c-9b2f-4036-b2ef-f7c7c4c84b6d&v=07171458)">
+								
+									��â_������_�������ѽ�_1
+								
+								
+								</a></div>
+							
+								<div class="swiper-slide"><a href="javascript:galleryTop.slideTo(3); void(0);" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=06e3b408-90c8-4689-a8b5-0f2e4558901c&v=07171458)">
+								
+									��â_������_�������ѽ�_2
+								
+								
+								</a></div>
+							
+								<div class="swiper-slide"><a href="javascript:galleryTop.slideTo(4); void(0);" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=aee7d74e-9886-4a27-a98d-3e7f49737985&v=07171458)">
+								
+									��â_������_����_1_
+								
+								
+								</a></div>
+							
+								<div class="swiper-slide"><a href="javascript:galleryTop.slideTo(5); void(0);" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=c8cf39ad-d197-4db7-a693-5db746d420ba&v=07171458)">
+								
+									��â_������_����_2_
+								
+								
+								</a></div>
+							
+								<div class="swiper-slide"><a href="javascript:galleryTop.slideTo(6); void(0);" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=cfa3dd4f-2ce2-47e0-9824-bb47e5c5b6c3&v=07171458)">
+								
+									��â_������_�߿�_1_
+								
+								
+								</a></div>
+							
+								<div class="swiper-slide"><a href="javascript:galleryTop.slideTo(7); void(0);" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=20a74f95-2752-4c53-92ad-f1ab1414a9eb&v=07171458)">
+								
+									��â_������_�߿�_2_
+								
+								
+								</a></div>
+							
+								<div class="swiper-slide"><a href="javascript:galleryTop.slideTo(8); void(0);" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=28acbad2-5d23-4650-bfd5-be0dfc1adb52&v=12131503)">
+								
+								
+									8
+								
+								</a></div>
+							
+								<div class="swiper-slide"><a href="javascript:galleryTop.slideTo(9); void(0);" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=2330e8d6-c2d2-46c8-8222-6ae4f3bf9500&v=12131503)">
+								
+								
+									9
+								
+								</a></div>
+							
+								<div class="swiper-slide"><a href="javascript:galleryTop.slideTo(10); void(0);" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=bef1ac1f-824e-4ec8-a8b9-b834eb9285fb&v=13040017)">
+								
+									������ �����ѿ�ȣ�� 1
+								
+								
+								</a></div>
+							
+								<div class="swiper-slide"><a href="javascript:galleryTop.slideTo(11); void(0);" style="background-image: url(https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=ca411fc0-14bc-46d2-a6b5-ea4426f66592&v=13040017)">
+								
+									������ �����ѿ�ȣ�� 2
+								
+								
+								</a></div>
+							
+						</div>
+					</div>
+				
+			</div>
+			<!-- //slide -->
+
+			<!-- �±� -->
+			
+				<div class="tag_area">
+					<h3>�±�</h3>
+					<ul>
+						
+							<li><a href="javascript:goTag('����');">#����</a></li>
+						
+					</ul>
+					
+				</div>
+			
+			<!-- //�±� -->
+
+			<!-- �⺻ ���� -->
+			<div class="basic_info target" id="shortCut02">
+				<h3 id="tabBtn02">�⺻����</h3>
+				<p></p>
+				<ul>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+			</div>
+			<!-- //�⺻ ���� -->
+
+			<!-- ����� �������� -->
+			<div class="barrierfree_info target" id="shortCut03">
+				<h3 id="tabBtn03">����� ��������</h3>
+				<!-- pc -->
+				<div class="pc">
+					<button type="button" class="btn_modify" onclick="goRequest();">����� �������� ����/�ű� ��û</button>
+					
+						<div id="areaA1" class="tit_area active">
+							<h4 class="physical" tabindex="0">��ü���</h4><button type="button" id="areaA1btn">�ݱ�</button>
+						</div>
+						<div class="list">
+							<ul>
+								
+									<li>
+										<em>�� ���� ���ٷ�</em>
+										<span>���Ա����� ���� ���� ��ü�� ���� ������</span>
+										
+										
+									</li>
+								
+									<li>
+										<em>��ü��뿩</em>
+										<span>�뿩����</span>
+										
+										
+									</li>
+								
+									<li>
+										<em>�������</em>
+										<span>�����Ա��� ���� ���� ��ü�� ���� ������(������)</span>
+										
+										
+									</li>
+								
+									<li>
+										<em>����������</em>
+										<span>��ü�� ����Ʈ����</span>
+										
+										
+									</li>
+								
+									<li>
+										<em>ȭ���</em>
+										<span>����� ȭ��� ����</span>
+										
+										
+									</li>
+								
+									<li>
+										<em>����</em>
+										<span>����� ���� ����(1��/1��)</span>
+										
+										
+									</li>
+								
+							</ul>
+						</div>
+					
+					
+					
+					
+					
+						<div id="areaE1" class="tit_area active">
+							<h4 class="elderly" tabindex="0">������</h4><button type="button" id="areaE1btn">�ݱ�</button>
+						</div>
+						<div class="list">
+							<ul>
+								
+									<li>
+										<em>��ü�� �뿩</em>
+										<span>�뿩����</span>
+										
+										
+									</li>
+								
+							</ul>
+						</div>
+					
+				</div>
+				<!-- //pc -->
+				<!-- mobile -->
+				<div class="mo">
+					<!-- Swiper -->
+					<div class="swiper-container gallery-thumbs">
+						<ul class="swiper-wrapper bfinfo">
+							
+								<li class="swiper-slide" id="swA1">
+									<div class="pictogram">
+										<span class="icon1">��ü���</span>
+									</div>
+								</li>
+							
+							
+							
+							
+							
+							<li class="swiper-slide" id="swE1">
+								<div class="pictogram">
+									<span class="icon5">������</span>
+								</div>
+							</li>
+							
+						</ul>
+						<!-- Add Arrows -->
+						<div class="swiper-button-next swiper-button-white"></div>
+						<div class="swiper-button-prev swiper-button-white"></div>
+					</div>
+					<div class="swiper-container gallery-top">
+						<div class="swiper-wrapper">
+							
+								<div class="swiper-slide">
+									<div class="list">
+										<ul>
+											
+												<li>
+													<em>�� ���� ���ٷ�</em>
+													<span>���Ա����� ���� ���� ��ü�� ���� ������</span>
+													
+													
+												</li>
+											
+												<li>
+													<em>��ü��뿩</em>
+													<span>�뿩����</span>
+													
+													
+												</li>
+											
+												<li>
+													<em>�������</em>
+													<span>�����Ա��� ���� ���� ��ü�� ���� ������(������)</span>
+													
+													
+												</li>
+											
+												<li>
+													<em>����������</em>
+													<span>��ü�� ����Ʈ����</span>
+													
+													
+												</li>
+											
+												<li>
+													<em>ȭ���</em>
+													<span>����� ȭ��� ����</span>
+													
+													
+												</li>
+											
+												<li>
+													<em>����</em>
+													<span>����� ���� ����(1��/1��)</span>
+													
+													
+												</li>
+											
+										</ul>
+									</div>
+								</div>
+							
+							
+							
+							
+							
+								<div class="swiper-slide">
+									<div class="list">
+										<ul>
+											
+												<li>
+													<em>��ü�� �뿩</em>
+													<span>�뿩����</span>
+													
+													
+												</li>
+											
+										</ul>
+									</div>
+								</div>
+							
+						</div>
+					</div>
+					<button type="button" class="btn_modify" onclick="goRequest();">����� �������� ����/�ű� ��û</button>
+				</div>
+				<!-- //mobile -->
+			</div>
+			<!-- //����� �������� -->
+
+			<!-- ����� �������� -->
+			
+            
+
+			<!-- ���� -->
+			<div class="map_area target" id="shortCut07">
+				<div id="areaMap" class="tit_area active">
+					<h3 id="tabBtn07">����</h3><button type="button" id="areaMapBtn">�ݱ�</button>
+				</div>
+				<div class="wrap_map">
+					<button class="btn_loc" type="button" onclick="getMyLocation();">����ġ</button>
+					<div class="map" id="kakaoMap">
+					</div>
+					<div class="guide">
+						<strong></strong>
+						<span class="km"></span>
+						<a href="javascript:findingAway('', '', '');" title="��â" class="btn_guide">��ȳ�</a>
+					</div>
+				</div>
+			</div>
+			<!-- //���� -->
+
+			<!-- ���� ���� -->
+<!-- 			<div class="audi_service target" id="shortCut05"> -->
+<!-- 				<div class="tit_area active"><h3>���� ����</h3><button type="button">�ݱ�</button></div> -->
+<!-- 				<div class="audi"> -->
+<!-- 					<div class="btn"> -->
+<!-- 						<button type="button" class="play"><strong>����</strong> �÷��̾�</button> -->
+<!-- 						<button type="button" class="manuscript"><strong>����</strong> ����<span>�ݱ�</span></button> -->
+<!-- 					</div> -->
+<!-- 					<div class="manuscript_box"> -->
+<!-- 						��ź��Ʈ������ �Թ�� 850���̿� ��ġ�Ͽ����� 40�Ⱓ ��ϴ� 2001�⿡ �󱤵� �� ��ôź�� ���ϱ����� ������ ��ȭ��������1ȣ�� �� ź���� ���̸�, -->
+<!-- 						�ѱ����� ������ �� �� ����100���� �����Ǿ��� ������å ��ǥ â������� �����ʷ� ������ ��ȭ������ũ��. -->
+<!-- 						���������� 10���� �̼����� ȸ�ǽ� �������÷� ������� �����ϸ� �̿��� �� ������ �� �����ҽü��� ��ȭ�� ������, -->
+<!-- 						�Ǿ��� ���νü��� ���� ���� ��Ҹ� �����ϴ� �������� ���� �̼���ǰ�� �Բ� ������ â�����̰� ��ȭ�ο� ���ù̼����� ������ �� �ִ�. -->
+<!-- 					</div> -->
+<!-- 				</div> -->
+<!-- 			</div> -->
+			<!-- //���� ���� -->
+
+			<!-- ��� �μ� -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<!-- //��� �μ� -->
+		</div>
+	</div>
+
+	<div class="db_wide">
+		<!-- ��� -->
+ 		<div class="reply tit_area active">
+ 			<h3>������� ������<span class="num"></span>
+ 				
+ 					<span class="login no_login">* �α��� �� ��� �ۼ��� �����մϴ�.</span>
+ 				
+ 			</h3>
+ 		</div>
+
+ 		<div class="reply_wrap">
+ 			
+ 				<span class="mo_login">* �α��� �� ��� �ۼ��� �����մϴ�.</span>
+ 			
+ 			<div class="write img">
+ 				<textarea id="cmntBody" name="" rows="" title="������� �Է�" cols="" placeholder="������ ��������� �����ּ���."></textarea>
+ 				<div class="reg">
+ <form name="reg_img_form" id="reg_img_form">
+ 					<span class="num">0/500</span>
+ 					<ul class="img_list" id="writeImgList" style="display: none;"></ul>
+ 					<span class="btn">
+ 						<!--  
+ 						// ���� �ޱ� ������ ÷������ ����
+ 						span class="btn_file">
+ 								<input type="file" id="fileUp02" name="filesearch" onchange="fileChange(this);" accept=".jpg, .png, .gif, .bmp, .jpeg">
+ 								<label for="fileUp02">����ã��</label>
+ 						</span-->
+ 						<button type="button" class="btn_apply" onclick="saveCmnt('cmntBody', 0);">���</button>
+ 					</span>
+ </form>
+ 				</div>
+ 			</div>
+
+ 			<div class="write_reg" style="display:block;">
+ 				<div class="btn_more" id="cmntAdd"><button type="button" onclick="addCmnt();">��� ������ +</button></div>
+ 			</div>
+ 		</div>
+		<!-- //��� -->
+
+		<!-- �α� ����� ���ڽü� -->
+		<div class="vicinity_attraction">
+			<h3>�α� <strong>���� ������� ȯ�� ������</strong></h3>
+			<ul>
+				<li>
+					<a href="javascript:;">
+						<span class="img" style="background-image:url('');"></span>
+						<div class="cont">
+							<strong></strong>
+							<span class="area"></span>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="javascript:;">
+						<span class="img" style="background-image:url('');"></span>
+						<div class="cont">
+							<strong></strong>
+							<span class="area"></span>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="javascript:;">
+						<span class="img" style="background-image:url('');"></span>
+						<div class="cont">
+							<strong></strong>
+							<span class="area"></span>
+						</div>
+					</a>
+				</li>
+			</ul>
+		</div>
+		<!-- //�α� ����� ���ڽü� -->
+	</div>
+
+	<!-- footer -->
+	<footer id="common_footer">
+	</footer>
+	<!-- //footer -->
+</body>
+<script type="text/javascript">
+
+
+	var cotId = '';
+	var locationX;
+	var locationY;
+	var geocoder;
+	function ready() {
+
+		Kakao.init('9e96a2d65848ed8d58e26e1d89872be9');
+
+		$('#acmMenu').addClass('on');
+
+		if('' > 0) {
+			$('.bookmark').addClass('on');
+			$('.bookmark').attr("title", "���õ�");
+		}
+
+		sCotId = cotId;
+		sTitle = " > �� | ���ڽü� | �������� ����� ����";
+		sImgId = '&';
+
+		locationX = '';
+		locationY = '';
+		getMyLocation();
+
+// 		if(loginYn == 'N') {
+		$('.barrierfree_info .tit_area').removeClass('active');
+
+// 		} else {
+// 			if(!strNullChk(usrWithTypeCd)) {
+// 				if($('#area'+usrWithTypeCd).length > 0) $('#area'+usrWithTypeCd).removeClass('active');
+// 				else $('.barrierfree_info .tit_area').removeClass('active');
+// 			} else {
+// 				$('.barrierfree_info .tit_area').removeClass('active');
+// 			}
+// 		}
+
+		$('.room_info .mo iframe').css('width', '80%');
+
+
+		if ($('#shortCut04 .pc').children().length < 2) {
+			$('#shortCut04Quick').parent().hide();
+			$('#shortCut04').hide();
+		}
+
+		if ($('#shortCut05 .pc').children().length < 2) {
+			$('#shortCut05Quick').parent().hide();
+			$('#shortCut05').hide();
+		}
+
+
+		nearbyBf();
+		swiperCospc();
+	}
+
+	function nearbyBf() {
+		$.ajax({
+			url: 'ajax/nearbyBfTop3.do',
+			dataType: 'json',
+			type: 'POST',
+			data: {
+				cotId : cotId,
+				myLocationX : locationX,
+				myLocationY : locationY,
+			},success: function(data) {
+
+				var listStr = '';
+				var tmpsigungu = '';
+                
+				data.list.forEach(function(list) {
+					if(list.sigugunNm){
+						tmpsigungu = list.sigugunNm;
+						console.log(list.sigugunNm);
+					}
+					
+					listStr += '<li>';
+					listStr += '	<a href="../common/goDetail.do?cotId='+list.cotId+'">';
+					listStr += '		<span class="img" style="background-image:url(\''+imgUrl+list.imgId+'&v=' + list.imageRegDate + '\');"></span>';
+					listStr += '		<div class="cont">';
+					listStr += '			<strong>'+list.title+'</strong>';
+					listStr += '			<span class="area">'+list.areaNm+' '+tmpsigungu+'</span>';
+					listStr += '			<ul class="pic">';
+					if(list.physicalCnt > 0)
+						listStr += '			<li class="physical">��ü���</li>';
+					if(list.visualCnt > 0)
+						listStr += '			<li class="visual">�ð����</li>';
+					if(list.hearingCnt > 0)
+						listStr += '			<li class="infants">�����ư���</li>';
+					if(list.infantsCnt > 0)
+						listStr += '			<li class="elderly">������</li>';
+					if(list.elderlyCnt > 0)
+						listStr += '			<li class="hearing">û��</li>';
+					listStr += '			</ul>';
+					listStr += '		</div>';
+					listStr += '	</a>';
+					listStr += '</li>';
+				});
+
+				$('.vicinity_attraction ul').html(listStr);
+			},
+			complete: function() {
+			},
+			error: function(xhr, textStatus, errorThrown) {
+			}
+		});
+	}
+
+	var mayView = false;
+	var mapContainer, map, targetMaker, myMaker;
+
+	$('.map_area').on('click', function() {
+		if(!$(this).find('.tit_area').hasClass('active') && !mayView) {
+			kakaoMap();
+			mayView = true;
+		}
+	});
+
+	// ���� ����
+	function kakaoMap() {
+		mapContainer = document.getElementById('kakaoMap'), // ������ ǥ���� div
+
+		mapOption = {
+			center: new kakao.maps.LatLng(locationX, locationY), // ������ �߽���ǥ
+			level: 3 // ������ Ȯ�� ����
+		};
+
+		map = new kakao.maps.Map(mapContainer, mapOption); // ������ �����մϴ�
+
+		// ��Ŀ�� ǥ�õ� ��ġ�Դϴ�
+		var markerPosition  = new kakao.maps.LatLng(locationX, locationY);
+
+		// ��Ŀ�� �����մϴ�
+		targetMaker = new kakao.maps.Marker({
+			position: markerPosition
+		});
+
+		// ��Ŀ�� ���� ���� ǥ�õǵ��� �����մϴ�
+		targetMaker.setMap(map);
+
+		// �ڱ� ��ġ�κ��� �Ÿ� ���
+		getDist();
+
+		// ��Ŀ�� Ŭ���̺�Ʈ�� ����մϴ�
+		kakao.maps.event.addListener(targetMaker, 'click', function() {
+
+			map.setCenter(markerPosition);
+
+			if($('#kakaoMap .layer').length > 0) return;
+
+			var strHtml = '';
+
+			strHtml += '<div class="layer" style="z-index: 1000;">';
+			strHtml += '	<strong></strong>';
+			strHtml += '	<span class="km"></span>';
+			strHtml += '	<span class="btn"><a href="javascript:findingAway(\'\', \'\', \'\');" title="��â" class="btn_guide">��ȳ�</a></span>';
+			strHtml += '	<button class="close" type="button">�ݱ�</button>';
+			strHtml += '</div>';
+
+			$('#kakaoMap').append(strHtml);
+
+			$('#kakaoMap .layer .close').on('click', function() {
+				$(this).closest('.layer').remove();
+			});
+
+			getDist();
+		});
+
+		// �Ʒ� �ڵ�� ���� ���� ��Ŀ�� �����ϴ� �ڵ��Դϴ�
+		// marker.setMap(null);
+	}
+
+	function goMyLocation() {
+		// ��Ŀ�� ǥ�õ� ��ġ�Դϴ�
+		var markerPosition  = new kakao.maps.LatLng(myLocationX, myLocationY);
+
+		// ��Ŀ�� �����մϴ�
+		myMaker = new kakao.maps.Marker({
+			position: markerPosition
+		});
+
+		// ��Ŀ�� ���� ���� ǥ�õǵ��� �����մϴ�
+		myMaker.setMap(map);
+
+		// �߽� �̵�
+		var moveLatLon = new kakao.maps.LatLng(myLocationX, myLocationY);
+
+		map.setCenter(moveLatLon);
+
+		// �ڱ� ��ġ�κ��� �Ÿ� ���
+		getDist();
+	}
+
+	function getDist() {
+		$('.km').html(getDistanceFromLatLonInKm(Number(locationX), Number(locationY), Number(myLocationX), Number(myLocationY))+'km');
+	}
+
+	function goTag(tag) {
+		location.href = '../search/search_combine.do?searchValue='+encodeURIComponent('#'+tag);
+	}
+
+	var galleryThumbs = new Swiper('.detail_slide .gallery-thumbs', {
+		spaceBetween: 0,
+		freeMode: true,
+		autoHeight: true,
+		watchSlidesVisibility: true,
+		watchSlidesProgress: true,
+	});
+	var galleryTop = new Swiper('.detail_slide .gallery-top', {
+		spaceBetween: 0,
+		navigation: {
+			nextEl: '.swiper-button-next',
+			prevEl: '.swiper-button-prev',
+		},
+		pagination: {
+			el: '.swiper-pagination',
+			type: 'fraction',
+		},
+		thumbs: {
+			swiper: galleryThumbs
+		}
+	});
+
+	var swiper = new Swiper('.contact.swiper-container', {
+		spaceBetween: 10,
+		autoHeight: true,
+		navigation: {
+			nextEl: '.swiper-button-next',
+			prevEl: '.swiper-button-prev',
+		},
+		pagination: {
+			el: '.swiper-pagination',
+			type: 'fraction',
+		},
+	});
+
+	function swiperCospc(){
+		if($('.barrierfree_info .mo .gallery-top.swiper-container li').length > 1){
+			$('.barrierfree_info .mo').addClass('js_slider');
+			$('.barrierfree_info').each(function(index) {
+				const $this = $(this);
+
+				// ����ũ Ŭ���� �̸��� ������ ����
+				const thumbsClass = 'gallery-thumbs-' + index;
+				const topClass = 'gallery-top-' + index;
+				const nextClass = 'swiper-button-next-' + index;
+				const prevClass = 'swiper-button-prev-' + index;
+
+				// Ŭ���� �ϰ� �߰�
+				$this.find('.gallery-thumbs').addClass(thumbsClass);
+				$this.find('.gallery-top').addClass(topClass);
+				$this.find('.swiper-button-next').addClass(nextClass);
+				$this.find('.swiper-button-prev').addClass(prevClass);
+
+				// Swiper ����
+				var galleryThumbs = new Swiper('.'+thumbsClass, {
+					spaceBetween: 0,
+					centeredSlides: true,
+					slidesPerView: 'auto',
+					slideToClickedSlide: true,
+					autoHeight: true,
+					navigation: {
+						nextEl: '.' + nextClass,
+						prevEl: '.' + prevClass,
+					},
+				});
+
+				var galleryTop = new Swiper('.'+topClass, {
+					slidesPerView: 'auto',
+					spaceBetween: 0,
+					centeredSlides: true,
+				});
+
+				setTimeout(() => {
+					if (galleryThumbs && galleryTop) {
+						galleryThumbs.controller.control = galleryTop;
+						galleryTop.controller.control = galleryThumbs;
+					}
+				}, 0);
+			});
+		}
+
+		tabFixed();
+	}
+	
+	// function btnClick(btn, div) {
+	// 	if($('#'+btn).text() == "�ݱ�"){
+	// 		$('#'+div).addClass('active');
+	// 	} else {
+	// 		$('#'+div).removeClass('active');
+	// 	}
+	// }
+
+	function downloadFile(bfNo, fileNm) {
+		var screenId = "FLOOR_PLAN";
+		location.href = imgDownloadUrl+bfNo+'&fileNm='+encodeURIComponent(fileNm) + '&screenId=' + screenId;
+	}
+</script>
+</html>

@@ -1,0 +1,34 @@
+[
+  {
+    "from": "jinbu-station",
+    "to": "jinbu-town",
+    "point": [
+      -227.0981525823659,
+      124.70093932380057
+    ],
+    "roadId": 548304660,
+    "roadName": "송정길",
+    "routeSource": "https://router.project-osrm.org/route/v1/driving/128.57445636859865,37.64273279258768;128.55840330438474,37.63615615176021?overview=full&geometries=geojson",
+    "source": "OSM centerline + OSRM driving route",
+    "acquiredAt": "2026-11-12",
+    "placement": "App navigation sign on the actual connecting road; not a surveyed roadside sign",
+    "meters": 2041.9,
+    "seconds": 226.2
+  },
+  {
+    "from": "jinbu-town",
+    "to": "jinbu-station",
+    "point": [
+      565.8,
+      570.8
+    ],
+    "roadId": 647971501,
+    "roadName": "경강로",
+    "routeSource": "https://router.project-osrm.org/route/v1/driving/128.55840330438474,37.63615615176021;128.57445636859865,37.64273279258768?overview=full&geometries=geojson",
+    "source": "OSM centerline + OSRM driving route",
+    "acquiredAt": "2026-11-12",
+    "placement": "App navigation sign near the rounded Jinbu town edge on the saved OSRM route; not a surveyed roadside sign",
+    "meters": 1922.6,
+    "seconds": 211.1
+  }
+]

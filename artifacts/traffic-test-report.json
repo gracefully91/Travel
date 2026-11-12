@@ -1,0 +1,24 @@
+{
+  "checkedEdges": 119,
+  "checkedLanes": 12,
+  "maxLaneError": 1.5888218580782548e-14,
+  "directions": [
+    [
+      1
+    ],
+    [
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1
+    ],
+    [
+      1,
+      -1
+    ]
+  ]
+}

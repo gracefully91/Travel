@@ -1,0 +1,192 @@
+{
+  "acquiredAt": "2026-11-11T09:24:56.658Z",
+  "source": "https://routing.openstreetmap.de/routed-foot/table/v1/driving/128.57445636859865,37.64273279258768;128.55840330438474,37.63615615176021;128.602585,37.7177995;128.5919951,37.7319368;128.5639558,37.7863695;128.7528354,37.686757?annotations=duration,distance",
+  "places": [
+    {
+      "id": "jinbu",
+      "lat": 37.64273279258768,
+      "lon": 128.57445636859865
+    },
+    {
+      "id": "terminal",
+      "lat": 37.63615615176021,
+      "lon": 128.55840330438474
+    },
+    {
+      "id": "museum",
+      "lat": 37.7177995,
+      "lon": 128.602585
+    },
+    {
+      "id": "woljeongsa",
+      "lat": 37.7319368,
+      "lon": 128.5919951
+    },
+    {
+      "id": "sangwonsa",
+      "lat": 37.7863695,
+      "lon": 128.5639558
+    },
+    {
+      "id": "sheep",
+      "lat": 37.686757,
+      "lon": 128.7528354
+    }
+  ],
+  "durations": [
+    [
+      0,
+      1484,
+      7798.9,
+      9573.1,
+      16145.2,
+      16000.6
+    ],
+    [
+      1484,
+      0,
+      8896.1,
+      10670.3,
+      17242.4,
+      17097.8
+    ],
+    [
+      7798.9,
+      8896.1,
+      0,
+      1840.2,
+      8412.3,
+      16166
+    ],
+    [
+      9573.1,
+      10670.3,
+      1840.2,
+      0,
+      6717.5,
+      17940.2
+    ],
+    [
+      16145.2,
+      17242.4,
+      8412.3,
+      6717.5,
+      0,
+      24512.3
+    ],
+    [
+      16000.6,
+      17097.8,
+      16166,
+      17940.2,
+      24512.3,
+      0
+    ]
+  ],
+  "distances": [
+    [
+      0,
+      1855.1,
+      9749.3,
+      11967.1,
+      20182.5,
+      19998.1
+    ],
+    [
+      1855.1,
+      0,
+      11120.8,
+      13338.6,
+      21554,
+      21369.6
+    ],
+    [
+      9749.3,
+      11120.8,
+      0,
+      2300.3,
+      10515.7,
+      20207.7
+    ],
+    [
+      11967.1,
+      13338.6,
+      2300.3,
+      0,
+      8397.2,
+      22425.5
+    ],
+    [
+      20182.5,
+      21554,
+      10515.7,
+      8397.2,
+      0,
+      30640.9
+    ],
+    [
+      19998.1,
+      21369.6,
+      20207.7,
+      22425.5,
+      30640.9,
+      0
+    ]
+  ],
+  "snapped": [
+    {
+      "hint": "8hXchCwW3IQAAAAAfwAAAAAAAAAAAAAAAAAAANsYdEEAAAAAAAAAAAAAAAB6AAAAAAAAAAAAAABwAgAAPeOpB_hhPgL446kH7WE-AgAA_xIAAAAA",
+      "location": [
+        128.574269,
+        37.642744
+      ],
+      "name": "",
+      "distance": 16.55303925
+    },
+    {
+      "hint": "qldfjKtXX4zhAAAAEgEAAJAAAAAAAAAAomm0QZ7A2kEfeGZBAAAAALQAAADbAAAAcwAAAAAAAABwAgAA06WpB_RHPgJDpakHPEg-AgIATw0AAAAA",
+      "location": [
+        128.558547,
+        37.636084
+      ],
+      "name": "",
+      "distance": 15.01515875
+    },
+    {
+      "hint": "EJ2Zix6dmYtQAAAAKwEAAKYCAAB3BAAA1P4ZQeEzD0LO4KJCeQ4JQ0wAAAAfAQAAiwIAAEgEAABwAgAA81CqBz-HPwLZUaoHKIc_AggAfwAAAAAA",
+      "location": [
+        128.602355,
+        37.717823
+      ],
+      "name": "",
+      "distance": 20.43673493
+    },
+    {
+      "hint": "mWwbhiSXgogGAAAAkAAAAJ8KAACgBgAAoFwKP81ZN0Fze1lD66cHQwQAAABcAAAAygYAAD0EAABwAgAAASmqB328PwJ7KKoHYb4_AiIAHxAAAAAA",
+      "location": [
+        128.592129,
+        37.731453
+      ],
+      "name": "오대산 월정사 전나무숲길",
+      "distance": 55.0033658
+    },
+    {
+      "hint": "_0MoiwBEKItAAAAAAAAAANkAAAAAAAAAn2H3QAAAAAA3ps9BAAAAAD4AAAAAAAAA0AAAAAAAAABwAgAAOcWpB6SXQAL0uqkHApNAAgQAPxMAAAAA",
+      "location": [
+        128.566585,
+        37.787556
+      ],
+      "name": "",
+      "distance": 266.409214
+    },
+    {
+      "hint": "5lk2hOhZNoROAAAAvAAAABcGAAAXBgAAsl8JQQRLpUExbCtDw4crQ0QAAACmAAAAWwUAAFsFAABwAgAAgpysB8sNPwLDnKwH5Q0_AgYA3xQAAAAA",
+      "location": [
+        128.75277,
+        37.686731
+      ],
+      "name": "",
+      "distance": 6.419404021
+    }
+  ]
+}

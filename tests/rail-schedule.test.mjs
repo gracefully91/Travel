@@ -1,0 +1,11 @@
+﻿import {test} from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';
+import {koreaClock,servicesForDate,activeRailEvent,nextRailEvent} from '../src/lib/railSchedule.ts';
+const table=JSON.parse(fs.readFileSync('data/processed/jinbu-train-timetable.json','utf8'));
+const at=s=>Date.parse(s+'+09:00');
+test('Korea date and weekday are independent of host timezone',()=>{assert.deepEqual(koreaClock(at('2026-11-12T00:00:00')),{date:'2026-11-12',weekday:4,second:0});assert.equal(koreaClock(at('2026-11-11T23:59:59')).date,'2026-11-11')});
+test('Official worksheet yields 32 stopping services and excludes 34 non-stopping times',()=>{assert.equal(table.services.length,32);assert.equal(table.skippedNonStopping,34);assert.ok(table.services.every(v=>v.stationSecond%60===0&&v.sourceCell));assert.equal(table.services.find(v=>v.id==='gangneung-843').stationSecond,12*3600+41*60)});
+test('Saturday-only service does not run on Thursday',()=>{assert.ok(!servicesForDate(table,'2026-11-12').some(v=>v.id==='gangneung-853'));assert.ok(servicesForDate(table,'2026-11-14').some(v=>v.id==='gangneung-853'))});
+test('Both directions select their actual station event independently',()=>{const g=activeRailEvent(table,at('2026-11-12T07:26:00'),'gangneung',40,40),s=activeRailEvent(table,at('2026-11-12T06:36:00'),'seoul',40,40);assert.equal(g.service.id,'gangneung-803');assert.equal(s.service.id,'seoul-804');assert.equal(activeRailEvent(table,at('2026-11-12T07:26:00'),'seoul',40,40),undefined)});
+test('No missed-day replay and expired snapshot does not auto-run',()=>{assert.equal(activeRailEvent(table,at('2026-11-12T03:00:00'),'gangneung',40,40),undefined);assert.equal(activeRailEvent(table,at('2026-12-13T07:26:00'),'gangneung',40,40),undefined);assert.deepEqual(servicesForDate(table,'2026-10-31'),[])});
+test('Next departure crosses midnight without replaying last train',()=>{const event=nextRailEvent(table,at('2026-11-12T23:59:59'));assert.equal(event.id,'2026-11-13/seoul-802')});
+test('Midnight animation uses previous service date when it is still on screen',()=>{const t={...table,services:[{...table.services[0],id:'fixture',direction:'gangneung',stationSecond:86390,weekdays:[0,1,2,3,4,5,6]}]};assert.equal(activeRailEvent(t,at('2026-11-13T00:00:05'),'gangneung',40,40).id,'2026-11-12/fixture')});

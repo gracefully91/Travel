@@ -1,0 +1,12 @@
+{
+  "id": "hoenggye",
+  "bbox": [
+    128.69,
+    37.65,
+    128.735,
+    37.692
+  ],
+  "url": "https://www.openstreetmap.org/api/0.6/map?bbox=128.69,37.65,128.735,37.692",
+  "acquiredAt": "2026-11-12T01:39:09.281Z",
+  "license": "? OpenStreetMap contributors ? ODbL 1.0"
+}

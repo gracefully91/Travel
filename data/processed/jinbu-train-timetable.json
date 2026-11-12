@@ -1,0 +1,619 @@
+{
+  "station": "진부(오대산)",
+  "timezone": "Asia/Seoul",
+  "precision": "minute (source display format h:mm; hidden fractional seconds are not claimed)",
+  "effectiveFrom": "2026-11-01",
+  "verifiedAt": "2026-11-12",
+  "reviewAfter": "2026-12-12",
+  "reviewPolicy": "30-day application review window, not an official timetable expiry",
+  "sourceUrl": "https://www.korail.com/file/cubedata/COMMON/jfile/202610/13/202610131a130b1ac0b200.xlsx",
+  "boardUrl": "https://www.korail.com/com/userBoard.do?mode=view&schBcid=ticketTable&bdIdx=26041",
+  "sourceTitle": "KTX 시간표(2026. 11. 1. 기준)",
+  "sourceSheet": "강릉선",
+  "sourceSha256": "25a8f8781a5840543dc41e937b717255ad498e98837586acba924775b5f63a92",
+  "note": "진부 정차 시각을 기준으로 한 미니어처 통과 표현. 실제 위치·지연·승강장 배정 미반영. 미정차 열차의 통과시각은 추정하지 않음. 산천 모델은 대표 시각화이며 실제 차종은 trainType 필드 참고. 공휴일 특수 운행은 확인되지 않음.",
+  "skippedNonStopping": 34,
+  "services": [
+    {
+      "id": "seoul-802",
+      "trainNumber": "802",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 20400,
+      "time": "05:40:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "AB11",
+      "sourceExcelSerial": 0.23645833333333333
+    },
+    {
+      "id": "seoul-804",
+      "trainNumber": "804",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 23760,
+      "time": "06:36:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "AB12",
+      "sourceExcelSerial": 0.27534722222222224
+    },
+    {
+      "id": "gangneung-803",
+      "trainNumber": "803",
+      "trainType": "KTX-이음",
+      "direction": "gangneung",
+      "stationSecond": 26760,
+      "time": "07:26:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "O12",
+      "sourceExcelSerial": 0.30972222222222223
+    },
+    {
+      "id": "seoul-840",
+      "trainNumber": "840",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 28980,
+      "time": "08:03:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "AB14",
+      "sourceExcelSerial": 0.3354166666666667
+    },
+    {
+      "id": "seoul-808",
+      "trainNumber": "808",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 30600,
+      "time": "08:30:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "AB15",
+      "sourceExcelSerial": 0.35451388888888885
+    },
+    {
+      "id": "gangneung-841",
+      "trainNumber": "841",
+      "trainType": "KTX-이음",
+      "direction": "gangneung",
+      "stationSecond": 30780,
+      "time": "08:33:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "O14",
+      "sourceExcelSerial": 0.35625
+    },
+    {
+      "id": "gangneung-853",
+      "trainNumber": "853",
+      "trainType": "KTX-이음",
+      "direction": "gangneung",
+      "stationSecond": 32700,
+      "time": "09:05:00",
+      "weekdays": [
+        6,
+        0
+      ],
+      "operationNote": "토일",
+      "sourceCell": "O15",
+      "sourceExcelSerial": 0.37847222222222227
+    },
+    {
+      "id": "seoul-852",
+      "trainNumber": "852",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 36540,
+      "time": "10:09:00",
+      "weekdays": [
+        6,
+        0
+      ],
+      "operationNote": "토일",
+      "sourceCell": "AB16",
+      "sourceExcelSerial": 0.42291666666666666
+    },
+    {
+      "id": "gangneung-855",
+      "trainNumber": "855",
+      "trainType": "KTX-이음",
+      "direction": "gangneung",
+      "stationSecond": 36900,
+      "time": "10:15:00",
+      "weekdays": [
+        6,
+        0
+      ],
+      "operationNote": "토일",
+      "sourceCell": "O17",
+      "sourceExcelSerial": 0.42743055555555554
+    },
+    {
+      "id": "seoul-856",
+      "trainNumber": "856",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 38160,
+      "time": "10:36:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "AB18",
+      "sourceExcelSerial": 0.44166666666666665
+    },
+    {
+      "id": "gangneung-807",
+      "trainNumber": "807",
+      "trainType": "KTX-이음",
+      "direction": "gangneung",
+      "stationSecond": 38340,
+      "time": "10:39:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "O18",
+      "sourceExcelSerial": 0.4440972222222222
+    },
+    {
+      "id": "seoul-812",
+      "trainNumber": "812",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 42000,
+      "time": "11:40:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "AB22",
+      "sourceExcelSerial": 0.4864583333333334
+    },
+    {
+      "id": "gangneung-843",
+      "trainNumber": "843",
+      "trainType": "KTX-이음",
+      "direction": "gangneung",
+      "stationSecond": 45660,
+      "time": "12:41:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "O21",
+      "sourceExcelSerial": 0.5286458333333334
+    },
+    {
+      "id": "seoul-814",
+      "trainNumber": "814",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 45780,
+      "time": "12:43:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "AB23",
+      "sourceExcelSerial": 0.5302083333333333
+    },
+    {
+      "id": "gangneung-811",
+      "trainNumber": "811",
+      "trainType": "KTX-이음",
+      "direction": "gangneung",
+      "stationSecond": 50160,
+      "time": "13:56:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "O23",
+      "sourceExcelSerial": 0.5805555555555556
+    },
+    {
+      "id": "seoul-844",
+      "trainNumber": "844",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 54000,
+      "time": "15:00:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "AB26",
+      "sourceExcelSerial": 0.625
+    },
+    {
+      "id": "seoul-862",
+      "trainNumber": "862",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 58860,
+      "time": "16:21:00",
+      "weekdays": [
+        5,
+        6,
+        0
+      ],
+      "operationNote": "금토일",
+      "sourceCell": "AB28",
+      "sourceExcelSerial": 0.68125
+    },
+    {
+      "id": "gangneung-845",
+      "trainNumber": "845",
+      "trainType": "KTX-이음",
+      "direction": "gangneung",
+      "stationSecond": 60240,
+      "time": "16:44:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "O31",
+      "sourceExcelSerial": 0.6972222222222223
+    },
+    {
+      "id": "seoul-818",
+      "trainNumber": "818",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 61560,
+      "time": "17:06:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "AB30",
+      "sourceExcelSerial": 0.7125
+    },
+    {
+      "id": "seoul-820",
+      "trainNumber": "820",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 62520,
+      "time": "17:22:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "AB31",
+      "sourceExcelSerial": 0.7236111111111111
+    },
+    {
+      "id": "gangneung-817",
+      "trainNumber": "817",
+      "trainType": "KTX-이음",
+      "direction": "gangneung",
+      "stationSecond": 65040,
+      "time": "18:04:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "O33",
+      "sourceExcelSerial": 0.7527777777777778
+    },
+    {
+      "id": "seoul-866",
+      "trainNumber": "866",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 65580,
+      "time": "18:13:00",
+      "weekdays": [
+        5,
+        6,
+        0
+      ],
+      "operationNote": "금토일",
+      "sourceCell": "AB34",
+      "sourceExcelSerial": 0.7590277777777777
+    },
+    {
+      "id": "gangneung-819",
+      "trainNumber": "819",
+      "trainType": "KTX-이음",
+      "direction": "gangneung",
+      "stationSecond": 68040,
+      "time": "18:54:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "O34",
+      "sourceExcelSerial": 0.7875
+    },
+    {
+      "id": "seoul-822",
+      "trainNumber": "822",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 68940,
+      "time": "19:09:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "AB36",
+      "sourceExcelSerial": 0.7979166666666666
+    },
+    {
+      "id": "gangneung-865",
+      "trainNumber": "865",
+      "trainType": "KTX-이음",
+      "direction": "gangneung",
+      "stationSecond": 69600,
+      "time": "19:20:00",
+      "weekdays": [
+        5,
+        6,
+        0
+      ],
+      "operationNote": "금토일",
+      "sourceCell": "O35",
+      "sourceExcelSerial": 0.8059027777777777
+    },
+    {
+      "id": "seoul-846",
+      "trainNumber": "846",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 72120,
+      "time": "20:02:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "AB37",
+      "sourceExcelSerial": 0.8350694444444445
+    },
+    {
+      "id": "seoul-870",
+      "trainNumber": "870",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 73440,
+      "time": "20:24:00",
+      "weekdays": [
+        5,
+        6,
+        0
+      ],
+      "operationNote": "금토일",
+      "sourceCell": "AB38",
+      "sourceExcelSerial": 0.8503472222222223
+    },
+    {
+      "id": "gangneung-867",
+      "trainNumber": "867",
+      "trainType": "KTX-이음",
+      "direction": "gangneung",
+      "stationSecond": 76200,
+      "time": "21:10:00",
+      "weekdays": [
+        5,
+        6,
+        0
+      ],
+      "operationNote": "금토일",
+      "sourceCell": "O38",
+      "sourceExcelSerial": 0.8822916666666667
+    },
+    {
+      "id": "gangneung-823",
+      "trainNumber": "823",
+      "trainType": "KTX-이음",
+      "direction": "gangneung",
+      "stationSecond": 77940,
+      "time": "21:39:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "O40",
+      "sourceExcelSerial": 0.9024305555555556
+    },
+    {
+      "id": "seoul-872",
+      "trainNumber": "872",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 80460,
+      "time": "22:21:00",
+      "weekdays": [
+        5,
+        6,
+        0
+      ],
+      "operationNote": "금토일",
+      "sourceCell": "AB41",
+      "sourceExcelSerial": 0.93125
+    },
+    {
+      "id": "seoul-848",
+      "trainNumber": "848",
+      "trainType": "KTX-이음",
+      "direction": "seoul",
+      "stationSecond": 80940,
+      "time": "22:29:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "AB42",
+      "sourceExcelSerial": 0.9371527777777778
+    },
+    {
+      "id": "gangneung-827",
+      "trainNumber": "827",
+      "trainType": "KTX-이음",
+      "direction": "gangneung",
+      "stationSecond": 85620,
+      "time": "23:47:00",
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "operationNote": "매일",
+      "sourceCell": "O43",
+      "sourceExcelSerial": 0.9909722222222223
+    }
+  ]
+}

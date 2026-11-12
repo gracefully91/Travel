@@ -1,0 +1,110 @@
+{
+  "checks": [
+    "Only the central two of four station tracks are selected",
+    "Both directions use the physical right-hand track after world transformation",
+    "At spawn the entire GLB is outside the map, with zero visible pixels",
+    "Train progressively enters through the boundary before reaching the station",
+    "Train pixels are clipped to the actual map square",
+    "Train remains at the exact same station position for the full minute",
+    "After 60 seconds the Gangneung train accelerates northeast",
+    "Rear carriages leave progressively rather than disappearing as a whole",
+    "Train is hidden only after fully exiting the opposite boundary",
+    "Reverse service also stops and then departs southwest",
+    "Manual demo uses the same boundary-start and 60-second dwell journey",
+    "Pause freezes entry, motion and the dwell clock",
+    "No browser console errors"
+  ],
+  "errors": [],
+  "geometry": {
+    "crossings": [
+      {
+        "id": 971722971,
+        "x": 27.78701772561149
+      },
+      {
+        "id": 545488739,
+        "x": 42.71836132571808
+      },
+      {
+        "id": 971722969,
+        "x": 48.8649640862269
+      },
+      {
+        "id": 971722968,
+        "x": 63.240015721963886
+      }
+    ],
+    "lanes": [
+      {
+        "direction": "gangneung",
+        "stationWayId": 971722969,
+        "rank": 2,
+        "right": 2.607774858236799,
+        "noSidings": true
+      },
+      {
+        "direction": "seoul",
+        "stationWayId": 545488739,
+        "rank": 1,
+        "right": 2.387354291906861,
+        "noSidings": true
+      }
+    ]
+  },
+  "journey": {
+    "startDistance": 98.25539778149117,
+    "endDistance": 920.1262676401232,
+    "stopDistance": 480.2416429356824,
+    "brakeDistance": 45,
+    "accelerationDistance": 45,
+    "cruiseSeconds": 19.82272030318772,
+    "brakeSeconds": 5.294117647058823,
+    "accelerationSeconds": 5.294117647058823,
+    "approachSeconds": 25.11683795024654,
+    "dwellSeconds": 60,
+    "departureSeconds": 28.52262498261416,
+    "totalSeconds": 113.63946293286071
+  },
+  "masks": {
+    "outside": {
+      "count": 0,
+      "maxExtent": 0,
+      "planes": [
+        249,
+        249,
+        249,
+        249
+      ]
+    },
+    "entry": {
+      "count": 114,
+      "maxExtent": 248.14453125,
+      "planes": [
+        249,
+        249,
+        249,
+        249
+      ]
+    },
+    "whole": {
+      "count": 352,
+      "maxExtent": 105.05859375,
+      "planes": [
+        249,
+        249,
+        249,
+        249
+      ]
+    },
+    "exit": {
+      "count": 114,
+      "maxExtent": 248.14453125,
+      "planes": [
+        249,
+        249,
+        249,
+        249
+      ]
+    }
+  }
+}

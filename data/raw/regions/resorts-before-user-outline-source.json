@@ -1,0 +1,12 @@
+{
+  "id": "resorts",
+  "bbox": [
+    128.64,
+    37.611,
+    128.705,
+    37.673
+  ],
+  "url": "https://www.openstreetmap.org/api/0.6/map?bbox=128.64,37.611,128.705,37.673",
+  "acquiredAt": "2026-11-11T11:29:20.005Z",
+  "license": "© OpenStreetMap contributors · ODbL 1.0"
+}

@@ -1,0 +1,10 @@
+﻿export type GeoPlace={id:string;name:string;lat:number;lon:number;category:string;address?:string;source:string;hoursSource?:string;hoursNote:string;hours?:{open:number;close:number;lastEntry?:number;closedWeekdays?:number[];museumHolidays?:boolean;summerClose?:number};stay:number;selected?:boolean;assignedDay:number|null;fixedTime?:number;required:boolean;hoursEdited?:boolean};
+export type Mode='car'|'taxi'|'walk'|'transit';
+export type TripSettings={startDate:string;days:number;start:number;end:number;mode:Mode;buffer:number;breakMinutes:number;distribution:'auto'|'manual';firstStation:boolean;lastStation:boolean;allowUnknownHours:boolean};
+export type TravelCell={minutes:number;meters:number;source:string;estimated?:boolean};
+export type TravelMatrix=Record<string,Record<string,TravelCell|null>>;
+export type TimetableTrip={id:string;date:string;fromId:string;toId:string;departure:number;arrival:number;label:string;source:string};
+export type Leg={from:GeoPlace;to:GeoPlace;departure:number;arrival:number;minutes:number;meters:number;waiting:number;source:string;fare?:number;tripLabel?:string};
+export type Visit={place:GeoPlace;arrival:number;start:number;end:number;leg:Leg;warnings:string[]};
+export type DayPlan={day:number;date:string;startPlace:GeoPlace;endPlace:GeoPlace;visits:Visit[];returnLeg:Leg|null;breaks:{start:number;end:number}[];finish:number;warnings:string[]};
+export type PlanResult={days:DayPlan[];unplaced:{place:GeoPlace;reason:string}[];warnings:string[]};

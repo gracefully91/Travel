@@ -1,0 +1,10 @@
+{
+  "checks": [
+    "Missing train key is reported without exposure",
+    "No invented train times without credentials",
+    "Invalid coordinates rejected",
+    "Unsupported methods rejected",
+    "Real resort search returns sourced coordinates"
+  ],
+  "testedAt": "2026-11-11T09:40:44.466Z"
+}

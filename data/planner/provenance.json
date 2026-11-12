@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-11-11",
+  "taxi": {
+    "source": "https://www.pc.go.kr/portal/part/traffic/part-hygiene-traffic",
+    "notice": "평창군 고시 제2024-126호",
+    "base": 4600,
+    "baseMeters": 2000,
+    "incrementMeters": 131,
+    "incrementWon": 200,
+    "note": "복합할증 100% 포함. 거리 기준 예상치; 저속 시간운임·호출료·심야·군계외 운임은 별도"
+  },
+  "bus": {
+    "source": "https://bus.pc.go.kr/search?type=route",
+    "routeIds": [
+      "42601014",
+      "42601013",
+      "42601012"
+    ],
+    "status": "Route geometry available. Passage avgTime lacks trip identity and service calendar; not used as confirmed dated timetable."
+  },
+  "train": {
+    "source": "https://www.data.go.kr/data/15098552/openapi.do",
+    "endpoint": "https://apis.data.go.kr/1613000/TrainInfo",
+    "requiresKey": true
+  }
+}

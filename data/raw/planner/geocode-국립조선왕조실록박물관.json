@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 267759755,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1319749452,
+    "lat": "37.7177995",
+    "lon": "128.6025850",
+    "category": "tourism",
+    "type": "museum",
+    "place_rank": 30,
+    "importance": 0.000045001144426596745,
+    "addresstype": "tourism",
+    "name": "국립조선왕조실록박물관",
+    "display_name": "국립조선왕조실록박물관, 오대산로, 간평리, 진부면, 평창군, 강원특별자치도, 25318, 대한민국",
+    "boundingbox": [
+      "37.7174637",
+      "37.7181379",
+      "128.6021738",
+      "128.6028135"
+    ]
+  }
+]

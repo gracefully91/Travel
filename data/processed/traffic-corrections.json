@@ -1,0 +1,45 @@
+{
+  "area": "Jinbu Station forecourt and connecting access loop",
+  "updatedAt": "2026-11-12",
+  "source": "User confirmed that station-specific reversals are incorrect after geographic rendering handedness was fixed",
+  "status": "Removed; OSM directions restored",
+  "reason": "The map reflection has been fixed at the rendering boundary. No station-specific traffic override is applied.",
+  "overrides": [],
+  "removedOverrides": [
+    {
+      "wayId": 548304667,
+      "direction": -1,
+      "role": "station access"
+    },
+    {
+      "wayId": 548304672,
+      "direction": -1,
+      "role": "outer forecourt aisle"
+    },
+    {
+      "wayId": 548304673,
+      "direction": -1,
+      "role": "forecourt connector"
+    },
+    {
+      "wayId": 548304674,
+      "direction": -1,
+      "role": "middle forecourt aisle"
+    },
+    {
+      "wayId": 548304676,
+      "direction": -1,
+      "role": "station-front drop-off aisle"
+    },
+    {
+      "wayId": 548304678,
+      "direction": -1,
+      "role": "station-front branch"
+    },
+    {
+      "wayId": 548366615,
+      "direction": -1,
+      "role": "outer forecourt aisle"
+    }
+  ]
+}

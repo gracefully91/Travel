@@ -1,0 +1,3690 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=10, user-scalable=yes, viewport-fit=cover" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="국립조선왕조실록박물관" />
+    <meta property="og:title" content="국립조선왕조실록박물관" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <title>국립조선왕조실록박물관</title>
+
+    <!-- 이전 추가 -->
+    
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- meta tag -->
+<meta name="title" content="국립조선왕조실록박물관">
+<meta name="description" content="문화재청 산하, 국립조선왕조실록박물관 소장품, 교육, 경복궁">
+<meta name="format-detection" content="telephone=no, address=no, email=no">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="국립조선왕조실록박물관">
+<meta property="og:title" content="국립조선왕조실록박물관">
+<meta name="og:url" content="https://www.gogung.go.kr/sillok/main/main.do">
+<meta property="og:description" content="조선 왕실과 대한제국 황실의 문화와 역사의 이해를 돕는 좋은 동반자, 국립조선왕조실록박물관">
+
+<meta name="twitter:card" content="">
+<meta name="twitter:title" content="">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="/resources/gogung/images/common/ogImage.png">
+
+<link rel="shortcut icon" type="image/x-icon" href="/resources/gogung/images/common/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/resources/gogung/images/common/apple-touch-icon.png">
+
+
+
+	
+		
+	
+	
+
+<link rel="canonical" href="https://sillok.gogung.go.kr/sillok/main/main.do">
+   <!-- //meta tag --> <!-- 설정.메타태그 -->
+    
+
+<!-- 공통 js-->
+<script src="/resources/gogung/lib/jquery-3.6.0.min.js"></script>
+<script src="/resources/gogung/lib/slick.min.js"></script>
+
+<script src="/resources/gogung/lib/bootstrap.bundle.js"></script>
+<script src="/resources/gogung/lib/masonry.pkgd.min.js"></script>
+<script src="/resources/gogung/lib/e-smart-zoom-jquery.js"></script>
+<script src="/resources/gogung/lib/jquery.easeScroll.js"></script>
+<script src="/resources/gogung/lib/jquery.nicescroll.js"></script>
+
+<script src="/resources/josun/js/ScrollMagic.min.js"></script>
+<script src="/resources/josun/js/gsap.min.js"></script>
+<script src="/resources/josun/js/ScrollTrigger.min.js"></script>
+<script src="/resources/josun/js/common.js"></script>
+
+<!-- //공통 js -->
+
+
+ <!-- 공통 css -->
+<link rel="stylesheet" type="text/css" href="/resources/gogung/lib/slick.css">
+
+<link rel="stylesheet" type="text/css" href="/resources/gogung/lib/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="/resources/gogung/lib/fullScreenZoom.css">
+<link rel="stylesheet" type="text/css" href="/resources/gogung/lib/jquery.ez-plus.css">
+
+<link rel="stylesheet" href="/resources/gogung/css/common.css">
+<link rel="stylesheet" href="/resources/josun/css/common2.css" />
+<link rel="stylesheet" href="/resources/josun/css/main.css" />
+<!-- //공통 css -->
+
+		<link rel="stylesheet" type="text/css" href="/resources/gogung/css/layout2.css">
+<link rel="stylesheet" href="/resources/josun/css/bbs.css" /> 
+
+    <!-- <script src="/resources/josun/js/main.js"></script>  -->  <!-- 메인 js -->
+	<script src="/resources/gogung/js/modal.js"></script>
+	<script src="/resources/gogung/js/isotope.js"></script>
+    <!-- 이전 추가 -->
+
+    <link rel="stylesheet" type="text/css" href="/resources/sillok/lib/fullpage/jquery.fullpage.css" />
+    <link rel="stylesheet" href="/html/main/lib/swiper/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="/resources/sillok/css/style.css" />
+
+    <!-- <script type="text/javascript" src="/resources/sillok/js/jquery.3.6.0.js"></script> -->
+    <script type="text/javascript" src="/resources/sillok/lib/fullpage/jquery.fullpage.min.js"></script>
+    <script type="text/javascript" src="/resources/sillok/lib/fullpage/scrolloverflow.js"></script>
+    <script type="text/javascript" src="/resources/sillok/lib/swiper/swiper-bundle.min.js"></script>
+    <script type="text/javascript" src="/resources/sillok/js/script.js"></script>
+
+  </head>
+  <body>
+  	
+
+
+
+
+
+
+
+<div class="accessibility-tab">
+	<a href="#content" title="본문바로가기">본문바로가기</a>
+	<a href="#menu" title="주메뉴바로가기">주메뉴바로가기</a>
+</div>
+
+ <!-- 웹접근성 헤더 -->
+  	<!-- 헤더 -->
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+	<div class="inner">
+		<div class="header_w">
+			<h1 class="logo">
+				<a href="/sillok/main/main.do">
+					<span>국립조선왕조실록 박물관 National Museum of the Annals of the Joseon Dynasty</span>
+					<!-- <img class="pc-logo" src="/resources/josun/img/main/logo.png" alt="국립조선왕조실록 박물관 National Museum of the Annals of the Joseon Dynasty">pc logo
+					<img class="mo-logo" src="/resources/josun/img/main/logo.png" alt="국립조선왕조실록 박물관 National Museum of the Annals of the Joseon Dynasty">mobile logo -->
+				</a>
+			</h1>
+
+			<nav class="gnb _pc">
+				<ul class="depth1" id="menu">
+					
+						
+						
+						
+						<li>
+							
+								
+								
+									
+								
+							
+
+							
+
+							<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+							<a href="/sillok/main/contents.do?menuNo=1300005" class="" ><span >관람 안내 </span></a>
+
+							
+								<div class="nav_bg">
+									<div class="nav_w">
+										<div class="nav_tit">
+											<p class="tit">관람 안내 </p>
+											<!-- <p class="cont">국립조선왕조실록박물관의<br>다양한 소식을 알려드립니다.</p> -->
+										</div>
+										<ul class="depth2">
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/main/contents.do?menuNo=1300005" class="" title="관람 안내  페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>관람 안내 </span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/main/contents.do?menuNo=1300006" class="" title="시설 현황 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>시설 현황</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/bbs/BMSR00009/list.do?menuNo=1300007" class="" title="자주하는 질문 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>자주하는 질문</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/main/contents.do?menuNo=1300033" class="" title="찾아오시는 길 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>찾아오시는 길</span>
+													</a>
+
+													
+														<ul class="depth3">
+															
+																
+																<li>
+																	
+																		
+																		
+																			
+																			
+																		
+																	
+																	<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+																	<a href="/sillok/main/contents.do?menuNo=1300033" class="" title="약도 페이지 이동">
+																		<span>약도</span>
+																	</a>
+																</li>
+																
+															
+																
+																<li>
+																	
+																		
+																		
+																			
+																			
+																		
+																	
+																	<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+																	<a href="/sillok/main/contents.do?menuNo=1300034" class="" title="지도 페이지 이동">
+																		<span>지도</span>
+																	</a>
+																</li>
+																
+															
+														</ul>
+													
+												</li>
+												
+											
+										</ul>
+
+
+									</div>
+								</div>
+							
+						</li>
+					
+					
+						
+						
+						
+						<li>
+							
+								
+								
+									
+								
+							
+
+							
+
+							<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+							<a href="/sillok/main/contents.do?menuNo=1300028" class="" ><span >전시</span></a>
+
+							
+								<div class="nav_bg">
+									<div class="nav_w">
+										<div class="nav_tit">
+											<p class="tit">전시</p>
+											<!-- <p class="cont">국립조선왕조실록박물관의<br>다양한 소식을 알려드립니다.</p> -->
+										</div>
+										<ul class="depth2">
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/main/contents.do?menuNo=1300028" class="" title="상설전시 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>상설전시</span>
+													</a>
+
+													
+														<ul class="depth3">
+															
+																
+																<li>
+																	
+																		
+																		
+																			
+																			
+																		
+																	
+																	<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+																	<a href="/sillok/main/contents.do?menuNo=1300028" class="" title="전시실소개 페이지 이동">
+																		<span>전시실소개</span>
+																	</a>
+																</li>
+																
+															
+																
+																<li>
+																	
+																		
+																		
+																			
+																			
+																		
+																	
+																	<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+																	<a href="/sillok/bbs/BMSR00110/list.do?menuNo=1300011" class="" title="음성해설(Audio Guide) 페이지 이동">
+																		<span>음성해설(Audio Guide)</span>
+																	</a>
+																</li>
+																
+															
+														</ul>
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/bbs/BMSR00002/list.do?searchLang=LANGUAGE_005&menuNo=1300010" class="" title="특별전시 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>특별전시</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/main/contents.do?menuNo=1300088" class="" title="어린이박물관 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>어린이박물관</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/bbs/BMSR00036/list.do?gubunCd=36_002_CD&menuNo=1300037" class="" title="전시 VR 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>전시 VR</span>
+													</a>
+
+													
+												</li>
+												
+											
+										</ul>
+
+
+									</div>
+								</div>
+							
+						</li>
+					
+					
+						
+						
+						
+						<li>
+							
+								
+								
+									
+								
+							
+
+							
+
+							<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+							<a href="/sillok/pgm/psgudMng/list.do?menuNo=1300012" class="" ><span >소장품</span></a>
+
+							
+								<div class="nav_bg">
+									<div class="nav_w">
+										<div class="nav_tit">
+											<p class="tit">소장품</p>
+											<!-- <p class="cont">국립조선왕조실록박물관의<br>다양한 소식을 알려드립니다.</p> -->
+										</div>
+										<ul class="depth2">
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/pgm/psgudMng/list.do?menuNo=1300012" class="" title="소장품 안내 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>소장품 안내</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/main/contents.do?menuNo=1300104" class="" title="소장품 사진 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>소장품 사진</span>
+													</a>
+
+													
+														<ul class="depth3">
+															
+																
+																<li>
+																	
+																		
+																		
+																			
+																			
+																		
+																	
+																	<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+																	<a href="/sillok/main/contents.do?menuNo=1300104" class="" title="소장품 사진 이용 안내 페이지 이동">
+																		<span>소장품 사진 이용 안내</span>
+																	</a>
+																</li>
+																
+															
+																
+																<li>
+																	
+																		
+																		
+																			
+																			
+																		
+																	
+																	<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+																	<a href="/sillok/pgm/photoPub/addView.do?menuNo=1300069" class="" title="소장품 사진 신청 페이지 이동">
+																		<span>소장품 사진 신청</span>
+																	</a>
+																</li>
+																
+															
+														</ul>
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/main/contents.do?menuNo=1300108" class="" title="국가유산기증/기탁 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>국가유산기증/기탁</span>
+													</a>
+
+													
+														<ul class="depth3">
+															
+																
+																<li>
+																	
+																		
+																		
+																			
+																			
+																		
+																	
+																	<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+																	<a href="/sillok/main/contents.do?menuNo=1300108" class="" title="기증/기탁안내 페이지 이동">
+																		<span>기증/기탁안내</span>
+																	</a>
+																</li>
+																
+															
+														</ul>
+													
+												</li>
+												
+											
+										</ul>
+
+
+									</div>
+								</div>
+							
+						</li>
+					
+					
+						
+						
+						
+						<li>
+							
+								
+								
+									
+								
+							
+
+							
+
+							<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+							<a href="/sillok/bbs/BMSR00053/list.do?gubunCd=B53_015&menuNo=1300014" class="" ><span >학술정보</span></a>
+
+							
+								<div class="nav_bg">
+									<div class="nav_w">
+										<div class="nav_tit">
+											<p class="tit">학술정보</p>
+											<!-- <p class="cont">국립조선왕조실록박물관의<br>다양한 소식을 알려드립니다.</p> -->
+										</div>
+										<ul class="depth2">
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/bbs/BMSR00053/list.do?gubunCd=B53_015&menuNo=1300014" class="" title="도록 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>도록</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/bbs/BMSR00053/list.do?gubunCd=B53_017&menuNo=1300092" class="" title="학술행사 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>학술행사</span>
+													</a>
+
+													
+												</li>
+												
+											
+										</ul>
+
+
+									</div>
+								</div>
+							
+						</li>
+					
+					
+						
+						
+						
+						<li>
+							
+								
+								
+									
+								
+							
+
+							
+
+							<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+							<a href="/sillok/main/contents.do?menuNo=1300089" class="" ><span >교육</span></a>
+
+							
+								<div class="nav_bg">
+									<div class="nav_w">
+										<div class="nav_tit">
+											<p class="tit">교육</p>
+											<!-- <p class="cont">국립조선왕조실록박물관의<br>다양한 소식을 알려드립니다.</p> -->
+										</div>
+										<ul class="depth2">
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/main/contents.do?menuNo=1300089" class="" title="교육안내 및 일정 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>교육안내 및 일정</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/pgm/cultureEventReg/edu/list.do?menuNo=1300091" class="" title="교육신청 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>교육신청</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/mypage/cultureConfirm.do?menuNo=1300097" class="" title="나의 교육 확인 / 취소 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>나의 교육 확인 / 취소</span>
+													</a>
+
+													
+												</li>
+												
+											
+										</ul>
+
+
+									</div>
+								</div>
+							
+						</li>
+					
+					
+						
+						
+						
+						<li>
+							
+								
+								
+									
+								
+							
+
+							
+
+							<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+							<a href="/sillok/bbs/BMSR00022/list.do?gubunCd=B22_001&menuNo=1300017" class="" ><span >새소식</span></a>
+
+							
+								<div class="nav_bg">
+									<div class="nav_w">
+										<div class="nav_tit">
+											<p class="tit">새소식</p>
+											<!-- <p class="cont">국립조선왕조실록박물관의<br>다양한 소식을 알려드립니다.</p> -->
+										</div>
+										<ul class="depth2">
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/bbs/BMSR00022/list.do?gubunCd=B22_001&menuNo=1300017" class="" title="공지사항 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>공지사항</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/bbs/BMSR00022/list.do?gubunCd=B22_002&menuNo=1300018" class="" title="보도자료 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>보도자료</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+															
+														
+														
+													
+
+													<a href="https://www.gogung.go.kr/gogung/main/contents.do?menuNo=800093" class="go_link" target="_blank" title="새창으로 열립니다.">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span class="go_link">정보공개</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/bbs/BMSR00034/list.do?gubunCd=B34_002&menuNo=1300036" class="" title="행정정보 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>행정정보</span>
+													</a>
+
+													
+														<ul class="depth3">
+															
+																
+																<li>
+																	
+																		
+																		
+																			
+																			
+																		
+																	
+																	<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+																	<a href="/sillok/bbs/BMSR00034/list.do?gubunCd=B34_002&menuNo=1300036" class="" title="기관장 업무 추진비 페이지 이동">
+																		<span>기관장 업무 추진비</span>
+																	</a>
+																</li>
+																
+															
+																
+																<li>
+																	
+																		
+																		
+																			
+																			
+																		
+																	
+																	<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+																	<a href="/sillok/bbs/BMSR00034/list.do?gubunCd=B34_003&menuNo=1300102" class="" title="계약현황 페이지 이동">
+																		<span>계약현황</span>
+																	</a>
+																</li>
+																
+															
+														</ul>
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/bbs/BMSR00022/list.do?gubunCd=B22_003&searchLang=LANGUAGE_005&menuNo=1300109" class="" title="채용공고 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>채용공고</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/bbs/BMSR00022/list.do?gubunCd=B22_004&searchLang=LANGUAGE_005&menuNo=1300110" class="" title="입찰공고 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>입찰공고</span>
+													</a>
+
+													
+												</li>
+												
+											
+										</ul>
+
+
+									</div>
+								</div>
+							
+						</li>
+					
+					
+						
+						
+						
+						<li>
+							
+								
+								
+									
+								
+							
+
+							
+
+							<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+							<a href="/sillok/main/contents.do?menuNo=1300022" class="" ><span >박물관 소개</span></a>
+
+							
+								<div class="nav_bg">
+									<div class="nav_w">
+										<div class="nav_tit">
+											<p class="tit">박물관 소개</p>
+											<!-- <p class="cont">국립조선왕조실록박물관의<br>다양한 소식을 알려드립니다.</p> -->
+										</div>
+										<ul class="depth2">
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/main/contents.do?menuNo=1300022" class="" title="인사말 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>인사말</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/main/contents.do?menuNo=1300111" class="" title="역대관장 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>역대관장</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/main/contents.do?menuNo=1300023" class="" title="연혁 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>연혁</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/main/contents.do?menuNo=1300025" class="" title="조직 및 업무 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>조직 및 업무</span>
+													</a>
+
+													
+												</li>
+												
+											
+										</ul>
+
+
+									</div>
+								</div>
+							
+						</li>
+					
+					
+						
+						
+						
+						<li>
+							
+								
+								
+									
+								
+							
+
+							
+
+							<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+							<a href="/sillok/pgm/cultureEventReg/edu/list.do?menuNo=1300068" class="" ><span >통합예약</span></a>
+
+							
+								<div class="nav_bg">
+									<div class="nav_w">
+										<div class="nav_tit">
+											<p class="tit">통합예약</p>
+											<!-- <p class="cont">국립조선왕조실록박물관의<br>다양한 소식을 알려드립니다.</p> -->
+										</div>
+										<ul class="depth2">
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/pgm/cultureEventReg/edu/list.do?menuNo=1300068" class="" title="교육신청 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>교육신청</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/main/contents.do?menuNo=1300069" class="" title="소장품 사진 신청 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>소장품 사진 신청</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/main/contents.do?menuNo=1300070" class="" title="소장품 열람 사전 허가신청 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>소장품 열람 사전 허가신청</span>
+													</a>
+
+													
+												</li>
+												
+											
+												
+												
+
+												
+												<li>
+
+													
+														
+														
+															
+															
+														
+													
+
+													<a href="/sillok/mypage/cultureConfirm.do?menuNo=1300071" class="" title="예약 조회 및 취소 페이지 이동">
+														<!-- 새창 열림인 경우 해당 span 에 class="go_link" 넣어주세요. -->
+														<span>예약 조회 및 취소</span>
+													</a>
+
+													
+												</li>
+												
+											
+										</ul>
+
+
+									</div>
+								</div>
+							
+						</li>
+					
+					
+						
+						
+						
+					
+						
+						
+						
+					
+						
+						
+						
+					
+				</ul>
+			</nav>
+		</div>
+		<!-- // .gnb-wrap -->
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        var anyidAdaptor = anyidAdaptor || {};
+        
+        
+        
+        
+        
+        
+
+        /*이용기관 수정 영역 Start*/
+        anyidAdaptor.orgLogin = function(data){
+        	 //정부 통합인증SDK_연계가이드 4.4.1.3 이용기관 로그인(토글 off) 참조
+            //제공되는 라이브러리 메소드로 인증데이터 decrypt 이후 자체 로그인 로직 개발
+            const params = new URLSearchParams(location.search);
+            var obj ={
+                ssob : data.ssob
+                , tag : params.get("tx")
+            }
+            
+            $("#ssob").val(data.ssob);
+            $("#tag").val(params.get("tx"));
+            
+            document.getElementById('request').submit();
+        }
+        /*이용기관 수정 영역 End*/
+        
+        
+        /*이용기관 문구수정 영역 Start*/
+        anyidAdaptor.JoinConfirm = function(portalJoinUri, memberData){
+            if(!confirm('Any-ID 사용자등록 하시겠습니까?')) {
+                anyidAdaptor.orgLogin();
+                return;
+            }else{
+                anyidAdaptor.receiveAnyIdJoin(portalJoinUri, memberData);
+            }
+        }
+        /*이용기관 문구수정 영역 End*/
+        
+        
+        
+
+        anyidAdaptor.portalJoinUri = "null";
+        anyidAdaptor.certData = null;
+        anyidAdaptor.ssoByPass = "1";
+        anyidAdaptor.niRegYn = "null";
+        anyidAdaptor.agencyContextPath = "";
+        
+        
+        anyidAdaptor.success = function(data){
+            if(anyidAdaptor.ssoByPass != 0 || !data.useSso) {
+                anyidAdaptor.orgLogin(data);
+            } else {
+                anyidAdaptor.certData = data;
+                anyidAdaptor.userCheck();
+            }  
+        }
+        
+        anyidAdaptor.userCheck = function(){
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", anyidAdaptor.agencyContextPath + "/oidc/userCheck", true);
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    var response = JSON.parse(xhr.responseText);
+                    if (response.success) {
+                        anyidAdaptor.ssoLogin();
+                    } else {
+                        setTimeout(function() {
+                            anyidAdaptor.receiveAnyIdJoin(response.uri, response.data);
+                        }, 100);  
+                    }
+                }
+            };
+
+            let jsonObject = new Object();
+            jsonObject.txId = anyidAdaptor.certData.txId;
+            jsonObject.ssob = anyidAdaptor.certData.ssob;
+            jsonObject.userSeCd = anyidAdaptor.certData.userSeCd;
+            
+            let jsonStr = JSON.stringify(jsonObject);
+            let encodedString = btoa(jsonStr);
+            
+            var data = "data=" + encodedString + "&txId=" + anyidAdaptor.certData.txId;
+            xhr.send(data);
+            
+        }
+
+        //anyid가입
+        anyidAdaptor.receiveAnyIdJoin = function(portalJoinUri, memberData){
+        
+            var url = portalJoinUri+encodeURIComponent(memberData);
+            anyidAdaptor.popup(url,"openAnyIdRegistUserIdv",700,740);
+
+            window.addEventListener("message", function(event) {
+                var result;
+                try {
+                    result = JSON.parse(event.data);
+                } catch (error) {
+                    console.error("Received message is not valid JSON:", error);
+                    return;
+                }
+                
+                if(!result.funcName || (result.funcName !== "trmsAgreComplete" && result.funcName !== "registUserComplete")) {
+                    return;
+                }
+                if(result.status === "success") {
+                    if(result.trmsAgreYn == "Y"){
+                        anyidAdaptor.ssoLogin();
+                    }else{
+                        anyidAdaptor.orgLogin();
+                    }
+                }else{
+                    
+                    anyidAdaptor.orgLogin();
+                }
+
+            }, false);
+        }
+
+        // 팝업 호출
+        anyidAdaptor.popup = function(url, name, width, height){
+            let left = (screen.width) ? (screen.width-width)/2 : 0;
+            let top = (screen.height) ? (screen.height-height)/2 : 0;
+            let popup=window.open(url, name ,"resizable=yes,toolbar=no,scrollbars=yes,location=no,top="+top+"px,left="+left+"px,width="+width+"px,height="+height+"px");
+            if(popup){
+                popup.focus();
+            }
+        }
+
+        anyidAdaptor.ssoLogin = function(){
+            let jsonObject = new Object();
+            jsonObject.txId = anyidAdaptor.certData.txId;
+            jsonObject.ssob = anyidAdaptor.certData.ssob;
+            jsonObject.userSeCd = anyidAdaptor.certData.userSeCd;
+            let jsonStr = JSON.stringify(jsonObject);
+            let encodedString = btoa(jsonStr);
+            var baseUrl = window.location.origin + anyidAdaptor.agencyContextPath + "/oidc/ssoLogin";
+            var urlWithParams = baseUrl + "?data=" + encodedString;
+            window.location.href = urlWithParams;
+            
+        }
+        
+        anyidAdaptor.ssoLoginPageSub = function(baseUrl, endPoint, acrValues, siteCd){
+            var subUrl = "";
+            
+            if (endPoint && endPoint.trim() !== "") {
+                subUrl = "?endPoint=" + encodeURIComponent(endPoint);
+            }
+            
+            if (!acrValues && acrValues.trim() == "") {
+                acrValues = "3" 
+            }
+            
+            if (acrValues && acrValues.trim() !== "") {
+                if(subUrl == ""){
+                    subUrl = "?";
+                }else{
+                    subUrl = subUrl + "&";
+                }
+                subUrl = subUrl + "acrValues=" + acrValues;
+            }
+            subUrl = subUrl + "&siteCd=" + siteCd;
+            
+            window.location.replace(baseUrl+subUrl);
+        }
+        
+        /**/
+        anyidAdaptor.ssoLogout = function(endPoint) {
+            endPoint = typeof endPoint !== 'undefined' ? endPoint : "/";
+            var baseUrl = window.location.origin + anyidAdaptor.agencyContextPath + "/oidc/ssoLogout";
+            baseUrl = baseUrl + "?endPoint=" + encodeURIComponent(endPoint);
+            window.location.replace(baseUrl);
+        }
+        /**/
+        anyidAdaptor.reAuthLevel = function(endPoint, acrValues){
+            endPoint = typeof endPoint !== 'undefined' ? endPoint : "/";
+            var baseUrl = window.location.origin + anyidAdaptor.agencyContextPath + "/oidc/reAuthLevel";
+            anyidAdaptor.ssoLoginPageSub(baseUrl, endPoint, acrValues)
+
+        }
+        /**/
+        anyidAdaptor.ssoLoginPage = function(endPoint, acrValues, siteCd){
+            endPoint = typeof endPoint !== 'undefined' ? endPoint : "/";
+            var baseUrl = window.location.origin + anyidAdaptor.agencyContextPath + "/oidc/auth";
+            anyidAdaptor.ssoLoginPageSub(baseUrl, endPoint, acrValues, siteCd)
+        }
+        
+        /**/
+        anyidAdaptor.ssoSvcToSvc = function(url, endPoint){
+            var baseUrl = url + "/oidc/svcToSvc?endPoint=" + encodeURIComponent(endPoint);;
+            window.open(baseUrl, "_blank");
+        }
+
+
+    </script>
+</head>
+<body>
+	<form id="request" method="post" action="/sillok/member/doAnyidLogin.do">
+		<input type="hidden" name="ssob" id="ssob" value=""	/>
+		<input type="hidden" name="tag" id="tag" value=""	/>
+	</form>
+</body>
+</html>
+
+		<!-- .header-btn -->
+		<div class="header-btn">
+			<!-- <div class="lang">
+			활성화 시 active 클래스 추가
+				<a href="/josun/main/main.do" class="active">EN</a>
+				<i>/</i>
+				<a href="/josun/main/main.do">KR</a>
+			</div> -->
+			<a href="https://www.gogung.go.kr/gogung/main/main.do" class="go_gogung" title="국립고궁박물관 새 창 열기" target="_blank">국립고궁박물관</a>
+			
+				
+				
+				
+					<div class="log_btn">
+						<!-- 로그인 -->
+<!-- 						<a href="/sillok/member/login.do?menuNo=1300046" class="">Login</a> -->
+						<a href="javascript:anyidAdaptor.ssoLoginPage('','2', 'sillok')" class="" title="로그인하기">Login</a>
+					</div>
+				
+			
+			<button type="button" class="sitemap" title="메뉴 열기">메뉴 열기</button>
+
+		</div>
+		<div id="sitemap_menu">
+			<div class="top">
+				<div class="header-btn">
+					<div class="log_btn">
+						<!-- <a href="/gogung/member/login.do?menuNo=800158" class="login_m">Login</a> -->
+						<!-- 로그인 -->
+						<!-- <a href="#" class="logout_m">Logout</a> -->
+						<!-- 로그아웃 -->
+					</div>
+					<!-- <a href="#" class="mypage" title="국립고궁박물관 마이페이지">국립고궁박물관 마이페이지</a> -->
+					<!-- 로그인 했을때만  보이기 -->
+					<div class="sub_btn">
+						<a href="/gogung/main/main.do" class="go_gogung"
+							title="국립고궁박물관 새 창 열기" target="_blank">국립고궁박물관</a>
+						<!-- <a href="/gogung/pgm/groupReserve/reserveApply.do?menuNo=800160" class="combine" title="통합예약">통합예약</a> -->
+						<button type="button" class="sitemap_close">닫기</button>
+					</div>
+				</div>
+			</div>
+
+			<ul class="gnb_mobile">
+				
+					
+					
+
+
+					
+
+
+
+					<li  class="more">
+						
+							
+							
+								
+							
+						
+
+						<a href="/sillok/main/contents.do?menuNo=1300005"><span >관람 안내 </span></a>
+
+						
+							<ul class="depth2">
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/main/contents.do?menuNo=1300005" class="" title="관람 안내  페이지 이동">
+											<span>관람 안내 </span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/main/contents.do?menuNo=1300006" class="" title="시설 현황 페이지 이동">
+											<span>시설 현황</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/bbs/BMSR00009/list.do?menuNo=1300007" class="" title="자주하는 질문 페이지 이동">
+											<span>자주하는 질문</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li  class="more">
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/main/contents.do?menuNo=1300033" class="" title="찾아오시는 길 페이지 이동">
+											<span>찾아오시는 길</span>
+										</a>
+
+										
+											<ul class="depth3">
+												
+													<li>
+														
+															
+															
+																
+																
+															
+														
+
+														<a href="/sillok/main/contents.do?menuNo=1300033" class="" title="약도 페이지 이동">
+															<span>약도</span>
+														</a>
+													</li>
+												
+													<li>
+														
+															
+															
+																
+																
+															
+														
+
+														<a href="/sillok/main/contents.do?menuNo=1300034" class="" title="지도 페이지 이동">
+															<span>지도</span>
+														</a>
+													</li>
+												
+											</ul>
+										
+									
+								
+							</ul>
+						
+					</li>
+					
+				
+					
+					
+
+
+					
+
+
+
+					<li  class="more">
+						
+							
+							
+								
+							
+						
+
+						<a href="/sillok/main/contents.do?menuNo=1300028"><span >전시</span></a>
+
+						
+							<ul class="depth2">
+								
+									
+									
+
+
+									
+
+
+
+
+									<li  class="more">
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/main/contents.do?menuNo=1300028" class="" title="상설전시 페이지 이동">
+											<span>상설전시</span>
+										</a>
+
+										
+											<ul class="depth3">
+												
+													<li>
+														
+															
+															
+																
+																
+															
+														
+
+														<a href="/sillok/main/contents.do?menuNo=1300028" class="" title="전시실소개 페이지 이동">
+															<span>전시실소개</span>
+														</a>
+													</li>
+												
+													<li>
+														
+															
+															
+																
+																
+															
+														
+
+														<a href="/sillok/bbs/BMSR00110/list.do?menuNo=1300011" class="" title="음성해설(Audio Guide) 페이지 이동">
+															<span>음성해설(Audio Guide)</span>
+														</a>
+													</li>
+												
+											</ul>
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/bbs/BMSR00002/list.do?searchLang=LANGUAGE_005&menuNo=1300010" class="" title="특별전시 페이지 이동">
+											<span>특별전시</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/main/contents.do?menuNo=1300088" class="" title="어린이박물관 페이지 이동">
+											<span>어린이박물관</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/bbs/BMSR00036/list.do?gubunCd=36_002_CD&menuNo=1300037" class="" title="전시 VR 페이지 이동">
+											<span>전시 VR</span>
+										</a>
+
+										
+									
+								
+							</ul>
+						
+					</li>
+					
+				
+					
+					
+
+
+					
+
+
+
+					<li  class="more">
+						
+							
+							
+								
+							
+						
+
+						<a href="/sillok/pgm/psgudMng/list.do?menuNo=1300012"><span >소장품</span></a>
+
+						
+							<ul class="depth2">
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/pgm/psgudMng/list.do?menuNo=1300012" class="" title="소장품 안내 페이지 이동">
+											<span>소장품 안내</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li  class="more">
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/main/contents.do?menuNo=1300104" class="" title="소장품 사진 페이지 이동">
+											<span>소장품 사진</span>
+										</a>
+
+										
+											<ul class="depth3">
+												
+													<li>
+														
+															
+															
+																
+																
+															
+														
+
+														<a href="/sillok/main/contents.do?menuNo=1300104" class="" title="소장품 사진 이용 안내 페이지 이동">
+															<span>소장품 사진 이용 안내</span>
+														</a>
+													</li>
+												
+													<li>
+														
+															
+															
+																
+																
+															
+														
+
+														<a href="/sillok/pgm/photoPub/addView.do?menuNo=1300069" class="" title="소장품 사진 신청 페이지 이동">
+															<span>소장품 사진 신청</span>
+														</a>
+													</li>
+												
+											</ul>
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li  class="more">
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/main/contents.do?menuNo=1300108" class="" title="국가유산기증/기탁 페이지 이동">
+											<span>국가유산기증/기탁</span>
+										</a>
+
+										
+											<ul class="depth3">
+												
+													<li>
+														
+															
+															
+																
+																
+															
+														
+
+														<a href="/sillok/main/contents.do?menuNo=1300108" class="" title="기증/기탁안내 페이지 이동">
+															<span>기증/기탁안내</span>
+														</a>
+													</li>
+												
+											</ul>
+										
+									
+								
+							</ul>
+						
+					</li>
+					
+				
+					
+					
+
+
+					
+
+
+
+					<li  class="more">
+						
+							
+							
+								
+							
+						
+
+						<a href="/sillok/bbs/BMSR00053/list.do?gubunCd=B53_015&menuNo=1300014"><span >학술정보</span></a>
+
+						
+							<ul class="depth2">
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/bbs/BMSR00053/list.do?gubunCd=B53_015&menuNo=1300014" class="" title="도록 페이지 이동">
+											<span>도록</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/bbs/BMSR00053/list.do?gubunCd=B53_017&menuNo=1300092" class="" title="학술행사 페이지 이동">
+											<span>학술행사</span>
+										</a>
+
+										
+									
+								
+							</ul>
+						
+					</li>
+					
+				
+					
+					
+
+
+					
+
+
+
+					<li  class="more">
+						
+							
+							
+								
+							
+						
+
+						<a href="/sillok/main/contents.do?menuNo=1300089"><span >교육</span></a>
+
+						
+							<ul class="depth2">
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/main/contents.do?menuNo=1300089" class="" title="교육안내 및 일정 페이지 이동">
+											<span>교육안내 및 일정</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/pgm/cultureEventReg/edu/list.do?menuNo=1300091" class="" title="교육신청 페이지 이동">
+											<span>교육신청</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/mypage/cultureConfirm.do?menuNo=1300097" class="" title="나의 교육 확인 / 취소 페이지 이동">
+											<span>나의 교육 확인 / 취소</span>
+										</a>
+
+										
+									
+								
+							</ul>
+						
+					</li>
+					
+				
+					
+					
+
+
+					
+
+
+
+					<li  class="more">
+						
+							
+							
+								
+							
+						
+
+						<a href="/sillok/bbs/BMSR00022/list.do?gubunCd=B22_001&menuNo=1300017"><span >새소식</span></a>
+
+						
+							<ul class="depth2">
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/bbs/BMSR00022/list.do?gubunCd=B22_001&menuNo=1300017" class="" title="공지사항 페이지 이동">
+											<span>공지사항</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/bbs/BMSR00022/list.do?gubunCd=B22_002&menuNo=1300018" class="" title="보도자료 페이지 이동">
+											<span>보도자료</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+												
+											
+											
+										
+
+										<a href="https://www.gogung.go.kr/gogung/main/contents.do?menuNo=800093" target="_blank" title="새창으로 열립니다.">
+											<span class="go_link">정보공개</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li  class="more">
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/bbs/BMSR00034/list.do?gubunCd=B34_002&menuNo=1300036" class="" title="행정정보 페이지 이동">
+											<span>행정정보</span>
+										</a>
+
+										
+											<ul class="depth3">
+												
+													<li>
+														
+															
+															
+																
+																
+															
+														
+
+														<a href="/sillok/bbs/BMSR00034/list.do?gubunCd=B34_002&menuNo=1300036" class="" title="기관장 업무 추진비 페이지 이동">
+															<span>기관장 업무 추진비</span>
+														</a>
+													</li>
+												
+													<li>
+														
+															
+															
+																
+																
+															
+														
+
+														<a href="/sillok/bbs/BMSR00034/list.do?gubunCd=B34_003&menuNo=1300102" class="" title="계약현황 페이지 이동">
+															<span>계약현황</span>
+														</a>
+													</li>
+												
+											</ul>
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/bbs/BMSR00022/list.do?gubunCd=B22_003&searchLang=LANGUAGE_005&menuNo=1300109" class="" title="채용공고 페이지 이동">
+											<span>채용공고</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/bbs/BMSR00022/list.do?gubunCd=B22_004&searchLang=LANGUAGE_005&menuNo=1300110" class="" title="입찰공고 페이지 이동">
+											<span>입찰공고</span>
+										</a>
+
+										
+									
+								
+							</ul>
+						
+					</li>
+					
+				
+					
+					
+
+
+					
+
+
+
+					<li  class="more">
+						
+							
+							
+								
+							
+						
+
+						<a href="/sillok/main/contents.do?menuNo=1300022"><span >박물관 소개</span></a>
+
+						
+							<ul class="depth2">
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/main/contents.do?menuNo=1300022" class="" title="인사말 페이지 이동">
+											<span>인사말</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/main/contents.do?menuNo=1300111" class="" title="역대관장 페이지 이동">
+											<span>역대관장</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/main/contents.do?menuNo=1300023" class="" title="연혁 페이지 이동">
+											<span>연혁</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/main/contents.do?menuNo=1300025" class="" title="조직 및 업무 페이지 이동">
+											<span>조직 및 업무</span>
+										</a>
+
+										
+									
+								
+							</ul>
+						
+					</li>
+					
+				
+					
+					
+
+
+					
+
+
+
+					<li  class="more">
+						
+							
+							
+								
+							
+						
+
+						<a href="/sillok/pgm/cultureEventReg/edu/list.do?menuNo=1300068"><span >통합예약</span></a>
+
+						
+							<ul class="depth2">
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/pgm/cultureEventReg/edu/list.do?menuNo=1300068" class="" title="교육신청 페이지 이동">
+											<span>교육신청</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/main/contents.do?menuNo=1300069" class="" title="소장품 사진 신청 페이지 이동">
+											<span>소장품 사진 신청</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/main/contents.do?menuNo=1300070" class="" title="소장품 열람 사전 허가신청 페이지 이동">
+											<span>소장품 열람 사전 허가신청</span>
+										</a>
+
+										
+									
+								
+									
+									
+
+
+									
+
+
+
+
+									<li >
+										
+											
+											
+												
+												
+											
+										
+
+										<a href="/sillok/mypage/cultureConfirm.do?menuNo=1300071" class="" title="예약 조회 및 취소 페이지 이동">
+											<span>예약 조회 및 취소</span>
+										</a>
+
+										
+									
+								
+							</ul>
+						
+					</li>
+					
+				
+					
+					
+
+
+					
+				
+					
+					
+
+
+					
+				
+					
+					
+
+
+					
+				
+			</ul>
+		</div>
+	</div>
+</header>
+
+
+	
+	<!-- <div class="intro">
+      <video class="intro-video" autoplay muted onerror="showContent()">
+        <source src="/resources/sillok/img/test.mp4" type="video/mp4" onerror="showContent()" />
+      </video>
+    </div> -->
+	
+
+    <div class="main_wrapper">
+    
+		
+		
+		
+		
+			<div class="modal fade popup" tabindex="-1" id="mainPopup102" style="width:500px; height:500+50px; top:50px; left:100px;">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<h5 class="modal-title">테마전 ‘그날, 화성의 군례'</h5>
+						</div>
+						<div class="modal-body">
+							
+							
+								 
+							
+								 
+							
+							
+								
+							
+							
+								
+								
+									<img src="/cmmn/file/imageSrc.do?atchFileId=fb29d26a1e774479bdca27b59e01c768&fileSn=2" alt="테마전 ‘그날, 화성의 군례">
+								
+							
+						</div>
+						<div class="modal-footer">
+							<input type="checkbox" id="popupCheck102">
+							<label for="popupCheck102">오늘하루 보지않음</label>
+							<button type="button" class="close popupClose" data-dismiss="modal" title="닫기">&times;</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+		
+		
+			<div class="modal fade popup" tabindex="-1" id="mainPopup107" style="width:500px; height:500+50px; top:50px; left:600px;">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<h5 class="modal-title">완벽한 행사를 위한 기록, 의궤</h5>
+						</div>
+						<div class="modal-body">
+							
+							
+								 
+							
+								 
+							
+							
+								
+							
+							
+								
+								
+									<img src="/cmmn/file/imageSrc.do?atchFileId=2a687926f87a423c8e16972813b8fb0d&fileSn=2" alt="완벽한 행사를 위한 기록, 의궤">
+								
+							
+						</div>
+						<div class="modal-footer">
+							<input type="checkbox" id="popupCheck107">
+							<label for="popupCheck107">오늘하루 보지않음</label>
+							<button type="button" class="close popupClose" data-dismiss="modal" title="닫기">&times;</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+		
+		<script>
+			$(function(){
+				//main popup
+				$('.modal.popup').each(function(){
+					if( getCookie($(this).attr('id')) != 'Y' ){
+						$(this).modal({
+							backdrop : false
+						});
+						$(this).modal('show');
+					}else{
+						$(this).modal('hide');
+					}
+				});
+				$('.modal.popup').on('shown.bs.modal', function() {
+					$('body').css({
+						'overflow-y':'scroll !important'
+					});
+					$('body').removeClass('modal-open');
+					//$('body').niceScroll(scrollConfig);
+				});
+
+				$('.popupClose').on('click', function(){
+					var todayHide = $(this).closest('.popup').find('input[type="checkbox"]').prop('checked');
+					if( todayHide == true ){
+						setCookie($(this).closest('.popup').attr('id'), 'Y', 1);
+					}
+				});
+			});
+		</script>
+	
+
+      <div id="fullpage">
+        <div class="section">
+          <div class="main-slider">
+            <div class="swiper-wrapper">
+            	
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+						
+						
+							
+							
+								
+							
+						
+						
+							
+							
+								
+									<div class="swiper-slide">
+										<div class="slide-img">
+											<img src="/cmmn/file/imageSrc.do?atchFileId=10f1ddb53e5b41b1bb0184d8eb49f0f1&fileSn=1" alt="">
+										</div>
+										<div class="slide-tit">조선왕조의 기록을 담다</div>
+									</div>
+								
+								
+							
+						
+					
+				
+					
+						
+						
+							
+							
+								
+							
+						
+						
+							
+							
+								
+									<div class="swiper-slide">
+										<div class="slide-img">
+											<img src="/cmmn/file/imageSrc.do?atchFileId=f24fc8d4d72645e6a0431f15cd65b3f4&fileSn=1" alt="">
+										</div>
+										<div class="slide-tit">조선왕조의 기록을 담다</div>
+									</div>
+								
+								
+							
+						
+							
+							
+								
+								
+							
+						
+					
+				
+					
+						
+						
+							
+							
+								
+							
+						
+						
+							
+							
+								
+								
+							
+						
+							
+							
+								
+									<div class="swiper-slide">
+										<div class="slide-img">
+											<img src="/cmmn/file/imageSrc.do?atchFileId=62d36e63ae5b40fb887022a7c65f9618&fileSn=2" alt="">
+										</div>
+										<div class="slide-tit">조선왕조의 기록을 담다</div>
+									</div>
+								
+								
+							
+						
+					
+				
+					
+						
+						
+							
+							
+								
+							
+						
+						
+							
+							
+								
+									<div class="swiper-slide">
+										<div class="slide-img">
+											<img src="/cmmn/file/imageSrc.do?atchFileId=b7d0684bac3b4773907891e1d788714d&fileSn=1" alt="">
+										</div>
+										<div class="slide-tit">조선왕조의 기록을 담다</div>
+									</div>
+								
+								
+							
+						
+							
+							
+								
+								
+							
+						
+					
+				
+					
+						
+						
+							
+							
+								
+							
+						
+						
+							
+							
+								
+									<div class="swiper-slide">
+										<div class="slide-img">
+											<img src="/cmmn/file/imageSrc.do?atchFileId=f0a523aa68964d64afc0caadea5841e5&fileSn=1" alt="">
+										</div>
+										<div class="slide-tit">조선왕조의 기록을 담다</div>
+									</div>
+								
+								
+							
+						
+							
+							
+								
+								
+							
+						
+					
+				
+            </div>
+            <div class="custom-controler">
+              <div class="custom-pagination"></div>
+              <div class="control-buttons">
+                <button class="play-btn"></button>
+                <button class="pause-btn"></button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 전시실 -->
+        <div class="section" id="section1">
+          <div class="inner">
+            <h3 class="sec-tit">전시실</h3>
+            <div class="sec-cont">
+              <div class="ex-room">
+                <ul class="ex-list">
+                  <li class="ex-item">
+                    <div class="ex-block">
+                      <p class="ex-tit">기획전시실</p>
+                      <div class="ex-info">
+                        <!-- *추후 문구 확정 시 노출 될 것으로 판단됨* <div class="ex-info-left">
+                          <p class="ex-txt">조선왕조실록의 기록을 담다</p>
+                          <p class="ex-sum">
+                            역사와 문화를 잘 이해하실 수 있는<br />
+                            대표 소장품과 학술정보를 공개하고 있습니다.
+                          </p>
+                        </div> -->
+                        <a href="/sillok/bbs/BMSR00002/list.do?searchLang=LANGUAGE_005&menuNo=1300010" class="ex-link">이동하기</a>
+                      </div>
+                    </div>
+                  </li>
+
+                  <li class="ex-item">
+                    <div class="ex-block">
+                      <p class="ex-tit">상설전시실</p>
+                      <div class="ex-info">
+                        <!-- *추후 문구 확정 시 노출 될 것으로 판단됨* <div class="ex-info-left">
+                          <p class="ex-txt">깊은 산 속에 품은 조선왕조의 역사</p>
+                          <p class="ex-sum">
+                            국립조선왕조실록박물관에 다시 자리 잡게 된<br />
+                            오대산사고본 실록과 의궤의 역사적 가치와 의미를<br />
+                            되새길 수 있는 시간이 되었으면 합니다.
+                          </p>
+                        </div> -->
+                        <a href="/sillok/main/contents.do?menuNo=1300028" class="ex-link">이동하기</a>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="ex-item">
+                    <div class="ex-block">
+                      <p class="ex-tit">어린이박물관</p>
+                      <div class="ex-info">
+                        <!-- *추후 문구 확정 시 노출 될 것으로 판단됨* <div class="ex-info-left">
+                          <p class="ex-txt">조선왕조실록, 역사를 지키다</p>
+                          <p class="ex-sum">
+                            조선왕조실록은 1대 태조(太祖)부터 25대 철종(哲宗)에 이르는<br />
+                            조선시대 역대 왕들의 행적을 중심으로 472년(1392~1863)간의<br />
+                            역사를 연 · 월 · 일 순으로 담은 역사서입니다.
+                          </p>
+                        </div> -->
+                        <!--  -->
+                        <!-- <a href="/sillok/main/contents.do?menuNo=1300088" class="ex-link">이동하기</a> -->
+                        <a href="/sillok/main/contents.do?menuNo=1300088" class="ex-link">이동하기</a>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- // 전시실 -->
+
+        <!-- 소장품 -->
+        <div class="section" id="section2">
+          <div class="inner">
+            <h3 class="sec-tit">소장품</h3>
+            <div class="sec-cont">
+              <div class="collec">
+                <ul class="collec-list">
+                  <li class="collec-item collec-item-01">
+                    <a href="/sillok/pgm/psgudMng/list.do?menuNo=1300012&searchClCd=PCC_037" class="collec-link">
+                      <span class="collec-txt">조선왕조실록</span>
+                    </a>
+                  </li>
+                  <li class="collec-item collec-item-02">
+                    <a href="/sillok/pgm/psgudMng/list.do?menuNo=1300012&searchClCd=PCC_022" class="collec-link">
+                      <span class="collec-txt">의궤</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- // 소장품 -->
+
+        <!-- 교육 -->
+        <div class="section" id="section3">
+          <div class="inner">
+            <h3 class="sec-tit">교육</h3>
+            <div class="sec-cont">
+              <div class="edu-wrap">
+                <ul class="edu-list">
+
+                
+				
+				
+					
+						
+							
+						
+					
+
+				
+
+				
+				
+				
+					
+						
+							
+						
+					
+
+				
+
+				
+				
+				
+					
+						
+							
+						
+					
+
+				
+
+				
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- // 교육 -->
+
+        <!-- 알림 -->
+        <div class="section" id="section4">
+          <div class="inner">
+            <h3 class="sec-tit">알림</h3>
+            <div class="sec-cont">
+              <div class="ale-wrap">
+                <div class="ale-left">
+                  <div class="tabs">
+                  	<div class="tabs-nav">
+                    <ul class="tab-list">
+                      <li class="tab-item">
+                        <button class="tab-link active" data-tab="tab1">전체</button>
+                      </li>
+                      <li class="tab-item">
+                        <button class="tab-link" data-tab="tab2">공지사항</button>
+                      </li>
+                      <li class="tab-item">
+                        <button class="tab-link" data-tab="tab3">보도자료</button>
+                      </li>
+                      <li class="tab-item">
+                        <button class="tab-link" data-tab="tab4">채용정보</button>
+                      </li>
+                    </ul>
+                    <a href="#" class="more-btn"><span class="for-a11y">더보기</span></a>
+                    </div>
+                    <div class="tab-contents">
+                      <div id="tab1" class="tab-panel active">
+                        <ul class="not-list">
+                          	
+                          	
+                          	
+                          	
+								
+									
+									
+								
+
+								
+								
+							
+                          <li class="not-item">
+                            <a href="/sillok/bbs/BMSR00022/view.do?boardId=7029&gubunCd=B22_001&menuNo=1300017">
+                              <div class="not-block">
+                                <span class="not-tag">
+                                	 공지
+                                </span>
+                                <p class="not-tit">국립조선왕조실록박물관 디지털 외사고 설계공모 심사결과</p>
+                                <span class="not-date">
+                                	2026.11.02
+                                </span>
+                              </div>
+                            </a>
+                          </li>
+                          
+                          	
+                          	
+                          	
+								
+									
+									
+								
+
+								
+								
+							
+                          <li class="not-item">
+                            <a href="/sillok/bbs/BMSR00022/view.do?boardId=6986&gubunCd=B22_001&menuNo=1300017">
+                              <div class="not-block">
+                                <span class="not-tag">
+                                	 공지
+                                </span>
+                                <p class="not-tit">국립조선왕조실록박물관 디지털 외사고 건립 설계공모 공고</p>
+                                <span class="not-date">
+                                	2026.08.19
+                                </span>
+                              </div>
+                            </a>
+                          </li>
+                          
+                          	
+                          	
+                          	
+								
+									
+									
+								
+
+								
+								
+							
+                          <li class="not-item">
+                            <a href="/sillok/bbs/BMSR00022/view.do?boardId=6985&gubunCd=B22_001&menuNo=1300017">
+                              <div class="not-block">
+                                <span class="not-tag">
+                                	 공지
+                                </span>
+                                <p class="not-tit">2026년 을지연습 안내</p>
+                                <span class="not-date">
+                                	2026.08.18
+                                </span>
+                              </div>
+                            </a>
+                          </li>
+                          
+                          	
+                          	
+                          	
+								
+
+								
+								
+								
+									
+										
+									
+									
+								
+							
+                          <li class="not-item">
+                            <a href="/sillok/bbs/BMSR00022/view.do?boardId=6949&gubunCd=B22_003&menuNo=1300109">
+                              <div class="not-block">
+                                <span class="not-tag">
+                                	 채용
+                                </span>
+                                <p class="not-tit">국립조선왕조실록박물관 청원경찰 신규채용 최종합격자 공고</p>
+                                <span class="not-date">
+                                	2026.07.13
+                                </span>
+                              </div>
+                            </a>
+                          </li>
+                          
+                        </ul>
+                      </div>
+
+
+                      <div id="tab2" class="tab-panel">
+                        <ul class="not-list">
+                          
+                          
+                          	
+                          	
+								
+									
+								
+								
+								
+							
+                          <li class="not-item">
+                            <a href="/sillok/bbs/BMSR00022/view.do?boardId=7029&gubunCd=B22_001&menuNo=1300017">
+                              <div class="not-block">
+                                <span class="not-tag">
+                                	공지
+                                </span>
+                                <p class="not-tit">국립조선왕조실록박물관 디지털 외사고 설계공모 심사결과</p>
+                                <span class="not-date">
+                                	2026.11.02
+                                </span>
+                              </div>
+                            </a>
+                          </li>
+                          
+                          
+                          	
+                          	
+								
+									
+								
+								
+								
+							
+                          <li class="not-item">
+                            <a href="/sillok/bbs/BMSR00022/view.do?boardId=6986&gubunCd=B22_001&menuNo=1300017">
+                              <div class="not-block">
+                                <span class="not-tag">
+                                	공지
+                                </span>
+                                <p class="not-tit">국립조선왕조실록박물관 디지털 외사고 건립 설계공모 공고</p>
+                                <span class="not-date">
+                                	2026.08.19
+                                </span>
+                              </div>
+                            </a>
+                          </li>
+                          
+                          
+                          	
+                          	
+								
+									
+								
+								
+								
+							
+                          <li class="not-item">
+                            <a href="/sillok/bbs/BMSR00022/view.do?boardId=6985&gubunCd=B22_001&menuNo=1300017">
+                              <div class="not-block">
+                                <span class="not-tag">
+                                	공지
+                                </span>
+                                <p class="not-tit">2026년 을지연습 안내</p>
+                                <span class="not-date">
+                                	2026.08.18
+                                </span>
+                              </div>
+                            </a>
+                          </li>
+                          
+                          
+                          	
+                          	
+								
+									
+								
+								
+								
+							
+                          <li class="not-item">
+                            <a href="/sillok/bbs/BMSR00022/view.do?boardId=6944&gubunCd=B22_001&menuNo=1300017">
+                              <div class="not-block">
+                                <span class="not-tag">
+                                	공지
+                                </span>
+                                <p class="not-tit">2026년 국립조선왕조실록박물관 청년 국제 교류프로그램 참가자 모집 공고</p>
+                                <span class="not-date">
+                                	2026.07.09
+                                </span>
+                              </div>
+                            </a>
+                          </li>
+                          
+                        </ul>
+                      </div>
+                      <div id="tab3" class="tab-panel">
+                        <ul class="not-list">
+                          
+                          
+                          	
+                          	
+								
+								
+									
+								
+								
+							
+                          <li class="not-item">
+                            <a href="/sillok/bbs/BMSR00022/view.do?boardId=6278&gubunCd=B22_002&menuNo=1300018">
+                              <div class="not-block">
+                                <span class="not-tag">
+                                	보도
+                                </span>
+                                <p class="not-tit">1606년 오대산사고, 2023년 11월 12일 '국립조선왕조실록박물관'으로 재탄생 </p>
+                                <span class="not-date">
+                                	2023.11.09
+                                </span>
+                              </div>
+                            </a>
+                          </li>
+                          
+                        </ul>
+                      </div>
+                      <div id="tab4" class="tab-panel">
+                        <ul class="not-list">
+                          
+                          
+                          	
+                          	
+								
+								
+								
+									
+								
+							
+                          <li class="not-item">
+                            <a href="/sillok/bbs/BMSR00022/view.do?boardId=6949&gubunCd=B22_003&menuNo=1300065">
+                              <div class="not-block">
+                                <span class="not-tag">
+                                	채용
+                                </span>
+                                <p class="not-tit">국립조선왕조실록박물관 청원경찰 신규채용 최종합격자 공고</p>
+                                <span class="not-date">
+                                	2026.07.13
+                                </span>
+                              </div>
+                            </a>
+                          </li>
+                          
+                          
+                          	
+                          	
+								
+								
+								
+									
+								
+							
+                          <li class="not-item">
+                            <a href="/sillok/bbs/BMSR00022/view.do?boardId=6935&gubunCd=B22_003&menuNo=1300065">
+                              <div class="not-block">
+                                <span class="not-tag">
+                                	채용
+                                </span>
+                                <p class="not-tit">국립조선왕조실록박물관 청원경찰 채용 서류전형 합격자 발표 및 체력전형·면접일정 공고</p>
+                                <span class="not-date">
+                                	2026.07.02
+                                </span>
+                              </div>
+                            </a>
+                          </li>
+                          
+                          
+                          	
+                          	
+								
+								
+								
+									
+								
+							
+                          <li class="not-item">
+                            <a href="/sillok/bbs/BMSR00022/view.do?boardId=6913&gubunCd=B22_003&menuNo=1300065">
+                              <div class="not-block">
+                                <span class="not-tag">
+                                	채용
+                                </span>
+                                <p class="not-tit">2026년 국립조선왕조실록박물관 청원경찰 공개채용공고</p>
+                                <span class="not-date">
+                                	2026.06.08
+                                </span>
+                              </div>
+                            </a>
+                          </li>
+                          
+                          
+                          	
+                          	
+								
+								
+								
+									
+								
+							
+                          <li class="not-item">
+                            <a href="/sillok/bbs/BMSR00022/view.do?boardId=6893&gubunCd=B22_003&menuNo=1300065">
+                              <div class="not-block">
+                                <span class="not-tag">
+                                	채용
+                                </span>
+                                <p class="not-tit">2026년 5차 국립조선왕조실록박물관 공무직근로자(조리원, 시설물청소원) 최종합격자 공고</p>
+                                <span class="not-date">
+                                	2026.05.21
+                                </span>
+                              </div>
+                            </a>
+                          </li>
+                          
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="ale-right">
+                  <div class="visit-info">
+                    <p class="visit-tit">관람안내</p>
+                    <ul class="info-list">
+                      <li class="info-item">
+                        <p class="info-tit">관람시간</p>
+                        <p class="info-txt">
+                        	하절기(3~10월) : 09:30~17:30 <br />
+                          	동절기(11~2월) : 09:30~17:00
+                        </p>
+                      </li>
+                      <li class="info-item">
+                        <p class="info-tit">휴관일</p>
+                        <p class="info-txt">매주 월요일, 1월 1일, 설날과 추석 명절 당일</p>
+                      </li>
+                      <li class="info-item">
+                        <p class="info-tit">관람료</p>
+                        <p class="info-txt">무료관람</p>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="loc-guide">
+                    <a href="/sillok/main/contents.do?menuNo=1300033">찾아오시는 길</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- footer -->
+          <!-- <footer style="height: 389px; background-color: rgba(0, 0, 0, 0.5); color: #fff; padding: 20px 100px; font-size: 24px">
+            footer area ** 해당 태그의 style의 경우 영역확인을 위한 임의 소스입니다.
+          </footer> -->
+
+          
+
+
+
+<footer>
+		<button type="button" id="gotop">TOP</button>
+		<div class="inner">
+			<div class="left">
+				<div class="logo"><img src="/resources/josun/img/main/footer_logo.jpg" alt="국립조선왕조실록 박물관 National Museum of the Annals of the Joseon Dynasty"></div>
+				<address>강원특별자치도 평창군 진부면 오대산로 176<br>T.033-330-7900</address>
+				<p class="copy">© 2023 National Museum of the Annals of the Joseon Dynasty. All rights reserved.</p>
+			</div>
+			<div class="mid">
+				<a href="https://www.epeople.go.kr/" target="_blank" title="새창열림">민원신청</a>
+				<a href="/sillok/bbs/BMSR00009/list.do?menuNo=1300007" title="페이지 이동">자주하는 질문</a>
+				<a href="http://gogung.go.kr/gogung/main/contents.do?menuNo=800150" title="페이지 이동" class="information">개인정보처리방침</a>
+				<a href="http://gogung.go.kr/gogung/main/contents.do?menuNo=800151" title="페이지 이동">저작권정책</a>
+				<a href="http://gogung.go.kr/gogung/main/contents.do?menuNo=800152" title="페이지 이동">이메일무단수집거부</a>
+				<a href="https://www.redwhistle.org/report/report.asp?organ=7721&amp;RType=1" target="_blank" title="새창열림">성폭력 신고센터</a>
+				<a href="https://www.lost112.go.kr/" target="_blank" title="새창열림">경찰청 유실물 통합포털</a>
+				<a href="https://www.khs.go.kr/robbery/selectRobberyNewList.do?mn=NS_03_12" target="_blank" title="새창열림">도난 국가유산 정보</a>
+			</div>
+			<div class="right">
+				<select class="foot-select" title="관련기관 바로가기 새창열림">
+					<option value="">관련기관 바로가기</option>
+					<option value="https://www.cha.go.kr/main.html">국가유산청</option>
+					<optgroup label="국가유산청 소속기관">
+						<option value="https://www.gogung.go.kr/gogung/main/main.do">국립고궁박물관</option>
+					 	<option value="https://hcs.khs.go.kr/cha/idx/SubIndex.do?mn=HCS">현충사관리소</option>
+						<option value="https://royal.khs.go.kr/ROYAL/contents/menuInfo-gbg.do?grpCode=rtm">세종대왕유적관리소</option>
+					 	<option value="https://700.khs.go.kr/agapp/main/index.do?siteCd=SH">칠백의총관리소</option>
+					 	<option value="https://www.khs.go.kr/agapp/main/index.do?siteCd=MANIN">만인의총관리소</option>
+					 	<option value="https://royal.khs.go.kr/ROYAL/contents/menuInfo-gbg.do?grpCode=gbg">경복궁관리소</option>
+					 	<option value="https://royal.khs.go.kr/ROYAL/contents/menuInfo-gbg.do?grpCode=cdg">창덕궁관리소</option>
+					 	<option value="https://royal.khs.go.kr/ROYAL/contents/menuInfo-gbg.do?grpCode=dsg">덕수궁관리소</option>
+					 	<option value="https://royal.khs.go.kr/ROYAL/contents/menuInfo-gbg.do?grpCode=cgg">창경궁관리소</option>
+					 	<option value="https://royal.khs.go.kr/ROYAL/contents/menuInfo-gbg.do?grpCode=jms">종묘관리소</option>
+					 	<option value="https://royal.khs.go.kr/ROYAL/contents/menuInfo-gbg.do?grpCode=rtm">조선왕릉관리소</option>
+					 	<option value="https://www.nihc.go.kr/">국립무형유산원</option>
+					 	<option value="https://www.nrich.go.kr/kor/index.do">국립문화유산연구원</option>
+					 	<option value="https://www.seamuse.go.kr/">국립해양유산연구소</option>
+					 	<option value="https://royal.khs.go.kr/ROYAL/main/index.do">궁능유적본부</option>
+					</optgroup>
+					<optgroup label="국가유산청 산하기관">
+						<option value="https://www.kh.or.kr/kha">국가유산진흥원</option>
+						<option value="https://www.overseaschf.or.kr">국외소재문화유산재단</option>
+					 	<option value="https://nationaltrustkorea.org/">문화유산국민신탁</option>
+					 	<option value="https://www.unesco-ichcap.org/?lang=ko">유네스코아태무형유산센터</option>
+					 	<option value="http://www.kofta.org/">전통건축수리기술진흥재단</option>
+					</optgroup>
+				</select>
+				<div class="sns_w">
+					<p class="en">SNS</p>
+					<div class="foot-sns">
+						<!-- <a href="http://wa.or.kr/board/list.asp?BoardID=0006" class="accessibility" target="_blank" title="과학기술정보통신부 국가 공인 인증기관 : 웹와치 WEB ACCESSIBILITY 새창열림">과학기술정보통신부 국가 공인 인증기관 : 웹와치 WEB ACCESSIBILITY</a> -->
+						<a href="https://www.facebook.com/gogungmuseum?fref=ts" class="facebook" target="_blank" title="새창열림">페이스북</a>
+						<a href="https://twitter.com/gogungmuseum" class="twitter" target="_blank" title="새창열림">트위터</a>
+						<!-- <a href="https://www.instagram.com/gogungmuseum/" class="insta" target="_blank" title="새창열림">인스타그램</a> -->
+						<a href="https://www.instagram.com/sillokmuseum?igsh=MWM3eWFoYnVtNnk1dw==" class="insta" target="_blank" title="새창열림">인스타그램</a>
+						<a href="https://www.youtube.com/channel/UCUiGN-UunAlsdwDIxj6fNAw" class="youtube" target="_blank" title="새창열림">유튜브</a>
+						<a href="https://blog.naver.com/gogungmuseum" class="blog" target="_blank" title="blog 새창열림">블로그</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-55DG50FG9R"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-55DG50FG9R');
+	</script>
+
+	<div class="dim"></div>
+
+          <!-- // footer -->
+        </div>
+        <!-- // 알림 -->
+      </div>
+    </div>
+
+
+
+	<div class="quick_bar">
+		<div class="tit_box" tabindex="0">
+			<p>관람안내</p>
+			<img src="/resources/josun/img/main/icon_quick.png" alt="">
+		</div>
+		<ul class="cont_box">
+			<li>
+				<img src="/resources/josun/img/main/icon_tourtime.png" alt="">
+				<div class="cont_w">
+					<p class="tit">관람시간</p>
+					<p class="cont">하절기(3~10월) 09:30~17:30 <br>동절기(11~2월) 09:30~17:00<br><span>* 입장 마감은 관람시간 종료 30분 전</span></p>
+				</div>
+			</li>
+			<li>
+				<img src="/resources/josun/img/main/icon_holiday.png" alt="">
+				<div class="cont_w">
+					<p class="tit">휴관일</p>
+					<p class="cont">매주 월요일, 1월 1일, <br>설날과 추석 명절 당일</p>
+				</div>
+			</li>
+			<li>
+				<img src="/resources/josun/img/main/icon_ticket.png" alt="">
+				<div class="cont_w">
+					<p class="tit">관람료</p>
+					<p class="cont">무료 관람</p>
+				</div>
+			</li>
+		</ul>
+	</div>
+	<script>
+		var fileSnList = new Array();
+		var fileIdList = new Array();
+
+		function fileDown(atchFileId, list){
+			var startFlag = false;
+
+			fileId = atchFileId;
+			var snList = list.split(",");
+			snList.pop();
+			if(fileSnList.length == 0) {
+				startFlag = true;
+			}
+			for(var sn of snList) {
+				fileSnList.push(sn);
+				fileIdList.push(atchFileId);
+			}
+			if(startFlag) {
+				initTimer();
+			}
+		}
+
+		initTimer = function() {
+			location.href="/sillok/cmmn/file/fileDown.do?atchFileId=" + fileIdList[0] + "&fileSn=" + fileSnList[0];
+			fileSnList.shift();
+			fileIdList.shift();
+			if (fileSnList.length > 0) {
+				setTimeout("initTimer()", 500);
+			} else {
+			}
+		}
+
+		//더 보기 탭 링크 변경
+		 $('.tab-link').on('click', function() {
+		    const tab = $(this).data('tab');
+		    var $moreBtn = $('.more-btn');
+
+		    // 각 탭에 따라 이동할 주소 설정
+		    if (tab === 'tab2') {
+		    	$moreBtn.attr('href', "/sillok/bbs/BMSR00022/list.do?gubunCd=B22_001&menuNo=1300017");
+		    } else if (tab === 'tab3') {
+		    	$moreBtn.attr('href', "/sillok/bbs/BMSR00022/list.do?gubunCd=B22_002&menuNo=1300018");
+		    } else if (tab === 'tab4') {
+		    	$moreBtn.attr('href', "/sillok/bbs/BMSR00022/list.do?gubunCd=B22_003&menuNo=1300109");
+		    } else {
+
+		    }
+		  });
+	</script>
+
+  </body>
+</html>

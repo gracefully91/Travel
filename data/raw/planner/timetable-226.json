@@ -1,0 +1,36 @@
+
+<link href="/resources/css/reset.css" rel="stylesheet" type="text/css"/>
+<link href="/resources/css/swiper.min.css" rel="stylesheet" type="text/css"/>
+<link href="/resources/css/ui.css" rel="stylesheet" type="text/css"/>
+<link href="/resources/css/style.css?v=20260608_6" rel="stylesheet" type="text/css"/>
+<link href="/resources/css/aos.css" rel="stylesheet" type="text/css"/>
+<link href="/resources/css/loading.css" rel="stylesheet" type="text/css"/>
+<link href="/resources/css/datepicker.min.css" rel="stylesheet" type="text/css"/>
+<link href="/resources/css/jquery.fullpage.css" rel="stylesheet" type="text/css"/>
+<link href="/resources/css/jquery-ui.css" rel="stylesheet" type="text/css"/>
+
+<section>
+    <div class="container fullpage" style="">
+        <section class="login">
+            <div class="login-group-box">
+                <div class="form-box">
+                    <div class="row" style="justify-content: center; font-size: 1.5rem; font-weight: 700; margin-bottom: 10%">
+                        오류가 발생했습니다.
+                    </div>
+                    <div class="row">
+                        <p>
+                            잘못된 접근입니다. 관리자에게 문의해주세요.
+                        </p>
+                    </div>
+                    <div class="row">
+                        <a href="/" style="margin: auto;margin-top: 30px;">
+                            <button type="submit" class="form-btn">메인화면으로</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</section>
+
+<script src="/resources/js/ui.js"></script>

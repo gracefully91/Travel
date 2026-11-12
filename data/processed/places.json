@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "역 앞 출발 지점",
+    "lat": 37.6428196,
+    "lon": 128.5741253,
+    "sourceWay": 548366613,
+    "status": "App demo point on mapped footway; not a surveyed entrance"
+  },
+  {
+    "id": 2,
+    "name": "역 앞 보행 공간",
+    "lat": 37.64306176,
+    "lon": 128.57437994,
+    "sourceWay": 548366613,
+    "status": "App demo point on mapped footway; not a surveyed entrance"
+  },
+  {
+    "id": 3,
+    "name": "주차장 방향",
+    "lat": 37.6433241,
+    "lon": 128.5746558,
+    "sourceWay": 548366613,
+    "status": "App demo point on mapped footway; not a surveyed entrance"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "checks": [
+    "Actual compressed KTX GLB loads with local Draco",
+    "Model dimensions align to a train about 204m by 2.91m",
+    "Dense fittings omitted and draw groups instanced",
+    "Official morning service appears in Gangneung direction",
+    "Gangneung train travels northeast",
+    "Seoul service uses separate opposite track",
+    "Seoul train travels southwest",
+    "No invented overnight scheduled train",
+    "Manual button starts Gangneung demo regardless of clock",
+    "Pause freezes manual train",
+    "Road portal enters town directly without opening an info card",
+    "City label reveals OSM details only when selected",
+    "Switching maps replaces the old Canvas and keeps only one",
+    "Return portal loads station directly",
+    "Mobile scene has no horizontal overflow",
+    "Mobile train status does not overlap location label",
+    "Mobile road portal enters town without confirmation or an open info card",
+    "Mobile city information is available on demand",
+    "No browser or asset errors"
+  ],
+  "errors": [],
+  "model": {
+    "source": "/models/transportation/KTX-Sancheon.glb",
+    "sourceSize": [
+      203.70671754770066,
+      3.9743079977923528,
+      2.9117558002473327
+    ],
+    "length": 203.58388159249344,
+    "width": 2.91,
+    "height": 3.971911474373422,
+    "drawGroups": 121,
+    "triangles": 589534,
+    "omittedDenseFittings": 124
+  }
+}

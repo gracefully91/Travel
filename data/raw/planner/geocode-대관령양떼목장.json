@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 271521328,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1132161302,
+    "lat": "37.6867570",
+    "lon": "128.7528354",
+    "category": "building",
+    "type": "yes",
+    "place_rank": 30,
+    "importance": 0.000045001144426596745,
+    "addresstype": "building",
+    "name": "대관령양떼목장 매표소",
+    "display_name": "대관령양떼목장 매표소, 대관령마루길, 대관령면, 평창군, 강원특별자치도, 25342, 대한민국",
+    "boundingbox": [
+      "37.6867247",
+      "37.6867892",
+      "128.7527937",
+      "128.7528771"
+    ]
+  }
+]

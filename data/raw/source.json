@@ -1,0 +1,61 @@
+{
+  "origin": {
+    "lat": 37.64273279258768,
+    "lon": 128.57445636859865
+  },
+  "stationNode": {
+    "type": "node",
+    "id": 10591459522,
+    "tags": {
+      "alt_name": "진부역;오대산역",
+      "alt_name:en": "Jinbu station;Odaesan Station",
+      "alt_name:ja": "珍富駅;五台山駅",
+      "alt_name:ja-Hira": "チンブヨク;オデサンヨク",
+      "alt_name:ko-Hani": "珍富驛;五臺山驛",
+      "alt_name:zh": "珍富站;五臺山站",
+      "alt_name:zh-Hans": "珍富站;五台山站",
+      "alt_name:zh-Hant": "珍富站;五臺山站",
+      "name": "진부(오대산)",
+      "name:en": "Jinbu (Odaesan)",
+      "name:ja": "珍富",
+      "name:ja-Hira": "チンブ",
+      "name:ko": "진부(오대산)",
+      "name:zh": "珍富(五臺山)",
+      "operator": "한국철도공사",
+      "operator:en": "Korea Railroad Corporation",
+      "operator:ko": "한국철도공사",
+      "operator:short": "KORAIL",
+      "operator:type": "public",
+      "operator:wikidata": "Q18169",
+      "operator:wikipedia": "en:Korail",
+      "public_transport": "station",
+      "railway": "station",
+      "railway:ref": "진부",
+      "station": "train",
+      "train": "yes",
+      "wikidata": "Q31179712",
+      "wikipedia": "ko:진부역"
+    },
+    "geometry": [],
+    "lat": 37.6425685,
+    "lon": 128.5748224
+  },
+  "station": {
+    "id": 545414817,
+    "length": 71.23035940724037,
+    "width": 27.934158666340732,
+    "angle": 0.9346283936350219,
+    "rotationY": -0.9346283936350219
+  },
+  "acquiredAt": "2026-11-11",
+  "originMethod": "Area centroid of OSM station footprint (equirectangular local projection)",
+  "source": "https://www.openstreetmap.org/api/0.6/map?bbox=128.5705,37.6396,128.5784,37.6459",
+  "license": "© OpenStreetMap contributors · ODbL 1.0",
+  "terrain": "Flat; no DEM applied",
+  "assumptions": [
+    "Road widths derived from lane count or type when width absent",
+    "Building heights default to 7 m",
+    "Platform height, canopy design, markings, people and vehicles are illustrative",
+    "GLB fit to OSM oriented footprint; entrance orientation is a visual approximation, not survey-verified"
+  ]
+}

@@ -1,0 +1,1242 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+<meta content="yes" name="apple-mobile-web-app-capable">
+	<head>
+	    <meta charset="UTF-8">
+		<title>평창군 버스정보시스템</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Cache-Control" content="No-Cache">
+        <meta http-equiv="Pragma" content="No-Cache">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretendard/dist/web/static/pretendard.css">
+		<meta name="description" content="평창군 버스정보시스템입니다.<br />BIS 소개, 공지사항, 배차시간표, 교통카드 충전소, 이용요금 및 운수사 메뉴가 있습니다.">
+
+        <meta property="og:type" content="website"> 
+        <meta property="og:title" content="평창군 버스정보시스템">
+        <meta property="og:description" content="평창군 버스정보시스템입니다.<br />BIS 소개, 공지사항, 배차시간표, 교통카드 충전소, 이용요금 및 운수사 메뉴가 있습니다.">
+        <meta property="og:url" content="">
+
+		
+		
+			
+			
+				<meta name="naver-site-verification" content="71dd133d24e6aa25af7ce2182eb420347ff2e686" />
+				<meta name="keywords" content="평창 버스,평창군 버스,평창 버스정보,평창군 버스정보,평창 시내버스,평창군 시내버스,평창 시외버스,평창군 시외버스,평창 대중교통,평창군 대중교통,평창 농어촌버스,평창군 농어촌버스,평창 교통,평창군 교통,평창 버스터미널,평창군 버스터미널,평창 시외버스터미널,평창군 시외버스터미널,평창공영버스터미널 평창 관광,평창군 관광">
+			
+			
+			
+			
+			
+			
+			
+
+			
+		
+
+	    <link href="/resources/css/reset.css" rel="stylesheet" type="text/css"/>
+	    <link href="/resources/css/swiper.min.css" rel="stylesheet" type="text/css"/>
+	    <link href="/resources/css/ui.css" rel="stylesheet" type="text/css"/>
+	    <link href="/resources/css/style.css" rel="stylesheet" type="text/css"/>
+	    <link href="/resources/css/aos.css" rel="stylesheet" type="text/css"/>
+	    <link href="/resources/css/loading.css" rel="stylesheet" type="text/css"/>
+		<link href="/resources/css/datepicker.min.css" rel="stylesheet" type="text/css"/>
+		<link href="/resources/css/jquery.fullpage.css" rel="stylesheet" type="text/css"/>
+		<link href="/resources/css/jquery-ui.css" rel="stylesheet" type="text/css"/>
+		
+		<script src="/resources/js/jquery.min.js"></script>
+		<script src="/resources/js/jquery-ui-1.12.1.js"></script>
+		<script src="/resources/js/swiperjs.js"></script>
+		<script src="/resources/js/ui.js"></script>
+		<script src="/resources/js/jquery.loading.min.js"></script>
+		<script src="/resources/js/jquery.ui.touch-punch.min.js"></script>
+	</head>
+	<body tabindex="-1" class="city-pyeongchang">
+	    
+
+
+
+
+
+
+
+
+	<style>
+		.visual-box {
+			background-position: top!important;
+		}
+		
+		/* 평창 배너 스타일 */
+		.pyeongchang-banner-wrapper {
+			background: linear-gradient(to right, #ffffff 0%, #ffffff 45%, #1CA34C 55%, #1CA34C 100%);
+			position: relative;
+		}
+		
+		.pyeongchang-banner {
+			position: relative;
+			background: transparent;
+		}
+		
+		.banner-close-btn {
+			position: absolute;
+			top: 10px;
+			right: 10px;
+			width: 32px;
+			height: 32px;
+			background-color: rgba(0, 0, 0, 0.6);
+			color: #ffffff;
+			border: none;
+			border-radius: 50%;
+			font-size: 24px;
+			line-height: 1;
+			cursor: pointer;
+			z-index: 10;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			transition: background-color 0.2s ease;
+		}
+		
+		.banner-close-btn:hover {
+			background-color: rgba(0, 0, 0, 0.8);
+		}
+		
+		.banner-close-btn:active {
+			background-color: rgba(0, 0, 0, 1);
+		}
+		
+		@media (max-width: 1024px) {
+			.banner-close-btn {
+				width: 28px;
+				height: 28px;
+				font-size: 20px;
+				top: 8px;
+				right: 8px;
+			}
+		}
+	</style>
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=GT-NSKC663B"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'GT-NSKC663B');
+</script>
+
+<header class="">
+	<div class="inner wrap">
+		<h1 class="logo-box">
+			
+				
+				
+					<a href="/" style="background: url('/resources/img/pyeongchang/ic_logo.webp') no-repeat center /contain;"></a>
+				
+			
+		</h1>
+		<nav>
+			<a class="nav-close-btn mobile" href="javascript:mobileMenuClose();"></a>
+			<ul class="menu-list">
+				
+					
+					
+						<li class="menu-box"><a class="menu-btn" href="/introduction">BIS 소개</a></li>
+						<li class="menu-box"><a class="menu-btn" href="/board/notice/list">공지사항</a></li>
+						<li class="menu-box"><a class="menu-btn" href="/qna/list">QnA</a></li>
+						
+							
+							
+								<li class="menu-box" style="position: relative;">
+									<a class="menu-btn" id="nav-schedule">배차시간표</a>
+									<ul class="header-depth1" >
+										<li style="position: relative; letter-spacing: -1px;">
+											<a id="nav-schedule2">마을 버스 배차시간표</a>
+											<ul class="header-depth-menu header-depth2" style="width: 155px;right: -160px;top: -2px;">
+												<li>
+													<a href="/schedule?type=village&route=mitan">미탄</a>
+												</li>
+												<li>
+													<a href="/schedule?type=village&route=banglim">방림</a>
+												</li>
+											</ul>
+										</li>
+										<li style="letter-spacing: -1px;">
+											<a href="/schedule?type=rural">농어촌 버스 배차시간표</a>
+										</li>
+										<li style="letter-spacing: -1px;">
+											<a href="/schedule?type=intercity">시외버스 배차시간표</a>
+										</li>
+									</ul>
+								</li>
+							
+							
+							
+							
+							
+                            
+							
+						
+						<li class="menu-box">
+						    <a class="menu-btn" href="/search">실시간 검색</a>
+						</li>
+						
+						    
+                            
+                                <li class="menu-box">
+                                    <a class="menu-btn" href="/info">이용요금 및 운수사</a>
+                                </li>
+                            
+						
+
+
+					
+				
+				
+				
+			</ul>
+			<div class="nav-info-box mobile">
+				<div class="nav-logo-box">
+					<img alt="로고" src="/resources/img/pyeongchang/ic_logo.webp">
+				</div>
+			</div>
+		</nav>
+		<div class="option-box">
+			<div class="lang-box">
+				<div id="lang-select-box">
+					<div id="lang-select">
+						
+							
+							KR
+						
+					</div>
+				</div>
+				<div id="lang-box" class="hidden">
+					<div class="lang-option" data-lang="KR">KR</div>
+					<div class="lang-option" data-lang="EN">EN</div>
+				</div>
+			</div>
+			<div class="nav-box mobile">
+				<a class="nav-btn" href="javascript:mobileMenuOpen();"></a>
+			</div>
+
+		</div>
+	</div>
+
+	
+</header>
+
+<script>
+	var isEn = 'kr' === 'en';
+	var isMobile = window.innerWidth < 1024;
+
+	if (isEn && !isMobile) {
+		$('.logo-box').css("left", "-20px");
+	}
+
+	$("#nav-schedule").click(function () {
+		$(".header-depth1").toggle()
+		$(".header-depth2").hide()
+	})
+
+	$("#nav-info-jeongseon").click(function () {
+        $(".header-depth1-info").toggle()
+    })
+
+	$("#nav-admin-menu").click(function () {
+		$(".header-depth1-admin").toggle()
+	})
+
+	$("#nav-schedule-js").click(function () {
+		$(".header-depth3").toggle()
+	})
+
+	$("#nav-schedule2").click(function (e) {
+		
+		var isMobile = window.innerWidth < 1024;
+		if (isMobile) {
+			// 모바일에서 평창일 때: header-depth1이 숨겨져 있으면 먼저 show
+			if (!$(".header-depth1").is(":visible")) {
+				$(".header-depth1").show();
+			}
+		}
+		
+		$(".header-depth2").toggle()
+	})
+
+	var isAdminMenuMobile = window.innerWidth < 1024;
+	if (!isAdminMenuMobile) {
+		$(".admin-menu-box").hover(
+				function () {
+					$(".header-depth1-admin").show();
+				},
+				function () {
+					$(".header-depth1-admin").hide();
+				}
+		);
+	}
+
+	
+	
+	
+	
+    
+	
+	var isMobile = window.innerWidth < 1024;
+	if (!isMobile) {
+		$("body > header > div > nav > ul > li:nth-child(4)").hover(
+				function () { // 마우스 오버 시
+					$(".header-depth1").show();
+				},
+				function () { // 마우스 아웃 시
+					$(".header-depth1").hide();
+					$(".header-depth2").hide();
+				}
+		);
+
+		$("body > header > div > nav > ul > li:nth-child(4) > ul > li:nth-child(1)").hover(
+				function () { // 마우스 오버 시
+					$(".header-depth2").show();
+				},
+				function () { // 마우스 아웃 시
+					$(".header-depth2").hide();
+				}
+		);
+
+	}
+	
+	
+	
+
+	// 평창 배너 닫기 기능
+	
+	$('#pyeongchang-banner-close').on('click', function(e) {
+		e.preventDefault();
+		e.stopPropagation();
+		$('#pyeongchang-banner-wrapper').fadeOut(300, function() {
+			$(this).remove();
+		});
+	});
+	
+
+</script>
+
+	    
+
+
+
+
+
+
+
+<section class="page-visual">
+	<div class="visual-box visual-1" style="background: url(/resources/img/pyeongchang/img_main_visual.webp) no-repeat 30% 62%/cover;">
+		<div class="visual-txt-box">
+			<div class="main-box">배차시간표</div>
+		</div>
+	</div>
+</section>
+
+<section class="page-contents">
+
+	<section class="information">
+
+		<div class="inner wrap">
+
+			<article class="table-layout-form2" >
+				<div class="information-form-list">
+					<div class="information-form-box">
+						<div class="form-head-box">
+							<div class="tit-box" style="
+										border-left: 10px solid #169E5C;
+										padding-left: 10px;
+										margin-top: 30px;">농어촌 버스 배차시간표</div>
+						</div>
+					</div>
+				</div>
+
+				<div id="schedule-container">
+				    <img  style="width: 100%;"src="/resources/img/pyeongchang/pc_terminal_time.png">
+				</div>
+			</article>
+
+		</div>
+
+	</section>
+
+</section>
+
+
+
+<section class="main-help" style="background: url(/resources/img/pyeongchang/img_main_help_bg.webp) no-repeat center bottom/cover;">
+	<div class="inner wrap">
+		<article class="section-tit-box">
+			<div class="tit-box">
+				<i class="ic ic-help"></i>
+				<div class="tit-txt" style="color: #fff;">무엇을 도와드릴까요?</div>
+			</div>
+		</article>
+		<div class="list-box">
+			<div class="list-wrap">
+				<ul>
+					<li>
+						<a class="item-box" href="/search">
+							<div class="ic-box" style="height: 80px;">
+								<img src="/resources/img/ic_help0.webp" style="height: 100%; padding: 10px;">
+							</div>
+							<div class="txt-box">
+								<div class="subject-box">실시간 검색</div>
+								<div class="con-box">
+									실시간 교통 정보를<br /> 확인해보세요
+								</div>
+							</div>
+						</a>
+					</li>
+
+					<li>
+						<a class="item-box" href="
+							
+							
+								/navi
+							
+						">
+							<div class="ic-box">
+								
+									
+									
+										<img src="/resources/img/ic_help1.webp">
+									
+								
+							</div>
+							<div class="txt-box">
+								<div class="subject-box">길찾기</div>
+								<div class="con-box">
+									처음가는 길이라도<br /> 검색 한 번으로 손쉽게
+								</div>
+							</div>
+						</a>
+					</li>
+
+					
+						
+							<li class="schedule-menu-item" style="position: relative;">
+								<a class="item-box schedule-toggle" href="javascript:void(0);">
+									<div class="ic-box">
+										<img src="/resources/img/ic_help7.webp" style="width: 81px;">
+									</div>
+									<div class="txt-box">
+										<div class="subject-box">배차시간표</div>
+										<div class="con-box">
+											시내버스<br />노선별 운행시간표를<br />안내합니다.
+										</div>
+									</div>
+								</a>
+								<!-- 배차시간표 하위 메뉴 패널 -->
+								<div class="schedule-submenu-panel">
+									<div class="submenu-container">
+										<!-- 마을버스 -->
+										<div class="submenu-item">
+											<a class="submenu-button village-bus-btn" href="javascript:void(0);">
+												<span class="btn-text">마을버스</span>
+												<span class="btn-arrow">›</span>
+											</a>
+											<div class="village-submenu-panel">
+												<a class="village-submenu-link" href="/schedule?type=village&route=mitan">
+													미탄
+												</a>
+												<a class="village-submenu-link" href="/schedule?type=village&route=banglim">
+													방림
+												</a>
+											</div>
+										</div>
+										<!-- 농어촌 버스 배차시간표 -->
+										<div class="submenu-item">
+											<a class="submenu-button" href="/schedule?type=rural">
+												<span class="btn-text">농어촌 버스 배차시간표</span>
+											</a>
+										</div>
+										<!-- 시외버스 배차시간표 -->
+										<div class="submenu-item">
+											<a class="submenu-button" href="/schedule?type=intercity">
+												<span class="btn-text">시외버스 배차시간표</span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</li>
+						
+						
+					
+
+					
+						<li><a class="item-box" href="/info?type=transfer">
+							<div class="ic-box">
+								<img src="/resources/img/ic_help3.webp">
+							</div>
+							<div class="txt-box">
+								<div class="subject-box">무료환승 안내</div>
+								<div class="con-box">
+									환승에 대한 궁금증을<br /> 모두 해결해드립니다.
+								</div>
+							</div>
+						</a></li>
+					
+
+					<li><a class="item-box" href="https://txbus.t-money.co.kr/main.do " target="_blank">
+						<div class="ic-box" style="height: 80px;">
+							<img src="/resources/img/ic_help4.webp" style="height: 100%; padding: 10px;">
+						</div>
+						<div class="txt-box">
+							<div class="subject-box">시외버스</div>
+							<div class="con-box">
+								시외버스 운행정보를 확인해보세요.
+							</div>
+						</div>
+					</a></li>
+
+					<li><a class="item-box" href="https://www.letskorail.com" target="_blank">
+						<div class="ic-box" style="height: 80px;">
+							<img src="/resources/img/ic_help5.webp" style="height: 100%;">
+						</div>
+						<div class="txt-box">
+							<div class="subject-box">철도교통</div>
+							<div class="con-box">
+								평창군의 철도정보를 안내합니다.
+							</div>
+						</div>
+					</a></li>
+
+					<li>
+						
+							
+							
+							
+							
+								<a class="item-box" href="https://tour.pc.go.kr/Home/index" target="_blank">
+							
+							
+							
+							
+							
+							
+							
+						
+						<div class="ic-box" style="height: 80px;">
+							<img src="/resources/img/ic_help6.webp" style="height: 100%;">
+						</div>
+						<div class="txt-box">
+							<div class="subject-box">관광</div>
+							<div class="con-box">
+								평창군의 관광정보를 안내합니다.
+							</div>
+						</div>
+					</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</section>
+
+<style>
+	/* 웹 버전에서 한 줄로 배치 */
+@media (min-width: 1025px) {
+	section.main-help .list-box .list-wrap ul {
+		flex-wrap: nowrap !important;
+		position: relative;
+	}
+	
+	section.main-help .list-box .list-wrap ul li {
+		width: auto !important;
+		flex: 1;
+		min-width: 0;
+	}
+	
+	section.main-help .list-box .list-wrap ul li + li {
+		margin-left: 24px;
+	}
+	
+	section.main-help .list-box .list-wrap ul li .item-box {
+		width: 100%;
+	}
+	
+	/* 배차시간표 메뉴 아이템에 position relative */
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item {
+		position: relative;
+	}
+	
+	/* 배차시간표 하위 메뉴 패널 숨김 */
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel {
+		position: absolute;
+		top: 0;
+		left: calc(100% - 24px);
+		width: 300px;
+		z-index: 1000;
+		opacity: 0;
+		visibility: hidden;
+		transform: translateX(-20px);
+		transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s ease;
+		pointer-events: none;
+	}
+	
+	/* 활성화 시 표시 */
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel.active {
+		opacity: 1;
+		visibility: visible;
+		transform: translateX(0);
+		pointer-events: auto;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .submenu-container {
+		width: 100%;
+		min-height: 300px;
+		background-color: #e4e4e4;
+		border-radius: 0 24px 24px 0;
+		padding: 16px;
+		display: flex;
+		flex-direction: column;
+		gap: 8px;
+		box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.15);
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .submenu-item {
+		width: 100%;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .submenu-button {
+		width: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		padding: 16px 20px;
+		background: white;
+		border: none;
+		border-radius: 12px;
+		text-decoration: none;
+		color: #333;
+		font-size: 15px;
+		font-weight: 500;
+		cursor: pointer;
+		transition: all 0.2s ease;
+		box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .submenu-button:hover {
+		background: #f8f8f8;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .submenu-button .btn-arrow {
+		font-size: 20px;
+		color: #0CA678;
+		font-weight: bold;
+		transition: transform 0.2s ease;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .village-bus-btn.active .btn-arrow {
+		transform: rotate(90deg);
+	}
+	
+	/* 마을버스 하위 메뉴 패널 */
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .village-submenu-panel {
+		max-height: 0;
+		overflow: hidden;
+		margin-top: 0;
+		padding: 0 8px;
+		background: transparent;
+		gap: 6px;
+		flex-direction: column;
+		opacity: 0;
+		transition: max-height 0.3s ease, opacity 0.3s ease, margin-top 0.3s ease, padding 0.3s ease;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .village-submenu-panel.active {
+		max-height: 200px;
+		margin-top: 8px;
+		padding: 8px;
+		opacity: 1;
+		display: flex;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .village-submenu-link {
+		padding: 12px 20px 12px 32px;
+		background: white;
+		border-radius: 8px;
+		text-decoration: none;
+		color: #555;
+		font-size: 14px;
+		transition: all 0.2s ease;
+		display: block;
+		box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+		position: relative;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .village-submenu-link:before {
+		content: '•';
+		position: absolute;
+		left: 16px;
+		color: #0CA678;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .village-submenu-link:hover {
+		background: #e8f5f1;
+		color: #0CA678;
+		transform: translateX(2px);
+	}
+}
+
+/* 모바일 버전 */
+@media (max-width: 1024px) {
+	section.main-help .list-box .list-wrap ul {
+		flex-direction: column !important;
+	}
+	
+	section.main-help .list-box .list-wrap ul li {
+		width: 100% !important;
+	}
+	
+	section.main-help .list-box .list-wrap ul li + li {
+		margin: 16px 0 0 !important;
+	}
+	
+	/* 모바일에서는 하위 메뉴를 카드 아래에 표시 */
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel {
+		position: relative !important;
+		left: 0 !important;
+		width: 100% !important;
+		margin-top: 10px !important;
+		max-height: 0;
+		overflow: hidden;
+		opacity: 0;
+		transform: translateY(-10px);
+		transition: max-height 0.4s ease, opacity 0.4s ease, transform 0.4s ease, margin-top 0.4s ease;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel.active {
+		max-height: 500px;
+		opacity: 1;
+		transform: translateY(0);
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .submenu-container {
+		background-color: rgba(255, 255, 255, 0.98);
+		border-radius: 24px !important;
+		padding: 15px;
+		display: flex;
+		flex-direction: column;
+		gap: 10px;
+		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
+		min-height: auto !important;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .submenu-item {
+		width: 100%;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .submenu-button {
+		width: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		padding: 16px 20px;
+		background: white;
+		border: none;
+		border-radius: 12px;
+		text-decoration: none;
+		color: #333;
+		font-size: 15px;
+		font-weight: 500;
+		cursor: pointer;
+		box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .submenu-button .btn-arrow {
+		font-size: 20px;
+		color: #0CA678;
+		font-weight: bold;
+		transition: transform 0.2s ease;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .village-bus-btn.active .btn-arrow {
+		transform: rotate(90deg);
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .village-submenu-panel {
+		max-height: 0;
+		overflow: hidden;
+		margin-top: 0;
+		padding: 0 8px;
+		background: transparent;
+		border-radius: 10px;
+		gap: 6px;
+		flex-direction: column;
+		opacity: 0;
+		transition: max-height 0.3s ease, opacity 0.3s ease, margin-top 0.3s ease, padding 0.3s ease;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .village-submenu-panel.active {
+		max-height: 200px;
+		margin-top: 8px;
+		padding: 8px;
+		opacity: 1;
+		display: flex;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .village-submenu-link {
+		padding: 12px 16px 12px 32px;
+		background: white;
+		border-radius: 8px;
+		text-decoration: none;
+		color: #555;
+		font-size: 14px;
+		display: block;
+		box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+		position: relative;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .village-submenu-link:before {
+		content: '•';
+		position: absolute;
+		left: 16px;
+		color: #0CA678;
+	}
+	
+	section.main-help .list-box .list-wrap ul li.schedule-menu-item .schedule-submenu-panel .village-submenu-link:hover {
+		background: #e8f5f1;
+		color: #0CA678;
+	}
+}
+</style>
+
+<script>
+$(document).ready(function() {
+	// 배차시간표 메인 메뉴 토글
+	$('.schedule-toggle').on('click', function(e) {
+		e.preventDefault();
+		var $panel = $(this).closest('.schedule-menu-item').find('.schedule-submenu-panel');
+		$panel.toggleClass('active');
+	});
+
+	// 마을버스 버튼 클릭 시 하위 메뉴 토글
+	$('.village-bus-btn').on('click', function(e) {
+		e.preventDefault();
+		var $button = $(this);
+		var $submenu = $button.siblings('.village-submenu-panel');
+		
+		$button.toggleClass('active');
+		$submenu.toggleClass('active');
+	});
+});
+</script>
+
+
+<script src="/resources/js/ui.js"></script>
+<style>
+	.filter-box {
+		padding: 10px;
+	}
+	#sido {
+		padding: 10px;
+	} @media(max-width: 1024px) {
+		#sido {
+			padding: 0;
+		}
+	}
+
+	.lypop {
+		position: fixed !important;
+	}
+</style>
+<script>
+	// 1~3는 인제, 4는 평창
+	const terminal = {
+		"1" : {
+			"동서울": [
+				"06:55",
+				"08:00",
+				"08:20",
+				"08:30",
+				"08:40",
+				"09:30",
+				"10:10",
+				"10:50",
+				"11:40",
+				"12:30",
+				"12:50",
+				"13:20",
+				"14:10",
+				"15:00",
+				"16:30",
+				"17:30",
+				"17:50",
+				"18:25",
+				"19:30"
+			],
+			"수원": [
+				"08:00",
+				"11:15",
+				"13:45",
+				"16:35",
+				"18:45"
+			],
+			"성남": [
+				"08:40",
+				"12:55",
+				"17:25"
+			],
+			"의정부": [
+				"09:40",
+				"12:55",
+				"17:55"
+			],
+			"고양": [
+				"07:55",
+				"13:55",
+				"18:55"
+			],
+			"안산": [
+				"08:35",
+				"11:05",
+				"17:35"
+			],
+			"원주": [
+				"08:05",
+				"09:50",
+				"11:45",
+				"12:25",
+				"13:45",
+				"14:55",
+				"16:50",
+				"17:50",
+				"19:45"
+			],
+			"춘천": [
+				"07:15",
+				"12:50"
+			],
+			"해안": [
+				"18:35"
+			],
+			"대전": [
+				"11:45",
+				"12:25",
+				"13:45"
+			],
+			"속초(미시령터널)": [
+				"08:20",
+				"08:50",
+				"09:40",
+				"10:50",
+				"12:40",
+				"14:00",
+				"14:20",
+				"16:00",
+				"16:45",
+				"19:20",
+				"20:10"
+			],
+			"한계령/양양/속초": [
+				"08:20",
+				"09:20",
+				"13:15",
+				"14:50",
+				"15:40",
+				"20:30"
+			],
+			"간성.대진": [
+				"08:30",
+				"10:00",
+				"11:10",
+				"13:10",
+				"16:45",
+				"19:20",
+				"21:20"
+			],
+			"전주": [
+				"08:05",
+				"09:50",
+				"13:45"
+			]
+		},
+		"2" : {"동서울":["07:05","08:00","08:40","09:40","10:20","11:00","12:40","13:30","14:20","15:10","16:40","17:40","18:30","18:35","19:40"],"고양":["08:05","19:05"],"안산":["17:45"],"수원":["11:25","13:55"],"의정부":["09:50"],"전주":["08:15","10:00","11:55 (유성경유)","13:55 (유성경유)"],"대전":["12:35"],"원주":["08:15","10:00","11:55","12:35","13:55","15:05","17:00","18:00","19:55"],"횡성":["11:55","12:35","13:35"],"홍천":["첫차 : 07:05 ~ 막차 : 19:40 약 40분간격"],"춘천":["07:25","13:00"],"속초":["08:00 (양양)","08:10 (미시령)","08:40 (미시령)","09:00 (양양)","09:30 (미시령)","12:50 (양양)","14:10 (미시령)","14:30 (양양)","15:30 (양양)","15:50 (미시령)","20:10 (양양)"],"간성.대진":["08:20","09:50","10:50","13:30","16:30 (간성착)","18:30","21:15"],"원통": ["첫차 : 07:35  ~ 막차 : 20:50 약 40분 간격 "],"해안":["18:00"]},
+		"3" : {
+			"현리→동서울": [
+				"07:30(홍천경유)",
+				"08:00(홍천경유)",
+				"08:10(무정차)",
+				"12:10(홍천경유)",
+				"15:00(무정차)"
+			],
+			"동서울→현리": [
+				"08:15(홍천경유)",
+				"10:25(홍천경유)",
+				"11:30(우등.무정차)",
+				"14:05(홍천경유)",
+				"16:30(우등.무정차)",
+				"17:55(홍천경유)"
+			],
+			"현리→홍천": [
+				"08:50",
+				"14:50",
+				"17:00",
+				"19:00"
+			],
+			"홍천→현리": [
+				"08:00",
+				"09:30",
+				"11:50",
+				"13:30",
+				"15:30",
+				"17:45",
+				"19:15",
+				"20:00"
+			]
+		},
+		"4" : {
+			"강릉→원주": {
+				"강릉": ["16:00", "17:20", "12:00", "10:50", "08:10", "14:50"],
+				"횡계": ["16:30", "17:50", "12:30", "11:20", "08:40", "15:20"],
+				"진부": ["16:50", "18:10", "12:50", "11:40", "09:00", "15:40"],
+				"장평": ["17:13", "18:33", "13:13", "12:03", "09:23", "16:03"],
+				"둔내": ["17:38", "00:00", "00:00", "12:28", "09:48", "00:00"],
+				"원주": ["18:15", "19:30", "14:10", "13:05", "10:25", "17:00"]
+			},
+			"정선→원주": {
+				"정선" : ["10:20", "17:40", "06:40", "13:20"],
+				"평창" : ["10:55", "18:15", "07:15", "13:55"],
+				"대화" : ["11:17", "18:37", "07:37", "14:17"],
+				"장평" : ["11:40", "19:00", "08:00", "14:40"],
+				"원주" : ["12:30", "19:50", "08:50", "15:30"]
+			},
+			"원주→강릉": {
+				"원주": ["19:20", "07:00", "15:30", "13:55", "11:20", "17:55"],
+				"둔내": ["00:00", "07:35", "00:00", "00:00", "11:55", "00:00"],
+				"장평": ["20:20", "08:05", "16:30", "14:50", "12:30", "18:55"],
+				"진부": ["20:43", "08:28", "16:53", "15:13", "12:53", "19:18"],
+				"횡계": ["21:03", "08:48", "17:13", "15:33", "13:13", "19:38"],
+				"강릉": ["21:30", "09:15", "17:40", "16:00", "13:40", "20:05"]
+			},
+			"원주→정선": {
+				"원주" : ["06:40", "13:40", "17:40", "10:20"],
+				"장평" : ["07:35", "14:35", "18:35", "11:15"],
+				"대화" : ["07:53", "14:53", "18:53", "11:33"],
+				"평창" : ["08:15", "15:15", "19:15", "11:55"],
+				"정선" : ["08:50", "15:50", "19:50", "12:30"]
+			}
+		}
+	}
+
+	$(document).ready(function () {
+		$("#schedule-container").removeClass('schedule-pc-container')
+		let data = terminal[5];
+		if (data !== terminal[4]) {
+			for (key in data) {
+				let html = '<div class="schedule-frame">'
+				html += '<div class="schedule-name">'
+				html += '<span>'+key+'</span>'
+				html += '</div>'
+				html += '<div class="schedule-list">'
+				for (i = 0; i < data[key].length; i++) {
+					var aTime = data[key][i];
+					html += '<div class="schedule-list-item">' + aTime + '</div>'
+				}
+				html += '</div>'
+				html += '</div>'
+
+				$("#schedule-container").append(html)
+			}
+		} else {
+			for (key1 in data) {
+				let html = '<div class="schedule-frame" style="flex-direction: column;">'
+				html += '<div class="schedule-name">'
+				html += '<span>'+key1+'</span>'
+				html += '</div>'
+				html += '<div class="schedule-list-li schedule-list-li-m">'
+					for (key2 in data[key1]) {
+					html += '<div class="schedule-list schedule-list-m margin-left-10" style="flex-direction: column;">'
+					html += '<span class="schedule-title schedule-title-m">'+key2+'</span>'
+					for (i = 0; i < data[key1][key2].length; i++) {
+						var aTime = data[key1][key2][i];
+						if (aTime === '00:00') {
+							html += '<div class="schedule-list-item schedule-list-item-m schedule-item-empty" style="background-color: white; margin-right: 0;">' + aTime + '</div>'
+						} else {
+							html += '<div class="schedule-list-item schedule-list-item-m" style="margin-right: 0;">' + aTime + '</div>'
+						}
+					}
+					html += '</div>'
+				}
+				html += '</div></div>'
+				$("#schedule-container").addClass('schedule-pc-container')
+				$("#schedule-container").append(html)
+			}
+		}
+	});
+</script>
+	    
+
+
+
+
+
+
+<footer>
+	<div class="inner wrap">
+
+		<div class="footer-info-box">[25374] 강원특별자치도 평창군 평창읍 군청길 77</div>
+
+		
+		
+		
+
+		
+			<div class="footer-info-box">
+				
+					
+					
+						
+						
+							<div class="cs-call" style="display: inline-flex;">
+								버스정보도우미 : 080-085-8888
+							</div>
+						
+					
+					
+					
+					
+					
+					
+				
+				
+			</div>
+		
+
+		
+	</div>
+</footer>
+
+		<script>
+			// lang-box를 클릭하면 lang-select-box의 표시 상태를 토글
+			document.querySelector('.lang-box').addEventListener('click', function() {
+				const langSelect = document.querySelector('#lang-box');
+				langSelect.classList.toggle('hidden'); // 클래스 숨김/표시
+			});
+
+			// 언어 옵션 선택 시 이벤트 처리
+			document.querySelectorAll('#lang-box .lang-option').forEach(option => {
+				option.addEventListener('click', function() {
+					// 모든 옵션에서 'selected' 클래스를 제거하고 클릭한 요소에만 추가
+					document.querySelectorAll('#lang-box .lang-option').forEach(opt => opt.classList.remove('selected'));
+					this.classList.add('selected');
+
+					// 선택된 언어 값을 가져와서 #lang-select 텍스트와 URL 변경
+					const selectedLang = this.getAttribute('data-lang');
+					document.getElementById('lang-select').textContent = selectedLang; // #lang-select 텍스트 변경
+					window.location.href = window.location.pathname + "?lang=" + selectedLang;
+				});
+			});
+
+
+		    function loading(type) {
+		        if(type == 'stop') {
+		            $('body').loading('stop');
+		        } else {
+		            $('body').loading({theme: 'dark'});
+		        }
+		    }
+
+		    function download(url) {
+                $.ajax({
+                    url : url,
+                    type : "GET",
+                    cache: false,
+                    xhrFields: {
+                        responseType: "blob",
+                    },
+                    beforeSend: function( xhr ) {
+                        loading();
+                    },
+                    complete: function () {
+                        loading('stop');
+                    },
+                    success : function(blob, status, xhr) {
+                        if (blob.type !== undefined) {
+							if(blob.type.indexOf('application/octet-stream') >= 0) {
+								var fileName = "";
+								var disposition = xhr.getResponseHeader("Content-Disposition");
+
+								if (disposition && disposition.indexOf("attachment") !== -1) {
+									var filenameRegex = /filename[^;=\n]*=((['"]).*?\2|[^;\n]*)/;
+									var matches = filenameRegex.exec(disposition);
+
+									if (matches != null && matches[1]) {
+										fileName = decodeURI(matches[1].replace(/['"]/g, ""));
+									}
+								}
+
+								// for IE
+								if (window.navigator && window.navigator.msSaveOrOpenBlob) {
+									window.navigator.msSaveOrOpenBlob(blob, fileName);
+								} else {
+									var URL = window.URL || window.webkitURL;
+									var downloadUrl = URL.createObjectURL(blob);
+
+									if (fileName) {
+										var a = document.createElement("a");
+
+										// for safari
+										if (a.download === undefined) {
+											window.location.href = downloadUrl;
+										} else {
+											a.href = downloadUrl;
+											a.download = fileName;
+											document.body.appendChild(a);
+											a.click();
+										}
+									} else {
+										window.location.href = downloadUrl;
+									}
+								}
+							} else {
+								alert("파일을 찾을 수 없습니다.");
+							}
+						} else {
+							alert("등록된 배차 시간표가 없습니다.");
+						}
+                    },
+                    error: function() {
+                        alert("error");
+                    }
+                });
+		    }
+		</script>
+	</body>
+<style>
+	@media (max-width: 1024px) {
+		section.page-visual .visual-box.visual-1 {
+			background: url("../resources/pyeongchang/img/img_main_visual_m.webp") no-repeat center/cover;
+		}
+	}
+
+	@media (max-width: 1024px) {
+		section.page-visual .visual-box {
+			background: url("../resources/pyeongchang/img/img_main_visual_m.webp") no-repeat center/cover;
+		}
+	}
+
+	@media (max-width: 1024px) {
+		section.foot-service {
+			background: url("../resources/img/pyeongchang/img_main_service_bg_m.webp") no-repeat center/100% 100%;
+		}
+	}
+</style>
+</html>

@@ -1,0 +1,107 @@
+{
+  "checkedAt": "2026-11-11",
+  "places": [
+    {
+      "id": "museum",
+      "name": "국립조선왕조실록박물관",
+      "lat": 37.7177995,
+      "lon": 128.602585,
+      "category": "기록과 역사",
+      "stay": 70,
+      "hours": {
+        "open": 570,
+        "close": 1020,
+        "lastEntry": 990,
+        "closedWeekdays": [
+          1
+        ],
+        "museumHolidays": true,
+        "summerClose": 1050
+      },
+      "hoursSource": "https://sillok.gogung.go.kr/sillok/main/main.do",
+      "hoursNote": "11~2월 09:30~17:00 · 3~10월 17:30 종료 · 입장 마감 30분 전 · 월요일·1/1·설·추석 당일 휴관",
+      "source": "https://www.openstreetmap.org/way/1319749452",
+      "address": "국립조선왕조실록박물관, 오대산로, 간평리, 진부면, 평창군, 강원특별자치도, 25318, 대한민국",
+      "assignedDay": null,
+      "required": false
+    },
+    {
+      "id": "woljeongsa",
+      "name": "월정사 · 전나무숲",
+      "lat": 37.7319368,
+      "lon": 128.5919951,
+      "category": "숲과 산책",
+      "stay": 100,
+      "hours": {
+        "open": 0,
+        "close": 1440
+      },
+      "hoursSource": "https://access.visitkorea.or.kr/ms/detail.do?cotId=f4b6eb22-0757-4a57-a023-8523800c48fb",
+      "hoursNote": "상시 개방 · 연중무휴 안내 / 탐방 통제·기상 상황 별도 확인",
+      "source": "https://www.openstreetmap.org/way/476358120",
+      "address": "월정사, 374-8, 오대산로, 진부면, 평창군, 강원특별자치도, 25318, 대한민국",
+      "assignedDay": null,
+      "required": false
+    },
+    {
+      "id": "sangwonsa",
+      "name": "상원사",
+      "lat": 37.7863695,
+      "lon": 128.5639558,
+      "category": "산사와 자연",
+      "stay": 80,
+      "hours": {
+        "open": 0,
+        "close": 1440
+      },
+      "hoursSource": "https://access.visitkorea.or.kr/ms/detail.do?cotId=8436aab1-5acf-4882-95a0-7ec5a2648725",
+      "hoursNote": "상시 개방 · 연중무휴 안내 / 주차 후 도보 이동 여유 필요",
+      "source": "https://www.openstreetmap.org/node/1012071676",
+      "address": "상원사, 오대산 비로봉 코스, 진부면, 평창군, 강원특별자치도, 25318, 대한민국",
+      "assignedDay": null,
+      "required": false
+    },
+    {
+      "id": "sheep",
+      "name": "대관령양떼목장",
+      "lat": 37.686757,
+      "lon": 128.7528354,
+      "category": "목장과 풍경",
+      "stay": 90,
+      "hoursSource": "https://yangtte.co.kr/fareinformation",
+      "hoursNote": "확인일(2026-11-11) 매표 09:00~16:00. 계절별 종료시간 미확인: 방문일 운영시간을 입력하세요",
+      "source": "https://www.openstreetmap.org/way/1132161302",
+      "address": "대관령양떼목장 매표소, 대관령마루길, 대관령면, 평창군, 강원특별자치도, 25342, 대한민국",
+      "assignedDay": null,
+      "required": false
+    }
+  ],
+  "station": {
+    "id": "jinbu",
+    "name": "진부(오대산)역",
+    "lat": 37.64273279258768,
+    "lon": 128.57445636859865,
+    "category": "교통",
+    "source": "https://www.openstreetmap.org/way/545414817",
+    "hoursNote": "출발·도착 기준점",
+    "stay": 0,
+    "assignedDay": null,
+    "required": false,
+    "hours": {
+      "open": 0,
+      "close": 1440
+    }
+  },
+  "terminal": {
+    "id": "terminal",
+    "name": "진부시외버스터미널",
+    "lat": 37.63615615176021,
+    "lon": 128.55840330438474,
+    "category": "교통",
+    "source": "https://bus.pc.go.kr/search?type=route",
+    "hoursNote": "공식 BIS 정류장 위치 · 매표소 영업시간 미확인",
+    "stay": 15,
+    "assignedDay": null,
+    "required": false
+  }
+}

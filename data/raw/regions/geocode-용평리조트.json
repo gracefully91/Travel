@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 270270551,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 377688820,
+    "lat": "37.6281511",
+    "lon": "128.6777287",
+    "category": "landuse",
+    "type": "winter_sports",
+    "place_rank": 24,
+    "importance": 0.40816634963515963,
+    "addresstype": "winter_sports",
+    "name": "용평리조트",
+    "display_name": "용평리조트, 용산리, 대관령면, 평창군, 강원특별자치도, 25352, 대한민국",
+    "boundingbox": [
+      "37.6097440",
+      "37.6445696",
+      "128.6601014",
+      "128.6940193"
+    ]
+  }
+]

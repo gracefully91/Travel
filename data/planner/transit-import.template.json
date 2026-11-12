@@ -1,0 +1,4 @@
+﻿{
+  "instructions": "확인된 날짜별 운행표만 services 배열에 넣으세요. 형식은 TRANSIT_DB.md를 참고하세요. 이 파일에는 예시 운행시각을 넣지 않습니다.",
+  "services": []
+}

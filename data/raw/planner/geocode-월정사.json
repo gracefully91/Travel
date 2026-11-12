@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": 268556226,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 476358120,
+    "lat": "37.7319368",
+    "lon": "128.5919951",
+    "category": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.3463314325418498,
+    "addresstype": "amenity",
+    "name": "월정사",
+    "display_name": "월정사, 374-8, 오대산로, 진부면, 평창군, 강원특별자치도, 25318, 대한민국",
+    "boundingbox": [
+      "37.7310676",
+      "37.7327708",
+      "128.5904472",
+      "128.5947060"
+    ]
+  },
+  {
+    "place_id": 222086564,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1374378343,
+    "lat": "35.1727329",
+    "lon": "126.9189380",
+    "category": "amenity",
+    "type": "place_of_worship",
+    "place_rank": 30,
+    "importance": 0.00006760738536655249,
+    "addresstype": "amenity",
+    "name": "월정사",
+    "display_name": "월정사, 서방로, 중흥3동, 북구, 광주, 전남광주통합특별시, 61208, 대한민국",
+    "boundingbox": [
+      "35.1727011",
+      "35.1727739",
+      "126.9188672",
+      "126.9190097"
+    ]
+  }
+]

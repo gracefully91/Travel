@@ -1,0 +1,19 @@
+{
+  "checks": [
+    "Idle camera and target stay stationary across 30 frames",
+    "Canvas height stays constant",
+    "Drag damping settles without oscillation",
+    "Home camera tween reaches its exact destination",
+    "Damping restored after automatic movement",
+    "Paused settled map produces identical rendered pixels",
+    "No browser exceptions"
+  ],
+  "errors": [],
+  "diagnostics": {
+    "near": 2,
+    "far": 1800,
+    "controlsDamping": true
+  },
+  "cameraSpan": 0,
+  "browser": "Headless Edge / software WebGL"
+}

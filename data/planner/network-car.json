@@ -1,0 +1,192 @@
+{
+  "acquiredAt": "2026-11-11T09:24:55.884Z",
+  "source": "https://router.project-osrm.org/table/v1/driving/128.57445636859865,37.64273279258768;128.55840330438474,37.63615615176021;128.602585,37.7177995;128.5919951,37.7319368;128.5639558,37.7863695;128.7528354,37.686757?annotations=duration,distance",
+  "places": [
+    {
+      "id": "jinbu",
+      "lat": 37.64273279258768,
+      "lon": 128.57445636859865
+    },
+    {
+      "id": "terminal",
+      "lat": 37.63615615176021,
+      "lon": 128.55840330438474
+    },
+    {
+      "id": "museum",
+      "lat": 37.7177995,
+      "lon": 128.602585
+    },
+    {
+      "id": "woljeongsa",
+      "lat": 37.7319368,
+      "lon": 128.5919951
+    },
+    {
+      "id": "sangwonsa",
+      "lat": 37.7863695,
+      "lon": 128.5639558
+    },
+    {
+      "id": "sheep",
+      "lat": 37.686757,
+      "lon": 128.7528354
+    }
+  ],
+  "durations": [
+    [
+      0,
+      226.2,
+      862.6,
+      1135.3,
+      3020,
+      1648.1
+    ],
+    [
+      211.1,
+      0,
+      813.9,
+      1086.6,
+      2971.3,
+      1558.7
+    ],
+    [
+      860,
+      820.1,
+      0,
+      364.1,
+      2248.8,
+      1946.9
+    ],
+    [
+      1132.8,
+      1092.9,
+      370.7,
+      0,
+      1924.6,
+      2219.7
+    ],
+    [
+      3014.2,
+      2974.3,
+      2252.1,
+      1927.9,
+      0,
+      4101.1
+    ],
+    [
+      1558.9,
+      1478.3,
+      1859,
+      2131.7,
+      4016.4,
+      0
+    ]
+  ],
+  "distances": [
+    [
+      0,
+      2041.9,
+      10537.5,
+      12503,
+      20855,
+      22916.4
+    ],
+    [
+      1922.6,
+      0,
+      11037.6,
+      13003.1,
+      21355.1,
+      23067.8
+    ],
+    [
+      10452,
+      11071.4,
+      0,
+      2328.5,
+      10680.5,
+      22745.1
+    ],
+    [
+      12417.5,
+      13036.9,
+      2328.5,
+      0,
+      8500.4,
+      24710.6
+    ],
+    [
+      20769.5,
+      21388.9,
+      10680.5,
+      8500.4,
+      0,
+      33062.6
+    ],
+    [
+      22487.3,
+      22711.9,
+      22123.7,
+      24089.2,
+      32441.2,
+      0
+    ]
+  ],
+  "snapped": [
+    {
+      "hint": "BzQWhP___38cAAAArwAAADsAAAAAAAAAaM5AQUkwdEKacsJBAAAAABwAAACvAAAAOwAAAAAAAABPcAAA0OKpB7NiPgL446kH7WE-AgQAjwIAAAAA",
+      "location": [
+        128.57416,
+        37.642931
+      ],
+      "name": "",
+      "distance": 34.14278094
+    },
+    {
+      "hint": "mMaNiZnGjYlrAAAAhAAAAEUAAAAAAAAAomm0QZ7A2kEfeGZBAAAAADYAAABCAAAAIwAAAAAAAABPcAAA06WpB_RHPgJDpakHPEg-AgIATw0AAAAA",
+      "location": [
+        128.558547,
+        37.636084
+      ],
+      "name": "",
+      "distance": 15.01515875
+    },
+    {
+      "hint": "ecMPiXzDD4k3AAAAagAAAAAAAABKAQAAU0C3QSsdMEIAAAAAUHkJQzcAAABqAAAAAAAAAEoBAABPcAAAY1OqBwSHPwLZUaoHKIc_AgAArwsAAAAA",
+      "location": [
+        128.602979,
+        37.717764
+      ],
+      "name": "",
+      "distance": 34.96388208
+    },
+    {
+      "hint": "-R8hhfofIYUhAAAAAAAAAJAAAAAAAAAAJM9dQQAAAAD1Y3FCAAAAACEAAAAAAAAAkAAAAAAAAABPcAAAtyiqB-y6PwJ7KKoHYb4_AgYAnxUAAAAA",
+      "location": [
+        128.592055,
+        37.731052
+      ],
+      "name": "",
+      "distance": 98.36960133
+    },
+    {
+      "hint": "sHeNgL-1NYYAAAAASAAAAAAAAADaIwAAAAAAALLMbkEAAAAAvwvvRAAAAAAkAAAAAAAAAO0RAABPcAAAJsapB8CXQAL0uqkHApNAAgAAjwgAAAAAr3eNgI_4zYgAAAAAPgAAAAAAAAB1AgAAAAAAALCFT0EAAAAABPcCQwAAAAAfAAAAAAAAADoBAABPcAAAJsapB8CXQAL0uqkHApNAAgAADwEAAAAA",
+      "location": [
+        128.566822,
+        37.787584
+      ],
+      "name": "오대산로",
+      "distance": 286.1989116
+    },
+    {
+      "hint": "X4-CgVJTmIMeAAAASwAAAMwCAABpAgAAsl8JQQRLpUEL6UZDw4crQx4AAABLAAAAzAIAAGkCAABPcAAAgpysB8sNPwLDnKwH5Q0_AggA3xQAAAAA",
+      "location": [
+        128.75277,
+        37.686731
+      ],
+      "name": "",
+      "distance": 6.419404021
+    }
+  ]
+}

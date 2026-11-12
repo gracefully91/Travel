@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 270215281,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 474530094,
+    "lat": "37.6735929",
+    "lon": "128.7060213",
+    "category": "office",
+    "type": "government",
+    "place_rank": 30,
+    "importance": 0.000045001144426596745,
+    "addresstype": "office",
+    "name": "대관령면사무소",
+    "display_name": "대관령면사무소, 83, 대관령로, 대관령면, 평창군, 강원특별자치도, 25344, 대한민국",
+    "boundingbox": [
+      "37.6734290",
+      "37.6737638",
+      "128.7057708",
+      "128.7063800"
+    ]
+  }
+]

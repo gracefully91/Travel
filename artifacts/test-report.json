@@ -1,0 +1,140 @@
+{
+  "checks": [
+    "Real WebGL scene renders",
+    "Geo origin and east/north axes",
+    "Geo roundtrip < 1e-9 degrees",
+    "All 3 vehicles follow connected closed OSM road loops",
+    "Station-front aisles follow original OSM direction northeast",
+    "OSM snapshot and unrelated roundabout directions are preserved",
+    "Rendered station-front car actually moves northeast",
+    "Rendered car front follows its actual displacement",
+    "One-way, reverse one-way and roundabout direction rules",
+    "Every vehicle route edge is legal and has no instant U-turn",
+    "Two-way roads use right-side lanes",
+    "Drag rotates camera",
+    "Wheel zoom",
+    "Right drag pans",
+    "Traveler and cars animate",
+    "Pause freezes moving objects",
+    "Train animation starts",
+    "Future days show honest placeholder",
+    "Stop selection moves camera",
+    "Station selection opens information",
+    "Route toggle hides pins",
+    "Full area view increases distance",
+    "Data attribution modal opens",
+    "Mobile has no horizontal overflow",
+    "Mobile controls visible",
+    "Mobile panel collapses",
+    "Mobile one-finger touch rotates",
+    "Mobile pinch zoom works",
+    "No browser console errors"
+  ],
+  "errors": [],
+  "diagnostics": {
+    "camera": [
+      -122,
+      125,
+      -177
+    ],
+    "target": [
+      -12,
+      0,
+      -12
+    ],
+    "calls": 307,
+    "triangles": 658949,
+    "motion": {
+      "walker": 18.102980000000205,
+      "vehicle": 68.08880000000086,
+      "train": 89.54899999999995,
+      "vehicles": [
+        {
+          "x": -17.85608900307613,
+          "z": 31.76947350283021,
+          "angle": 0.7028853534316206
+        },
+        {
+          "x": -35.62842945207082,
+          "z": 41.30317846204235,
+          "angle": 0.6871116187126488
+        },
+        {
+          "x": -107.76239435687881,
+          "z": -36.08938408586367,
+          "angle": 2.14550795588635
+        }
+      ]
+    },
+    "trains": {
+      "model": {
+        "source": "/models/transportation/KTX-Sancheon.glb",
+        "sourceSize": [
+          203.70671754770066,
+          3.9743079977923528,
+          2.9117558002473327
+        ],
+        "length": 203.58388159249344,
+        "width": 2.91,
+        "height": 3.971911474373422,
+        "drawGroups": 121,
+        "triangles": 589534,
+        "omittedDenseFittings": 124
+      },
+      "gangneung": {
+        "visible": true,
+        "x": 50.67045621920738,
+        "z": 2.509948079076935,
+        "distance": 511.86814924924215,
+        "kind": "demo",
+        "serviceId": "",
+        "phase": "departing",
+        "elapsed": 89.55510000000051,
+        "dwellRemaining": 0,
+        "track": 971722969,
+        "journey": {
+          "startDistance": 98.25539778149117,
+          "endDistance": 920.1262676401232,
+          "stopDistance": 480.2416429356824,
+          "brakeDistance": 45,
+          "accelerationDistance": 45,
+          "cruiseSeconds": 19.82272030318772,
+          "brakeSeconds": 5.294117647058823,
+          "accelerationSeconds": 5.294117647058823,
+          "approachSeconds": 25.11683795024654,
+          "dwellSeconds": 60,
+          "departureSeconds": 28.52262498261416,
+          "totalSeconds": 113.63946293286071
+        }
+      },
+      "seoul": {
+        "visible": false,
+        "x": 0,
+        "z": 0,
+        "distance": 189.4389053437277,
+        "kind": "none",
+        "serviceId": "",
+        "phase": "hidden",
+        "elapsed": -1,
+        "dwellRemaining": 0,
+        "track": 545488739,
+        "journey": {
+          "startDistance": 189.4389053437277,
+          "endDistance": 1010.622850323787,
+          "stopDistance": 624.4931434634799,
+          "brakeDistance": 45,
+          "accelerationDistance": 45,
+          "cruiseSeconds": 22.94436694822072,
+          "brakeSeconds": 5.294117647058823,
+          "accelerationSeconds": 5.294117647058823,
+          "approachSeconds": 28.23848459527954,
+          "dwellSeconds": 60,
+          "departureSeconds": 25.360570991782772,
+          "totalSeconds": 113.59905558706231
+        }
+      }
+    }
+  },
+  "testedAt": "2026-11-11T16:18:47.884Z",
+  "browser": "Microsoft Edge headless; software WebGL; desktop and mobile viewport"
+}

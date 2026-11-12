@@ -1,0 +1,27 @@
+{
+  "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=kr&q=%EB%B0%94%EB%9E%91%EC%9E%AC",
+  "acquiredAt": "2026-11-12T02:58:11.366Z",
+  "results": [
+    {
+      "place_id": 226079685,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 10303810249,
+      "lat": "35.9188276",
+      "lon": "127.4182963",
+      "category": "natural",
+      "type": "saddle",
+      "place_rank": 22,
+      "importance": 0.10670666742961774,
+      "addresstype": "saddle",
+      "name": "바랑재",
+      "display_name": "바랑재, 운봉리, 진안군, 전북특별자치도, 대한민국",
+      "boundingbox": [
+        "35.9187776",
+        "35.9188776",
+        "127.4182463",
+        "127.4183463"
+      ]
+    }
+  ]
+}

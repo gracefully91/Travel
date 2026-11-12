@@ -1,0 +1,12 @@
+{
+  "id": "jinbu",
+  "bbox": [
+    128.545,
+    37.617,
+    128.59,
+    37.666
+  ],
+  "url": "https://www.openstreetmap.org/api/0.6/map?bbox=128.545,37.617,128.59,37.666",
+  "acquiredAt": "2026-11-11T11:29:17.131Z",
+  "license": "© OpenStreetMap contributors · ODbL 1.0"
+}

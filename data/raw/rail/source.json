@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://www.korail.com/file/cubedata/COMMON/jfile/202610/13/202610131a130b1ac0b200.xlsx",
+  "boardUrl": "https://www.korail.com/com/userBoard.do?mode=view&schBcid=ticketTable&bdIdx=26041",
+  "sourceTitle": "KTX 시간표(2026. 11. 1. 기준)",
+  "file": "korail-ktx-2026-11-01.xlsx",
+  "effectiveFrom": "2026-11-01",
+  "verifiedAt": "2026-11-12",
+  "reviewAfter": "2026-12-12",
+  "sha256": "25a8f8781a5840543dc41e937b717255ad498e98837586acba924775b5f63a92"
+}

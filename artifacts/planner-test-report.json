@@ -1,0 +1,24 @@
+{
+  "checks": [
+    "A searched lodging can be selected with real coordinates",
+    "Auto planner generates visits from real routed matrix",
+    "Government key is honestly disconnected",
+    "Generated day tabs work",
+    "Changes mark old results stale",
+    "Manual pinned day is preserved",
+    "Taxi uses road distance and displays estimate",
+    "Download contains actual dated visits",
+    "Draft survives reload",
+    "Draft retains lodging",
+    "Missing bus schedules produce unplaced stops",
+    "Public transit coverage is loaded from local DB",
+    "User-confirmed timetable can be added",
+    "Timetable can be removed",
+    "Mobile planner has no horizontal overflow",
+    "Mobile planner controls remain usable",
+    "No console errors"
+  ],
+  "errors": [],
+  "testedAt": "2026-11-11T11:48:58.879Z",
+  "browser": "Headless Edge, real OSRM road matrix; 1600px and 390px viewport"
+}

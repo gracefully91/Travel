@@ -1,0 +1,3 @@
+import {Mountain} from 'lucide-react';
+import type {WorldPlace} from './registry';
+export function MapLoading({place,error,onCancel}:{place:WorldPlace;error:string;onCancel:()=>void}){return <div className="map-loading" role={error?'alert':'status'} aria-live="polite"><div className="loading-emblem"><Mountain size={37}/></div><span className="eyebrow">A LITTLE WORLD IS COMING TO LIFE</span><h2>{place.name}</h2><p>{error||'이 장소의 지도와 3D 오브젝트를 준비하고 있습니다.'}</p>{!error&&<div className="loading-track"><span/></div>}<div className="loading-stages"><span>장소 선택</span><span className="current">{error?'불러오기 실패':'지도 · 모델 로딩'}</span><span>3D 탐험</span></div><button onClick={onCancel}>{error?'구역 지도로 돌아가기':'불러오기 취소'}</button></div>}
