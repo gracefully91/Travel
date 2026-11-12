@@ -2,17 +2,18 @@
 
 - 날짜: 2026-11-12
 - 요청 목적: 공개 모바일 화면에서 진부역 모델이 검은색으로 렌더링되는 현상 수정.
-- 원인: 모델의 단일 glTF PBR 재질은 metallic-roughness 텍스처를 사용한다. 장면에 환경 반사 맵이 없어 높은 금속 반응이 있는 표면에서 충분한 반사광을 얻지 못하고 검게 렌더링됐다. GLB 로드는 성공했고 메시와 텍스처 자체는 존재했다.
+- 최초 가설은 환경 반사 맵 부재에 따른 PBR 금속 재질 문제였다. 공개 모바일 화면에서 재현되어 금속도/거칠기 조정만으로 해결되지 않음을 확인했다.
+- 최종 원인: GLB에 이미 NORMAL 속성이 있는데 `StationModel`에서 `geometry.computeVertexNormals()`로 제작 노멀을 덮어쓰고 있었다. 이 처리로 조명 계산이 깨져 모델이 검게 보였다. 메시 압축은 원인이 아니었다.
 - 계획: [진부역 GLB 모바일 재질 표시 수정](../plans/2026-11-12-station-mobile-material.md)
 
 ## 변경
 
-- `src/components/StationModel.tsx`: 모델의 MeshStandardMaterial에서 기존 base-color, normal, metallic-roughness 텍스처는 그대로 두고, 화면 재질의 금속도를 최대 `0.08`, 거칠기를 최소 `0.72`로 제한했다. 금속 표면을 반사 환경 없이 렌더링할 때 어두워지는 원인을 화면용 재질 설정에서 해결했다.
-- 원본 `public/models/jinbu-station.glb`, 텍스처 및 정렬/스케일 데이터는 수정하지 않았다.
+- `src/components/StationModel.tsx`: 불필요한 `computeVertexNormals()` 호출을 제거해 GLB의 제작 노멀을 보존한다. 재질이나 텍스처는 수정하지 않고 원본 PBR을 그대로 사용한다.
+- 원본 `public/models/jinbu-station.glb`, 메시 압축, 텍스처 및 정렬/스케일 데이터는 수정하지 않았다.
 
 ## 검증 및 한계
 
-- `npm run build`: 성공.
-- `npm run test`: 중간 브라우저 단계에서 기존 `Traveler and cars animate` 검사 실패로 종료했다. GLB 로드와 렌더링은 진행됐으며 해당 검사 단계 이전에 브라우저 예외/리소스 오류가 보고되지 않았다. 전체 브라우저 회귀는 통과하지 않았다.
-- 같은 테스트가 생성한 브라우저 캡처를 확인했다. 역 지붕/외벽이 검정 실루엣 대신 회색으로 렌더링되는 것을 확인했다.
-- 모바일 실기기에서 재검증하지는 않았다. Edge 소프트웨어 WebGL 브라우저 검증만 수행했다.
+- 최초 재질 수치 조정 뒤에도 공개판 초기 시점에서 검은 문제가 남아 전체 브라우저 테스트가 `Traveler and cars animate` 단계에서 실패했으며, 이전 수정은 해결이 아니었다.
+- 노멀 재계산 제거 뒤 Edge 소프트웨어 WebGL 모바일(390×844)과 데스크톱(1440×1000) 뷰포트에서 원본 회색/유리 텍스처가 표시되는 것을 확인했다. 브라우저 페이지 오류는 없었다.
+- 최종 수정 후 `npm run build`: 성공. `npm run test:docs`: 링크 누락 없음.
+- 모바일 실기기 검증은 미실행.
