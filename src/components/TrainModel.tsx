@@ -1,7 +1,7 @@
-﻿import {useMemo} from 'react';
+import {useMemo} from 'react';
 import {useGLTF} from '@react-three/drei';
 import * as THREE from 'three';
-export const trainAlignment={asset:'/models/transportation/KTX-Sancheon.glb',decoder:'/decoders/draco/',rotationY:-Math.PI/2,width:2.91,railTop:.48};
+export const trainAlignment={asset:import.meta.env.BASE_URL+'models/transportation/KTX-Sancheon.glb',decoder:import.meta.env.BASE_URL+'decoders/draco/',rotationY:-Math.PI/2,width:2.91,railTop:.48};
 export function useTrainModel(){
  const {scene}=useGLTF(trainAlignment.asset,trainAlignment.decoder);
  return useMemo(()=>{
