@@ -18,6 +18,22 @@ npm run dev
 
 브라우저: **http://localhost:5173/**
 
+## 공개 미리보기
+
+GitHub Pages: **https://gracefully91.github.io/Travel/** · [공개 저장소](https://github.com/gracefully91/Travel)
+
+공개판은 저장소 안의 정적 데이터만 읽어 3D 지도를 표시하고 런타임에 외부 API를 호출하지 않습니다. 일정 계산은 저장된 6개 기본 장소 간 2026-11-11 OSM 경로 snapshot 범위로 제한됩니다. 임의 장소 검색과 조회형 열차 API는 제공하지 않으며 실시간 정체·버스 위치도 없습니다. 현재 BIS 시간표 중 게시일이 2025-12-30인 자료는 자동 일정에서 제외했습니다.
+
+공식 교통 원본과 공개 정적 snapshot을 갱신하려면 네트워크가 연결된 개발 환경에서 실행합니다.
+
+```powershell
+npm run data:transit:fetch
+npm run build
+git add data/raw/transit-updates public/data/transport-snapshot.json
+git commit -m "Refresh public transport snapshot"
+git push
+```
+
 같은 네트워크의 휴대폰은 Vite가 출력하는 Network 주소로 접속할 수 있습니다. 방화벽 허용 여부는 환경에 따라 다릅니다.
 
 ```powershell

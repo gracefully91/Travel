@@ -4,7 +4,7 @@
 
 ## 목차
 
-- [#17 GitHub 공개 저장소와 Pages 배포](./%2317%20github-pages.md) - 공개 저장소 첫 푸시와 정적 Pages 경로 대응; 일정 API의 정적 데이터 전환은 진행 중.
+- [#17 GitHub 공개 저장소와 Pages 배포](./%2317%20github-pages.md) - Pages 배포 완료, 교통 원본 snapshot과 API 없는 공개판 일정 계산 연결.
 - [#16 진부역 교체 GLB 적용](./%2316%20station-asset-refresh.md) - 원본 PBR 재질을 유지하고 Meshopt 디코더를 연결해 네모 대체 모델만 보이던 로드 실패를 수정.
 
 - [#15 리조트권 기본 3D와 바랑재](./%2315%20resorts-area.md) - 전체 외곽 과대 적용을 OSM 정상 4점 정합으로 수정, 공유 리조트 맵과 공식 주소 지도 기반 바랑재.

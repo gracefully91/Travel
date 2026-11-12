@@ -14,7 +14,7 @@ React/TypeScript/Vite/R3F/Three.js, Node SQLite. src/components는 역 맵, src/
 
 - 2026-11-12: 리조트권 기본 3D와 바랑재를 표시한다. 최초 export bbox를 이미지 전체에 대응해 외곽을 과대 적용한 오류를 수정했다. 투구봉·용산·발왕산·1220m 삼각점의 정상 기호와 OSM node 좌표 4점으로 북쪽 위 Mercator를 정합(RMS 약 1.45px)해 빨간 외곽 64점을 적용했다. 건물 151개·도로 369개이며 세 장소는 포함, 도암호는 제외된다. 상세 슬로프/DEM은 후속. [기록](docs/work/%2315%20resorts-area.md), [계획](docs/plans/2026-11-12-resorts-area.md).
 - 2026-11-12: 교체된 진부역 GLB의 PBR 텍스처를 살리고 Meshopt 압축 디코더를 연결했다. 미등록 디코더 때문에 GLB 로드가 실패해 임시 네모 모델이 보이던 문제를 수정했다. 단색 재질 덮어쓰기와 중복 전면 유리 오버레이는 제거했고 OSM 기반 크기·중심·방향 보정은 유지한다. [기록](docs/work/%2316%20station-asset-refresh.md).
-- 2026-11-12: 공개 GitHub 저장소 `gracefully91/Travel`의 `main`에 초기 프로젝트를 푸시했고 GitHub Pages 배포 및 `/Travel/` 정적 경로 지원을 추가했다. Pages 정적 지도에서 서버 API는 실행되지 않으므로 일정 기능의 정적 데이터 전환은 진행 중이다. [계획](docs/plans/2026-11-12-github-pages.md), [기록](docs/work/%2317%20github-pages.md).
+- 2026-11-12: 공개 저장소 `gracefully91/Travel`을 GitHub Pages에 배포했다. 공개판은 로컬 교통 snapshot과 6개 기본 장소의 저장 경로 행렬을 읽으며 런타임 API는 호출하지 않는다. 검증 가능한 최신 버스 출발시각이 없어 자동 대중교통 일정은 제한되고, 검색/조회형 열차 API·실시간 교통은 제공하지 않는다. [계획](docs/plans/2026-11-12-github-pages.md), [기록](docs/work/%2317%20github-pages.md).
 
 - 기존 구현: 진부역 상세 씬의 GLB·OSM 도로·건물·철도·사람·차량, 회전·이동·확대, 구역별 3D 로딩, AI 없는 일정 계산, BIS 노선/정류장 SQLite 및 TAGO 캐시. 진부 터미널 거리·횡계 기본 씬은 OSM을 표시하지만 사람·차량 애니메이션은 아직 연결하지 않았다.
 - 수정 완료: 중복 바닥/깊이 충돌, 지도 좌우 반전, 역 앞 임의 방향 반전 제거. 도로 통행은 원본 OSM 기준.

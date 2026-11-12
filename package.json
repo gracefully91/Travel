@@ -24,6 +24,7 @@
     "data:rail": "python scripts/process-rail-timetable.py",
     "test:docs": "node scripts/check-doc-links.mjs",
     "data:rail:fetch": "python scripts/fetch-rail-timetable.py",
+    "data:transit:fetch": "node scripts/fetch-public-transit.mjs",
     "test:train-motion": "node --test tests/train-journey.test.mjs",
     "test:train-motion:browser": "node tests/train-journey-browser.mjs"
   },
