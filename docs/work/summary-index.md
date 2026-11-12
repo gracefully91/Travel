@@ -4,6 +4,7 @@
 
 ## 목차
 
+- [#18 모바일 진부역 GLB 검은색 표시 수정](./%2318%20station-mobile-material.md) - 환경 반사 없는 씬에 맞춰 GLB 화면 재질의 금속 반응을 낮추고 회색 역사 렌더링을 확인.
 - [#17 GitHub 공개 저장소와 Pages 배포](./%2317%20github-pages.md) - Pages 배포 완료, 교통 원본 snapshot과 API 없는 공개판 일정 계산 연결.
 - [#16 진부역 교체 GLB 적용](./%2316%20station-asset-refresh.md) - 원본 PBR 재질을 유지하고 Meshopt 디코더를 연결해 네모 대체 모델만 보이던 로드 실패를 수정.
 
