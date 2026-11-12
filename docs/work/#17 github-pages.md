@@ -24,8 +24,11 @@
 - 첫 푸시 완료: `078d354` (`main`).
 - 일반 프로덕션 `npm run build` 통과.
 - `GITHUB_PAGES=true npm run build` 통과. 산출물에 `/Travel/` base 경로가 적용되는 것을 확인했다.
-- `npm run test:docs` 통과: 문서 링크 누락 없음.
+- `npm run test:planner` 통과: 15/15.
+- `npm run test:docs` 통과: 문서 36개, 링크 88개, 누락 없음.
 - GitHub Pages 사이트 생성 설정 후 `Deploy GitHub Pages` workflow 성공.
 - 배포 주소: https://gracefully91.github.io/Travel/ · 저장소: https://github.com/gracefully91/Travel
 - `curl`에서 페이지 HTML, 진부 구역 JSON, 진부역 GLB, Draco WASM 응답 모두 HTTP 200이었다. 실제 브라우저 화면/콘솔은 직접 확인하지 않았다.
 - `npm run data:transit:fetch`에서 8개 노선·216개 정류장·KTX 32개 항목을 내보냈다. 버스 자동 일정에서 쓸 수 있는 최신 검증 시각은 0건이다.
+
+- 추가 확인: 공개 교통 snapshot/JS bundle HTTP 200, 정적 planner bundle에는 /api/travel/, OSRM, Nominatim URL 문자열이 없음. 최종 Pages Actions run 43201359617 성공.
